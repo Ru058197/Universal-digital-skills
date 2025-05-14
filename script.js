@@ -76,6 +76,17 @@ function showResult() {
   questionSection.style.display = "none";
   resultSection.style.display = "block";
   const topType = Object.entries(scores).sort((a, b) => b[1] - a[1])[0][0];
-  resultDescription.innerText = `You are most aligned with the "${topType}" Behavioral Twin profile.`;
+  const summary = `You are most aligned with the "${topType}" Behavioral Twin profile.`;
+
+  resultDescription.innerText = summary;
   profileBadge.src = `images/${topType.toLowerCase()}.png`;
+
+  // Generate and assign downloadable results
+  const blob = new Blob([summary], { type: 'text/plain' });
+  const url = URL.createObjectURL(blob);
+  const downloadLink = document.getElementById("download-results");
+  downloadLink.href = url;
+  downloadLink.download = "certivue-results.txt";
+}
+
 }
