@@ -1,50 +1,22 @@
 
+// Placeholder question sets (can be expanded later)
 const delegationQuestions = [
-  {
-    question: "You’re overwhelmed with tasks. What do you do first?",
-    answers: [
-      { text: "Decide what I can delegate and to whom.", score: 1 },
-      { text: "Do it all myself to stay in control.", score: 0 }
-    ]
-  },
-  {
-    question: "Someone on your team makes a mistake on a task you delegated. What’s your reaction?",
-    answers: [
-      { text: "Coach them to learn from it.", score: 1 },
-      { text: "Take it back and fix it myself.", score: 0 }
-    ]
-  },
-  {
-    question: "How often do you follow up after delegating?",
-    answers: [
-      { text: "I check in periodically and offer support.", score: 1 },
-      { text: "I wait until the deadline to see the result.", score: 0 }
-    ]
-  }
+  { question: "How do you assign tasks?", answers: [{ text: "Strategically", score: 1 }, { text: "Randomly", score: 0 }] }
 ];
-
 const ethicsQuestions = [
-  {
-    question: "You see a coworker take credit for someone else's work. What do you do?",
-    answers: [
-      { text: "Raise it privately or with a supervisor.", score: 1 },
-      { text: "Stay out of it — not my problem.", score: 0 }
-    ]
-  },
-  {
-    question: "You’re asked to bend the rules slightly for a client. How do you respond?",
-    answers: [
-      { text: "I politely refuse and explain the policy.", score: 1 },
-      { text: "I do it anyway to keep them happy.", score: 0 }
-    ]
-  },
-  {
-    question: "You find a mistake in data that supports a decision. What do you do?",
-    answers: [
-      { text: "Report it and fix the decision.", score: 1 },
-      { text: "Ignore it — it helps my case.", score: 0 }
-    ]
-  }
+  { question: "How do you handle ethical dilemmas?", answers: [{ text: "Follow principles", score: 1 }, { text: "Look the other way", score: 0 }] }
+];
+const communicationQuestions = [
+  { question: "What’s key to great communication?", answers: [{ text: "Clarity", score: 1 }, { text: "Guesswork", score: 0 }] }
+];
+const timeManagementQuestions = [
+  { question: "How do you prioritize tasks?", answers: [{ text: "By impact and urgency", score: 1 }, { text: "At random", score: 0 }] }
+];
+const projectManagementQuestions = [
+  { question: "What defines successful project management?", answers: [{ text: "Planning and delivery", score: 1 }, { text: "Guessing", score: 0 }] }
+];
+const problemSolvingQuestions = [
+  { question: "How do you solve problems?", answers: [{ text: "Structured thinking", score: 1 }, { text: "Panic", score: 0 }] }
 ];
 
 let currentSkillQuestions = [];
@@ -67,6 +39,10 @@ function startSkill(skill) {
 
   if (skill === 'delegation') currentSkillQuestions = delegationQuestions;
   if (skill === 'ethics') currentSkillQuestions = ethicsQuestions;
+  if (skill === 'communication') currentSkillQuestions = communicationQuestions;
+  if (skill === 'timeManagement') currentSkillQuestions = timeManagementQuestions;
+  if (skill === 'projectManagement') currentSkillQuestions = projectManagementQuestions;
+  if (skill === 'problemSolving') currentSkillQuestions = problemSolvingQuestions;
 
   showQuestion();
 }
