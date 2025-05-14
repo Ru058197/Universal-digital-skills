@@ -14,8 +14,18 @@ header, footer {
 }
 main {
   padding: 2rem;
-  max-width: 800px;
+  max-width: 960px;
   margin: auto;
+}
+#skill-select {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+#skill-select button {
+  flex-shrink: 0;
 }
 button {
   background-color: #0066cc;
