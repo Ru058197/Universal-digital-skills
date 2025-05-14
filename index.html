@@ -26,20 +26,18 @@
   <header class="navbar">
     <h1 class="logo">Certivue</h1>
     <nav>
-      <a href="index.html" class="nav-link">Assessments</a>
+      <a href="#" class="nav-link">Assessments</a>
     </nav>
   </header>
 
   <main class="container">
     <h2>Select a Skill to Validate</h2>
-    <section class="skill-section">
+    <section id="skill-select">
       <h3>Behavioral Skills</h3>
       <div class="skills">
         <button onclick="startSkill('delegation')">Delegation</button>
         <button onclick="startSkill('ethics')">Ethics</button>
       </div>
-    </section>
-    <section class="skill-section">
       <h3>Technical Skills</h3>
       <div class="skills">
         <button onclick="startSkill('python')">Python</button>
@@ -100,7 +98,7 @@
       currentQuestions = questions[skill];
       currentQuestionIndex = 0;
       score = 0;
-      document.getElementById("skill-select")?.style.display = "none";
+      document.getElementById("skill-select").style.display = "none";
       document.getElementById("question-section").style.display = "block";
       document.getElementById("result-section").style.display = "none";
       showQuestion();
