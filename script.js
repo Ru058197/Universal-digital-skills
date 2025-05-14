@@ -1,23 +1,42 @@
 
-// Placeholder question sets (can be expanded later)
-const delegationQuestions = [
-  { question: "How do you assign tasks?", answers: [{ text: "Strategically", score: 1 }, { text: "Randomly", score: 0 }] }
-];
-const ethicsQuestions = [
-  { question: "How do you handle ethical dilemmas?", answers: [{ text: "Follow principles", score: 1 }, { text: "Look the other way", score: 0 }] }
-];
-const communicationQuestions = [
-  { question: "What’s key to great communication?", answers: [{ text: "Clarity", score: 1 }, { text: "Guesswork", score: 0 }] }
-];
-const timeManagementQuestions = [
-  { question: "How do you prioritize tasks?", answers: [{ text: "By impact and urgency", score: 1 }, { text: "At random", score: 0 }] }
-];
-const projectManagementQuestions = [
-  { question: "What defines successful project management?", answers: [{ text: "Planning and delivery", score: 1 }, { text: "Guessing", score: 0 }] }
-];
-const problemSolvingQuestions = [
-  { question: "How do you solve problems?", answers: [{ text: "Structured thinking", score: 1 }, { text: "Panic", score: 0 }] }
-];
+const questions = {
+  delegation: [
+    { question: "How do you assign tasks?", answers: [{ text: "Strategically", score: 1 }, { text: "Randomly", score: 0 }] }
+  ],
+  ethics: [
+    { question: "How do you handle ethical dilemmas?", answers: [{ text: "Follow principles", score: 1 }, { text: "Look the other way", score: 0 }] }
+  ],
+  communication: [
+    { question: "What’s key to great communication?", answers: [{ text: "Clarity", score: 1 }, { text: "Guesswork", score: 0 }] }
+  ],
+  timeManagement: [
+    { question: "How do you prioritize tasks?", answers: [{ text: "By impact and urgency", score: 1 }, { text: "At random", score: 0 }] }
+  ],
+  projectManagement: [
+    { question: "What defines successful project management?", answers: [{ text: "Planning and delivery", score: 1 }, { text: "Guessing", score: 0 }] }
+  ],
+  problemSolving: [
+    { question: "How do you solve problems?", answers: [{ text: "Structured thinking", score: 1 }, { text: "Panic", score: 0 }] }
+  ],
+  python: [
+    { question: "What does 'len([1,2,3])' return?", answers: [{ text: "3", score: 1 }, { text: "Error", score: 0 }] }
+  ],
+  javascript: [
+    { question: "Which is a valid way to declare a variable?", answers: [{ text: "let x = 5;", score: 1 }, { text: "var: x;", score: 0 }] }
+  ],
+  sql: [
+    { question: "What does SELECT * FROM table do?", answers: [{ text: "Returns all columns", score: 1 }, { text: "Deletes all data", score: 0 }] }
+  ],
+  html: [
+    { question: "Which tag creates a hyperlink?", answers: [{ text: "<a>", score: 1 }, { text: "<link>", score: 0 }] }
+  ],
+  cybersecurity: [
+    { question: "What is phishing?", answers: [{ text: "A type of social engineering", score: 1 }, { text: "An antivirus tool", score: 0 }] }
+  ],
+  debugging: [
+    { question: "What is the purpose of a debugger?", answers: [{ text: "To step through code", score: 1 }, { text: "To delete bugs", score: 0 }] }
+  ]
+};
 
 let currentSkillQuestions = [];
 let currentQuestionIndex = 0;
@@ -37,13 +56,7 @@ function startSkill(skill) {
   currentQuestionIndex = 0;
   score = 0;
 
-  if (skill === 'delegation') currentSkillQuestions = delegationQuestions;
-  if (skill === 'ethics') currentSkillQuestions = ethicsQuestions;
-  if (skill === 'communication') currentSkillQuestions = communicationQuestions;
-  if (skill === 'timeManagement') currentSkillQuestions = timeManagementQuestions;
-  if (skill === 'projectManagement') currentSkillQuestions = projectManagementQuestions;
-  if (skill === 'problemSolving') currentSkillQuestions = problemSolvingQuestions;
-
+  currentSkillQuestions = questions[skill];
   showQuestion();
 }
 
