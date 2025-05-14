@@ -29,6 +29,7 @@ const startBtn = document.getElementById("start-btn");
 const resultSection = document.getElementById("result-section");
 const resultDescription = document.getElementById("result-description");
 const profileBadge = document.getElementById("profile-badge");
+const downloadLink = document.getElementById("download-results");
 
 let scores = {
   Builder: 0,
@@ -81,12 +82,9 @@ function showResult() {
   resultDescription.innerText = summary;
   profileBadge.src = `images/${topType.toLowerCase()}.png`;
 
-  // Generate and assign downloadable results
-  const blob = new Blob([summary], { type: 'text/plain' });
+  // Generate downloadable result
+  const blob = new Blob([summary], { type: "text/plain" });
   const url = URL.createObjectURL(blob);
-  const downloadLink = document.getElementById("download-results");
   downloadLink.href = url;
   downloadLink.download = "certivue-results.txt";
-}
-
 }
