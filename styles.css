@@ -17,14 +17,14 @@ main {
   max-width: 960px;
   margin: auto;
 }
-#skill-select {
+.skill-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
   justify-content: center;
-  margin-bottom: 2rem;
+  gap: 1rem;
+  margin-top: 1rem;
 }
-#skill-select button {
+.skill-buttons button {
   width: 200px;
   padding: 1rem;
   text-align: center;
