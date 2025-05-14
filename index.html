@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Certivue MVP</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Certivue: Universal Digital Skills Validation</h1>
+    <p>Prove it. Own it. Share it.</p>
+  </header>
+
+  <main>
+    <section id="intro">
+      <h2>Start Your Skills Validation</h2>
+      <p>This MVP demo lets you test a sample of behavioral validation questions and see your results in real time.</p>
+      <button id="start-btn">Begin Assessment</button>
+    </section>
+
+    <section id="question-section" style="display: none;">
+      <h2 id="question-text">Question will appear here</h2>
+      <div id="answer-options"></div>
+      <button id="next-btn" style="display: none;">Next</button>
+    </section>
+
+    <section id="result-section" style="display: none;">
+      <h2>Your Behavioral Twin Profile</h2>
+      <p id="result-description"></p>
+      <img id="profile-badge" src="" alt="Behavioral Profile Badge" />
+      <a id="download-results" href="#" download="certivue-results.txt">Download Results</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Certivue. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
