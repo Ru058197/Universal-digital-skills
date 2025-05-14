@@ -25,8 +25,7 @@ main {
   margin-bottom: 2rem;
 }
 #skill-select button {
-  flex: 1 1 200px;
-  max-width: 250px;
+  width: 200px;
   padding: 1rem;
   text-align: center;
 }
