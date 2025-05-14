@@ -1,1 +1,52 @@
-...index.html content here...
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Certivue | Skill Assessment</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="navbar">
+    <h1>Certivue</h1>
+    <nav>
+      <a href="index.html" class="nav-link">Assessment</a>
+      <a href="dashboard.html" class="nav-link">Dashboard</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section id="skill-select">
+      <h2>Select a Skill to Validate</h2>
+      <div class="skill-buttons">
+        <button onclick="startSkill('python')">Python</button>
+        <button onclick="startSkill('javascript')">JavaScript</button>
+        <button onclick="startSkill('sql')">SQL</button>
+        <button onclick="startSkill('html')">HTML/CSS</button>
+        <button onclick="startSkill('cybersecurity')">Cybersecurity</button>
+        <button onclick="startSkill('debugging')">Debugging</button>
+      </div>
+    </section>
+
+    <section id="question-section" style="display: none;">
+      <div id="progress"></div>
+      <h2 id="question-text">Question will appear here</h2>
+      <div id="answer-options"></div>
+      <button id="next-btn" style="display: none;">Next</button>
+    </section>
+
+    <section id="result-section" style="display: none;">
+      <h2>Your Assessment Result</h2>
+      <p id="result-description"></p>
+      <a id="download-results" href="#" download="certivue-results.txt">Download Results</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Certivue. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
