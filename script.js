@@ -5,75 +5,75 @@ const questions = {
       { text: "Decide what I can delegate and to whom.", score: 1 },
       { text: "Do it all myself to stay in control.", score: 0 }
     ]},
-    { question: "Someone on your team makes a mistake on a task you delegated. What’s your reaction?", answers: [
-      { text: "Coach them to learn from it.", score: 1 },
-      { text: "Take it back and fix it myself.", score: 0 }
+    { question: "Someone makes a mistake on a delegated task. Your move?", answers: [
+      { text: "Coach them and adjust approach.", score: 1 },
+      { text: "Avoid delegating next time.", score: 0 }
     ]}
   ],
   ethics: [
-    { question: "You see a coworker take credit for someone else's work. What do you do?", answers: [
-      { text: "Raise it privately or with a supervisor.", score: 1 },
-      { text: "Stay out of it — not my problem.", score: 0 }
+    { question: "You witness unethical behavior. What's your response?", answers: [
+      { text: "Report through appropriate channel.", score: 1 },
+      { text: "Ignore it to avoid conflict.", score: 0 }
     ]}
   ],
   communication: [
-    { question: "What’s key to great communication?", answers: [
-      { text: "Clarity", score: 1 },
-      { text: "Guesswork", score: 0 }
+    { question: "Best way to ensure communication clarity?", answers: [
+      { text: "Use structured, concise language.", score: 1 },
+      { text: "Hope the other person understands.", score: 0 }
     ]}
   ],
   timeManagement: [
-    { question: "How do you prioritize tasks?", answers: [
-      { text: "By impact and urgency", score: 1 },
-      { text: "At random", score: 0 }
+    { question: "How do you prioritize your work?", answers: [
+      { text: "By deadline and business impact.", score: 1 },
+      { text: "Whichever task feels easiest.", score: 0 }
     ]}
   ],
   projectManagement: [
-    { question: "What defines successful project management?", answers: [
-      { text: "Planning and delivery", score: 1 },
-      { text: "Guessing", score: 0 }
+    { question: "What makes a project successful?", answers: [
+      { text: "Clear scope and timely delivery.", score: 1 },
+      { text: "Adjusting constantly without planning.", score: 0 }
     ]}
   ],
   problemSolving: [
-    { question: "How do you solve problems?", answers: [
-      { text: "Structured thinking", score: 1 },
-      { text: "Panic", score: 0 }
+    { question: "First step in solving a complex issue?", answers: [
+      { text: "Define the root cause.", score: 1 },
+      { text: "Guess a quick fix.", score: 0 }
     ]}
   ],
   python: [
-    { question: "What does 'len([1,2,3])' return?", answers: [
+    { question: "What does len([1, 2, 3]) return?", answers: [
       { text: "3", score: 1 },
       { text: "Error", score: 0 }
     ]}
   ],
   javascript: [
-    { question: "Which is a valid way to declare a variable?", answers: [
+    { question: "Which declares a variable in ES6?", answers: [
       { text: "let x = 5;", score: 1 },
-      { text: "var: x;", score: 0 }
+      { text: "variable x = 5;", score: 0 }
     ]}
   ],
   sql: [
-    { question: "What does SELECT * FROM table do?", answers: [
-      { text: "Returns all columns", score: 1 },
-      { text: "Deletes all data", score: 0 }
+    { question: "Purpose of SELECT * FROM users?", answers: [
+      { text: "Get all records", score: 1 },
+      { text: "Delete the table", score: 0 }
     ]}
   ],
   html: [
-    { question: "Which tag creates a hyperlink?", answers: [
+    { question: "Which tag is used to link pages?", answers: [
       { text: "<a>", score: 1 },
-      { text: "<link>", score: 0 }
+      { text: "<div>", score: 0 }
     ]}
   ],
   cybersecurity: [
     { question: "What is phishing?", answers: [
-      { text: "A type of social engineering", score: 1 },
-      { text: "An antivirus tool", score: 0 }
+      { text: "A social engineering attack", score: 1 },
+      { text: "A secure login method", score: 0 }
     ]}
   ],
   debugging: [
-    { question: "What is the purpose of a debugger?", answers: [
-      { text: "To step through code", score: 1 },
-      { text: "To delete bugs", score: 0 }
+    { question: "Purpose of using a debugger?", answers: [
+      { text: "Step through code and inspect variables", score: 1 },
+      { text: "Randomly fix syntax", score: 0 }
     ]}
   ]
 };
@@ -99,7 +99,7 @@ function startSkill(skill) {
 function showQuestion() {
   const question = currentQuestions[currentQuestionIndex];
   document.getElementById("question-text").innerText = question.question;
-  document.getElementById("progress").innerText = 
+  document.getElementById("progress").innerText =
     "Question " + (currentQuestionIndex + 1) + " of " + currentQuestions.length;
 
   const answerOptions = document.getElementById("answer-options");
