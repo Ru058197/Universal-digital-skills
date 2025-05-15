@@ -1,2 +1,3 @@
-# Certivue Website
-This is the front-end MVP for the Certivue digital skills platform.
+# Certivue Prototype
+
+A working prototype of the Universal Digital Skills Validation platform.
