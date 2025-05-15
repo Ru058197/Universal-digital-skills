@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Certivue | Universal Digital Skills Validation</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="navbar">
+      <div class="logo">⚯ Certivue</div>
+      <nav>
+        <a href="#">Assessment</a>
+        <a href="#">Dashboard</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h1>Universal Digital Skills Validation</h1>
+      <p>Select a skill category to start</p>
+    </section>
+
+    <section class="skills">
+      <h2>Behavioral Skills</h2>
+      <div class="grid">
+        <button onclick="loadSkill('delegation_questions_certivue')">
+          <div class="icon">🔁</div>
+          Delegation
+        </button>
+        <button onclick="loadSkill('ethics_in_tech_questions_certivue')">
+          <div class="icon">🛡️</div>
+          Ethics
+        </button>
+        <button onclick="loadSkill('communication_questions_certivue')">
+          <div class="icon">💬</div>
+          Communication
+        </button>
+        <button onclick="loadSkill('time_management_questions_certivue')">
+          <div class="icon">⏳</div>
+          Time Management
+        </button>
+      </div>
+
+      <h2>Technical Skills</h2>
+      <div class="grid">
+        <button onclick="loadSkill('python_questions_certivue')">
+          <div class="icon">🐍</div>
+          Python
+        </button>
+        <button onclick="loadSkill('javascript_questions_certivue')">
+          <div class="icon">🟨</div>
+          JavaScript
+        </button>
+        <button onclick="loadSkill('sql_questions_certivue')">
+          <div class="icon">📊</div>
+          SQL
+        </button>
+        <button onclick="loadSkill('cybersecurity_questions_certivue')">
+          <div class="icon">🔐</div>
+          Cybersecurity
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Certivue</p>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
