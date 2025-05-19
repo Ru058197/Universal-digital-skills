@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1001,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "You\u2019re given five tasks with the same due date. What\u2019s the best way to decide which to do first?",
+    "answers": [
+      {
+        "text": "Start with the one you like most",
+        "isCorrect": false
+      },
+      {
+        "text": "Do them all simultaneously",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluate importance and urgency",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask someone else to decide",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1002,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "A manager asks for a report by end of day, but you\u2019re behind on a deadline. What do you do?",
+    "answers": [
+      {
+        "text": "Ignore the report request",
+        "isCorrect": false
+      },
+      {
+        "text": "Tell your manager you\u2019re too busy",
+        "isCorrect": false
+      },
+      {
+        "text": "Clarify the urgency and adjust priorities together",
+        "isCorrect": true
+      },
+      {
+        "text": "Rush both tasks and risk mistakes",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1003,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "How can you prevent last-minute crises at work?",
+    "answers": [
+      {
+        "text": "Wait until you have a long to-do list",
+        "isCorrect": false
+      },
+      {
+        "text": "Work on whatever comes up",
+        "isCorrect": false
+      },
+      {
+        "text": "Plan tasks with realistic time buffers",
+        "isCorrect": true
+      },
+      {
+        "text": "Only handle urgent tasks",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1004,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "You receive a last-minute urgent task from leadership. What\u2019s the best move?",
+    "answers": [
+      {
+        "text": "Ignore other work completely",
+        "isCorrect": false
+      },
+      {
+        "text": "Decline the task immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Reprioritize and communicate delays to others",
+        "isCorrect": true
+      },
+      {
+        "text": "Rush both without telling anyone",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1005,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "What tool helps prioritize based on urgency and importance?",
+    "answers": [
+      {
+        "text": "Fishbone diagram",
+        "isCorrect": false
+      },
+      {
+        "text": "Eisenhower Matrix",
+        "isCorrect": true
+      },
+      {
+        "text": "Cost-benefit chart",
+        "isCorrect": false
+      },
+      {
+        "text": "RACI matrix",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1006,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "A coworker asks for help on something that\u2019s not urgent. You\u2019re on a tight deadline. What do you do?",
+    "answers": [
+      {
+        "text": "Help anyway",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore them",
+        "isCorrect": false
+      },
+      {
+        "text": "Explain your deadline and offer a time to reconnect",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask someone else to help",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1007,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "Which of the following is a prioritization red flag?",
+    "answers": [
+      {
+        "text": "Setting deadlines",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a to-do list",
+        "isCorrect": false
+      },
+      {
+        "text": "Constantly shifting focus without completing tasks",
+        "isCorrect": true
+      },
+      {
+        "text": "Checking in with your manager",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1008,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "When juggling multiple projects, what helps most?",
+    "answers": [
+      {
+        "text": "Starting with the hardest task first",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomly choosing what to do",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a project tracker or task management tool",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignoring older projects",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1009,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "What does it mean if everything feels urgent?",
+    "answers": [
+      {
+        "text": "You are well-organized",
+        "isCorrect": false
+      },
+      {
+        "text": "You need better prioritization systems",
+        "isCorrect": true
+      },
+      {
+        "text": "You\u2019re working efficiently",
+        "isCorrect": false
+      },
+      {
+        "text": "There are no problems",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1010,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "Your manager adds a task to your list without asking. What should you do?",
+    "answers": [
+      {
+        "text": "Do it immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Complain to coworkers",
+        "isCorrect": false
+      },
+      {
+        "text": "Clarify current priorities before accepting",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the task",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1011,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "What\u2019s the best approach when new urgent requests come in during the day?",
+    "answers": [
+      {
+        "text": "Pause and assess priorities",
+        "isCorrect": true
+      },
+      {
+        "text": "Drop everything immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Say yes to everything",
+        "isCorrect": false
+      },
+      {
+        "text": "Continue as planned no matter what",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1012,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "When prioritizing your day, what\u2019s helpful?",
+    "answers": [
+      {
+        "text": "Guessing what\u2019s most important",
+        "isCorrect": false
+      },
+      {
+        "text": "Checking in with your team/leader",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding planning altogether",
+        "isCorrect": false
+      },
+      {
+        "text": "Only focusing on tasks you like",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1013,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "You realize you can\u2019t complete all your tasks today. What\u2019s the most responsible action?",
+    "answers": [
+      {
+        "text": "Stay silent and hope for the best",
+        "isCorrect": false
+      },
+      {
+        "text": "Work late every night",
+        "isCorrect": false
+      },
+      {
+        "text": "Communicate early and renegotiate deadlines",
+        "isCorrect": true
+      },
+      {
+        "text": "Do the least important task first",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1014,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "What is the benefit of ranking tasks by value to the business?",
+    "answers": [
+      {
+        "text": "You get more recognition",
+        "isCorrect": false
+      },
+      {
+        "text": "You know who to blame if things go wrong",
+        "isCorrect": false
+      },
+      {
+        "text": "You ensure the most meaningful work gets done first",
+        "isCorrect": true
+      },
+      {
+        "text": "It doesn\u2019t matter",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1015,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "You have five small tasks and one large project. What\u2019s a good strategy?",
+    "answers": [
+      {
+        "text": "Start everything and finish nothing",
+        "isCorrect": false
+      },
+      {
+        "text": "Schedule blocks for the big project, then tackle small wins",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid the big project",
+        "isCorrect": false
+      },
+      {
+        "text": "Only do the small tasks",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1016,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "What can help avoid burnout when managing competing priorities?",
+    "answers": [
+      {
+        "text": "Avoid asking for help",
+        "isCorrect": false
+      },
+      {
+        "text": "Work longer hours every day",
+        "isCorrect": false
+      },
+      {
+        "text": "Delegate and reprioritize with your team",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore breaks",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1017,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "When should you re-prioritize your task list?",
+    "answers": [
+      {
+        "text": "Once a year",
+        "isCorrect": false
+      },
+      {
+        "text": "Only after deadlines are missed",
+        "isCorrect": false
+      },
+      {
+        "text": "When new inputs affect time, urgency, or scope",
+        "isCorrect": true
+      },
+      {
+        "text": "Never",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1018,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "A senior exec asks for something quickly but your manager said another task comes first. What\u2019s the best move?",
+    "answers": [
+      {
+        "text": "Do both at once",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid the decision",
+        "isCorrect": false
+      },
+      {
+        "text": "Loop them both in to align on priority",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the exec",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1019,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "You\u2019re overwhelmed. What\u2019s a good first step to regain control?",
+    "answers": [
+      {
+        "text": "Panic and give up",
+        "isCorrect": false
+      },
+      {
+        "text": "Multitask everything",
+        "isCorrect": false
+      },
+      {
+        "text": "List tasks and prioritize based on impact and deadlines",
+        "isCorrect": true
+      },
+      {
+        "text": "Start the one you like most",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1020,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "A client sends a 'rush' request on Friday afternoon. What should you check first?",
+    "answers": [
+      {
+        "text": "Your mood",
+        "isCorrect": false
+      },
+      {
+        "text": "Their history",
+        "isCorrect": false
+      },
+      {
+        "text": "Their actual deadline and if it affects other commitments",
+        "isCorrect": true
+      },
+      {
+        "text": "If your manager agrees",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1021,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "What is a common prioritization pitfall?",
+    "answers": [
+      {
+        "text": "Tackling easy wins early",
+        "isCorrect": false
+      },
+      {
+        "text": "Making time for planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Letting everything feel like a fire drill",
+        "isCorrect": true
+      },
+      {
+        "text": "Clarifying priorities",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1022,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "How can transparency help with prioritization?",
+    "answers": [
+      {
+        "text": "It doesn\u2019t",
+        "isCorrect": false
+      },
+      {
+        "text": "It creates more confusion",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps align team efforts and reduces surprise conflicts",
+        "isCorrect": true
+      },
+      {
+        "text": "It adds work",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1023,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "Why is it important to share your workload and progress with stakeholders?",
+    "answers": [
+      {
+        "text": "To ask for praise",
+        "isCorrect": false
+      },
+      {
+        "text": "To complain about coworkers",
+        "isCorrect": false
+      },
+      {
+        "text": "So they can help adjust priorities or support you",
+        "isCorrect": true
+      },
+      {
+        "text": "It\u2019s not important",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1024,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "If you miss a deadline due to shifting priorities, what should you do?",
+    "answers": [
+      {
+        "text": "Hide it",
+        "isCorrect": false
+      },
+      {
+        "text": "Blame your manager",
+        "isCorrect": false
+      },
+      {
+        "text": "Own it and explain the tradeoffs transparently",
+        "isCorrect": true
+      },
+      {
+        "text": "Say it was a minor task",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1025,
+    "skill": "Prioritization",
+    "category": "Prioritization",
+    "question": "How does saying 'no' support effective prioritization?",
+    "answers": [
+      {
+        "text": "It makes you look weak",
+        "isCorrect": false
+      },
+      {
+        "text": "It avoids collaboration",
+        "isCorrect": false
+      },
+      {
+        "text": "It protects your time for the most valuable work",
+        "isCorrect": true
+      },
+      {
+        "text": "It delays things unnecessarily",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Strategist",
+    "context": "General Workplace"
+  }
+]

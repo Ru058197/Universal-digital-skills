@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1401,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You\u2019re assigned a task with unclear instructions. What\u2019s the best first step?",
+    "answers": [
+      {
+        "text": "Guess what\u2019s needed",
+        "isCorrect": false
+      },
+      {
+        "text": "Start the task immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask clarifying questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Wait for someone else to act",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1402,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You and a teammate have two different ideas to solve a problem. What\u2019s a constructive next step?",
+    "answers": [
+      {
+        "text": "Stick to your idea only",
+        "isCorrect": false
+      },
+      {
+        "text": "Argue until they agree",
+        "isCorrect": false
+      },
+      {
+        "text": "Compare pros and cons of both ideas",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask the manager to decide",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1403,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You\u2019re solving a recurring customer issue. What\u2019s a proactive move?",
+    "answers": [
+      {
+        "text": "Resolve it case-by-case",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Identify root causes and suggest improvements",
+        "isCorrect": true
+      },
+      {
+        "text": "Blame the customer",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1404,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "Your team is stuck brainstorming solutions. What could help?",
+    "answers": [
+      {
+        "text": "Cancel the meeting",
+        "isCorrect": false
+      },
+      {
+        "text": "Force your opinion through",
+        "isCorrect": false
+      },
+      {
+        "text": "Encourage alternative perspectives",
+        "isCorrect": true
+      },
+      {
+        "text": "Keep repeating the same idea",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1405,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "What\u2019s the value of defining the problem clearly before solving it?",
+    "answers": [
+      {
+        "text": "It wastes time",
+        "isCorrect": false
+      },
+      {
+        "text": "It delays action",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps focus on the real issue",
+        "isCorrect": true
+      },
+      {
+        "text": "It\u2019s unnecessary",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1406,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You made an error and need to find a fix fast. What\u2019s your first move?",
+    "answers": [
+      {
+        "text": "Blame someone else",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Assess what went wrong and outline options",
+        "isCorrect": true
+      },
+      {
+        "text": "Cover it up",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1407,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "When faced with a tough problem and tight deadline, what\u2019s effective?",
+    "answers": [
+      {
+        "text": "Avoid decision-making",
+        "isCorrect": false
+      },
+      {
+        "text": "Rush without thinking",
+        "isCorrect": false
+      },
+      {
+        "text": "Break it down and prioritize steps",
+        "isCorrect": true
+      },
+      {
+        "text": "Panic and escalate",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1408,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "A customer challenge doesn\u2019t fit any known procedure. What should you do?",
+    "answers": [
+      {
+        "text": "Make something up",
+        "isCorrect": false
+      },
+      {
+        "text": "Say you can't help",
+        "isCorrect": false
+      },
+      {
+        "text": "Use logic and customer input to propose a temporary solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Transfer them repeatedly",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1409,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "What helps generate solutions under pressure?",
+    "answers": [
+      {
+        "text": "Blaming others",
+        "isCorrect": false
+      },
+      {
+        "text": "Dwelling on the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Staying calm and solution-focused",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding responsibility",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1410,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You\u2019re unsure which option to choose. What\u2019s a good technique?",
+    "answers": [
+      {
+        "text": "Go with your gut only",
+        "isCorrect": false
+      },
+      {
+        "text": "Pick what\u2019s fastest",
+        "isCorrect": false
+      },
+      {
+        "text": "List potential outcomes and weigh impacts",
+        "isCorrect": true
+      },
+      {
+        "text": "Let someone else decide blindly",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1411,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "Why is collaboration useful in problem solving?",
+    "answers": [
+      {
+        "text": "It slows things down",
+        "isCorrect": false
+      },
+      {
+        "text": "It creates confusion",
+        "isCorrect": false
+      },
+      {
+        "text": "It brings diverse ideas and perspectives",
+        "isCorrect": true
+      },
+      {
+        "text": "It reduces accountability",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1412,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You\u2019re solving a supply issue affecting customers. What adds long-term value?",
+    "answers": [
+      {
+        "text": "Provide a one-time workaround",
+        "isCorrect": false
+      },
+      {
+        "text": "Offer a refund",
+        "isCorrect": false
+      },
+      {
+        "text": "Fix the root cause to prevent repeat issues",
+        "isCorrect": true
+      },
+      {
+        "text": "Apologize without change",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1413,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "A new process isn\u2019t working as intended. What should you do?",
+    "answers": [
+      {
+        "text": "Blame the creator",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait it out",
+        "isCorrect": false
+      },
+      {
+        "text": "Raise concerns and offer data to improve it",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid using it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1414,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "What\u2019s the first step in solving any workplace problem?",
+    "answers": [
+      {
+        "text": "Jump into fixing",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid it",
+        "isCorrect": false
+      },
+      {
+        "text": "Understand the cause and context",
+        "isCorrect": true
+      },
+      {
+        "text": "Create urgency unnecessarily",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1415,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You\u2019ve tried 3 solutions without success. What next?",
+    "answers": [
+      {
+        "text": "Keep repeating one",
+        "isCorrect": false
+      },
+      {
+        "text": "Give up",
+        "isCorrect": false
+      },
+      {
+        "text": "Step back, reassess, and involve others if needed",
+        "isCorrect": true
+      },
+      {
+        "text": "Complain to others",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1416,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "Your team\u2019s plan is blocked by one department. What\u2019s a good step?",
+    "answers": [
+      {
+        "text": "Ignore the blocker",
+        "isCorrect": false
+      },
+      {
+        "text": "Complain to leadership",
+        "isCorrect": false
+      },
+      {
+        "text": "Talk to the department and explore options",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop the project",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1417,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "What quality supports strong problem-solving?",
+    "answers": [
+      {
+        "text": "Rigidity",
+        "isCorrect": false
+      },
+      {
+        "text": "Assumption",
+        "isCorrect": false
+      },
+      {
+        "text": "Curiosity and persistence",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoidance",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1418,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "Your coworker solves a similar problem more efficiently. What should you do?",
+    "answers": [
+      {
+        "text": "Avoid discussing it",
+        "isCorrect": false
+      },
+      {
+        "text": "Feel threatened",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask to learn from their approach",
+        "isCorrect": true
+      },
+      {
+        "text": "Copy without credit",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1419,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "A sudden change causes confusion. What\u2019s a good first step?",
+    "answers": [
+      {
+        "text": "Panic",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait for direction",
+        "isCorrect": false
+      },
+      {
+        "text": "Clarify what\u2019s known and unknown",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it and move forward",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1420,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You solved a major issue. What adds value after?",
+    "answers": [
+      {
+        "text": "Move on immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Take all credit",
+        "isCorrect": false
+      },
+      {
+        "text": "Document lessons and share insights",
+        "isCorrect": true
+      },
+      {
+        "text": "Erase the details",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1421,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "How can visualization tools (like charts or maps) support problem solving?",
+    "answers": [
+      {
+        "text": "They confuse people",
+        "isCorrect": false
+      },
+      {
+        "text": "They slow action",
+        "isCorrect": false
+      },
+      {
+        "text": "They help clarify data and patterns",
+        "isCorrect": true
+      },
+      {
+        "text": "They distract from facts",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1422,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "When is intuition useful in problem solving?",
+    "answers": [
+      {
+        "text": "Always use it instead of data",
+        "isCorrect": false
+      },
+      {
+        "text": "Only when you're guessing",
+        "isCorrect": false
+      },
+      {
+        "text": "As a guide paired with evidence",
+        "isCorrect": true
+      },
+      {
+        "text": "Never",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1423,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "You\u2019re solving for two teams with different goals. What should you do?",
+    "answers": [
+      {
+        "text": "Pick one side",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid involvement",
+        "isCorrect": false
+      },
+      {
+        "text": "Find a solution that considers both perspectives",
+        "isCorrect": true
+      },
+      {
+        "text": "Escalate immediately",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1424,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "What does it mean to think critically?",
+    "answers": [
+      {
+        "text": "Accepting surface-level info",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding hard questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluating ideas objectively and logically",
+        "isCorrect": true
+      },
+      {
+        "text": "Reacting emotionally",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1425,
+    "skill": "Problem Solving",
+    "category": "Problem Solving",
+    "question": "Which action weakens problem-solving effectiveness?",
+    "answers": [
+      {
+        "text": "Listening actively",
+        "isCorrect": false
+      },
+      {
+        "text": "Breaking issues into parts",
+        "isCorrect": false
+      },
+      {
+        "text": "Jumping to conclusions without analysis",
+        "isCorrect": true
+      },
+      {
+        "text": "Testing solutions",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  }
+]

@@ -1,0 +1,785 @@
+[
+  {
+    "id": 901,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You notice a colleague consistently arriving late, affecting team productivity. What should you do?",
+    "answers": [
+      {
+        "text": "Ignore the behavior",
+        "isCorrect": false
+      },
+      {
+        "text": "Confront them publicly",
+        "isCorrect": false
+      },
+      {
+        "text": "Privately discuss your observations and concerns with them",
+        "isCorrect": true
+      },
+      {
+        "text": "Report them to HR",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 902,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You're assigned a project with a tight deadline and limited resources. How do you proceed?",
+    "answers": [
+      {
+        "text": "Do all tasks yourself",
+        "isCorrect": false
+      },
+      {
+        "text": "Delegate tasks and set priorities",
+        "isCorrect": true
+      },
+      {
+        "text": "Request an extension",
+        "isCorrect": false
+      },
+      {
+        "text": "Decline the project",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 903,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "A client requests a service that your company doesn't offer. What is your response?",
+    "answers": [
+      {
+        "text": "Promise and figure it out later",
+        "isCorrect": false
+      },
+      {
+        "text": "Say it's not possible and end it",
+        "isCorrect": false
+      },
+      {
+        "text": "Explain and suggest alternatives",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the request",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 904,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You discover an error in a report after it's been submitted. What do you do?",
+    "answers": [
+      {
+        "text": "Wait and see",
+        "isCorrect": false
+      },
+      {
+        "text": "Inform and provide corrected version",
+        "isCorrect": true
+      },
+      {
+        "text": "Blame a colleague",
+        "isCorrect": false
+      },
+      {
+        "text": "Do nothing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 905,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "Two team members are in conflict, affecting the team's morale. How do you handle it?",
+    "answers": [
+      {
+        "text": "Take sides",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore the situation",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitate a mediated discussion",
+        "isCorrect": true
+      },
+      {
+        "text": "Report both to management",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 906,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You're offered a promotion that requires relocating, but your family is hesitant. What is your approach?",
+    "answers": [
+      {
+        "text": "Accept immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Decline offer",
+        "isCorrect": false
+      },
+      {
+        "text": "Discuss with your family",
+        "isCorrect": true
+      },
+      {
+        "text": "Accept and hope they adjust",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 907,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "A new policy is unpopular among your team. How do you implement it?",
+    "answers": [
+      {
+        "text": "Enforce strictly",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore the policy",
+        "isCorrect": false
+      },
+      {
+        "text": "Communicate and address concerns",
+        "isCorrect": true
+      },
+      {
+        "text": "Encourage protest",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 908,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You're leading a project, and a team member consistently misses deadlines. What do you do?",
+    "answers": [
+      {
+        "text": "Reassign their tasks",
+        "isCorrect": false
+      },
+      {
+        "text": "Reprimand publicly",
+        "isCorrect": false
+      },
+      {
+        "text": "Have a private conversation",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 909,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You receive confidential information not intended for you. What's your course of action?",
+    "answers": [
+      {
+        "text": "Share with colleagues",
+        "isCorrect": false
+      },
+      {
+        "text": "Delete and pretend",
+        "isCorrect": false
+      },
+      {
+        "text": "Inform sender and delete",
+        "isCorrect": true
+      },
+      {
+        "text": "Use for advantage",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 910,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "A team member proposes an idea that you believe won't work. How do you respond?",
+    "answers": [
+      {
+        "text": "Dismiss immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Criticize in front of team",
+        "isCorrect": false
+      },
+      {
+        "text": "Encourage discussion and provide feedback",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 911,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You're asked to lead a project outside your expertise. How do you proceed?",
+    "answers": [
+      {
+        "text": "Decline opportunity",
+        "isCorrect": false
+      },
+      {
+        "text": "Rely on current knowledge",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept and seek guidance",
+        "isCorrect": true
+      },
+      {
+        "text": "Delegate everything",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 912,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "A client is dissatisfied with your service. What's your response?",
+    "answers": [
+      {
+        "text": "Blame client",
+        "isCorrect": false
+      },
+      {
+        "text": "Listen and work on a resolution",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore complaints",
+        "isCorrect": false
+      },
+      {
+        "text": "End the relationship",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 913,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You notice a safety hazard in the workplace. What do you do?",
+    "answers": [
+      {
+        "text": "Wait for someone else",
+        "isCorrect": false
+      },
+      {
+        "text": "Address and inform proper personnel",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Tell colleagues only",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 914,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You're overwhelmed with tasks and can't meet all deadlines. How do you manage?",
+    "answers": [
+      {
+        "text": "Work overtime",
+        "isCorrect": false
+      },
+      {
+        "text": "Prioritize tasks and ask for help",
+        "isCorrect": true
+      },
+      {
+        "text": "Delay tasks indefinitely",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid responsibility",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 915,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "Your manager asks you to take on additional work, but you\u2019re at full capacity. What should you do?",
+    "answers": [
+      {
+        "text": "Take on the work regardless",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuse immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Discuss workload and negotiate priorities",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask a coworker to do it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 916,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You see a teammate struggle with a task and it\u2019s impacting the project. What\u2019s your response?",
+    "answers": [
+      {
+        "text": "Ignore it\u2014they\u2019ll learn",
+        "isCorrect": false
+      },
+      {
+        "text": "Criticize them publicly",
+        "isCorrect": false
+      },
+      {
+        "text": "Offer help or resources",
+        "isCorrect": true
+      },
+      {
+        "text": "Report them to the manager",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 917,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You receive conflicting feedback from two stakeholders. What\u2019s your approach?",
+    "answers": [
+      {
+        "text": "Pick the one with more authority",
+        "isCorrect": false
+      },
+      {
+        "text": "Delay the decision",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitate alignment through clarification",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore both and proceed",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 918,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "A project you lead is failing. What\u2019s your most responsible course of action?",
+    "answers": [
+      {
+        "text": "Blame external factors",
+        "isCorrect": false
+      },
+      {
+        "text": "Hide progress reports",
+        "isCorrect": false
+      },
+      {
+        "text": "Conduct a root cause analysis and reset expectations",
+        "isCorrect": true
+      },
+      {
+        "text": "Reassign the project to someone else",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 919,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "A client requests a change that would jeopardize compliance. What do you do?",
+    "answers": [
+      {
+        "text": "Implement the change quietly",
+        "isCorrect": false
+      },
+      {
+        "text": "Say yes and document it",
+        "isCorrect": false
+      },
+      {
+        "text": "Decline and explain the compliance risk",
+        "isCorrect": true
+      },
+      {
+        "text": "Refer them to another client",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 920,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You\u2019re choosing between two vendors\u2014one is cheaper, the other is more reliable. What\u2019s the best decision-making step?",
+    "answers": [
+      {
+        "text": "Go with the cheaper option",
+        "isCorrect": false
+      },
+      {
+        "text": "Choose the faster one",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluate based on cost, quality, and risk factors",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask someone else to decide",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 921,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "Your team missed a major deadline. What is your immediate responsibility?",
+    "answers": [
+      {
+        "text": "Blame the team",
+        "isCorrect": false
+      },
+      {
+        "text": "Deflect accountability",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge the issue and initiate recovery steps",
+        "isCorrect": true
+      },
+      {
+        "text": "Do nothing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 922,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "Your direct report comes to you with a mistake they made. What\u2019s the right action?",
+    "answers": [
+      {
+        "text": "Punish them",
+        "isCorrect": false
+      },
+      {
+        "text": "Thank them for transparency and work on a fix",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Document it for future reviews",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 923,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You have to choose between a high-risk, high-reward option and a low-risk, stable option. How do you decide?",
+    "answers": [
+      {
+        "text": "Flip a coin",
+        "isCorrect": false
+      },
+      {
+        "text": "Choose the flashier one",
+        "isCorrect": false
+      },
+      {
+        "text": "Assess risk tolerance and business goals",
+        "isCorrect": true
+      },
+      {
+        "text": "Pick based on popularity",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 924,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You see a peer falsify a timesheet. What\u2019s the most ethical choice?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Confront them aggressively",
+        "isCorrect": false
+      },
+      {
+        "text": "Report it to the appropriate authority",
+        "isCorrect": true
+      },
+      {
+        "text": "Mention it to others",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 925,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You\u2019re faced with an ethical dilemma on a cross-functional team. What\u2019s your first move?",
+    "answers": [
+      {
+        "text": "Escalate to HR",
+        "isCorrect": false
+      },
+      {
+        "text": "Make a decision alone",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitate a team discussion with input",
+        "isCorrect": true
+      },
+      {
+        "text": "Choose what\u2019s easiest",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 926,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You\u2019ve made a poor hiring decision and the person is underperforming. What\u2019s your next step?",
+    "answers": [
+      {
+        "text": "Let them go immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Coach them with clear feedback and timeline",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Transfer them elsewhere",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 927,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You receive an opportunity that benefits you personally but could disrupt the team. How do you handle it?",
+    "answers": [
+      {
+        "text": "Take it quietly",
+        "isCorrect": false
+      },
+      {
+        "text": "Reject it",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluate openly with the team and manager",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore team impact",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 928,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "You have multiple tasks due at the same time. What\u2019s your best move?",
+    "answers": [
+      {
+        "text": "Start with the easiest one",
+        "isCorrect": false
+      },
+      {
+        "text": "Do none until you can choose",
+        "isCorrect": false
+      },
+      {
+        "text": "Prioritize based on urgency and impact",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask your boss what to do",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 929,
+    "skill": "Decision Making",
+    "category": "Decision Making",
+    "question": "Your department budget has been cut. How do you approach resource allocation?",
+    "answers": [
+      {
+        "text": "Cut everyone\u2019s resources equally",
+        "isCorrect": false
+      },
+      {
+        "text": "Only fund favorites",
+        "isCorrect": false
+      },
+      {
+        "text": "Review priorities and reallocate strategically",
+        "isCorrect": true
+      },
+      {
+        "text": "Pause all initiatives",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  }
+]

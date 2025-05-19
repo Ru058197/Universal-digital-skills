@@ -1,0 +1,731 @@
+[
+  {
+    "id": 301,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A software engineer discovers that a new feature collects user data without explicit consent. What is the most ethical course of action?",
+    "answers": [
+      {
+        "text": "Ignore the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Report the concern to the project manager",
+        "isCorrect": true
+      },
+      {
+        "text": "Discuss it with colleagues",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait to see if users complain",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 302,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An AI system used for hiring shows bias against certain demographics. What should the development team do?",
+    "answers": [
+      {
+        "text": "Continue using the system",
+        "isCorrect": false
+      },
+      {
+        "text": "Adjust the system to hide the bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Investigate and rectify the bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Blame the data providers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 303,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A tech company plans to sell user data to third parties without informing users. What ethical principle is being violated?",
+    "answers": [
+      {
+        "text": "Transparency",
+        "isCorrect": true
+      },
+      {
+        "text": "Efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Innovation",
+        "isCorrect": false
+      },
+      {
+        "text": "Profitability",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 304,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A developer is asked to implement a feature that could potentially harm user privacy. What is the ethical response?",
+    "answers": [
+      {
+        "text": "Implement the feature",
+        "isCorrect": false
+      },
+      {
+        "text": "Raise concerns with the supervisor",
+        "isCorrect": true
+      },
+      {
+        "text": "Resign immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore the request",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 305,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An employee discovers a security vulnerability but fears reporting it might lead to job loss. What is the ethical action?",
+    "answers": [
+      {
+        "text": "Keep silent",
+        "isCorrect": false
+      },
+      {
+        "text": "Report the vulnerability anonymously",
+        "isCorrect": true
+      },
+      {
+        "text": "Fix it secretly",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait for someone else",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 306,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A company uses facial recognition technology without user consent. What ethical issue does this raise?",
+    "answers": [
+      {
+        "text": "User convenience",
+        "isCorrect": false
+      },
+      {
+        "text": "Data accuracy",
+        "isCorrect": false
+      },
+      {
+        "text": "Privacy infringement",
+        "isCorrect": true
+      },
+      {
+        "text": "Cost reduction",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 307,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A tech firm outsources labor to regions with lax labor laws to cut costs. What ethical concern arises?",
+    "answers": [
+      {
+        "text": "Globalization benefits",
+        "isCorrect": false
+      },
+      {
+        "text": "Exploitation of workers",
+        "isCorrect": true
+      },
+      {
+        "text": "Increased efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Market expansion",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 308,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An app collects more user data than necessary for its function. What principle is being violated?",
+    "answers": [
+      {
+        "text": "Data minimization",
+        "isCorrect": true
+      },
+      {
+        "text": "User engagement",
+        "isCorrect": false
+      },
+      {
+        "text": "Feature richness",
+        "isCorrect": false
+      },
+      {
+        "text": "Market analysis",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 309,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A developer is asked to copy code from a competitor's product. What is the ethical response?",
+    "answers": [
+      {
+        "text": "Comply to meet deadlines",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuse and report the request",
+        "isCorrect": true
+      },
+      {
+        "text": "Modify and use it",
+        "isCorrect": false
+      },
+      {
+        "text": "Seek permission from competitor",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 310,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A social media platform manipulates algorithms to increase user addiction. What ethical issue is involved?",
+    "answers": [
+      {
+        "text": "User engagement",
+        "isCorrect": false
+      },
+      {
+        "text": "Behavioral manipulation",
+        "isCorrect": true
+      },
+      {
+        "text": "Content personalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Market competitiveness",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 311,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A company ignores accessibility features to save development time. What ethical principle is compromised?",
+    "answers": [
+      {
+        "text": "Inclusivity",
+        "isCorrect": true
+      },
+      {
+        "text": "Efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Profitability",
+        "isCorrect": false
+      },
+      {
+        "text": "Innovation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 312,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An AI chatbot provides medical advice without disclaimers. What is the ethical concern?",
+    "answers": [
+      {
+        "text": "User autonomy",
+        "isCorrect": false
+      },
+      {
+        "text": "Misinformation risk",
+        "isCorrect": true
+      },
+      {
+        "text": "Cost saving",
+        "isCorrect": false
+      },
+      {
+        "text": "User engagement",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 313,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A developer uses open-source code without adhering to its license. What ethical issue arises?",
+    "answers": [
+      {
+        "text": "Innovation",
+        "isCorrect": false
+      },
+      {
+        "text": "Intellectual property violation",
+        "isCorrect": true
+      },
+      {
+        "text": "Code efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Collaboration",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 314,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A company uses dark patterns to trick users into subscriptions. What is the ethical concern?",
+    "answers": [
+      {
+        "text": "User engagement",
+        "isCorrect": false
+      },
+      {
+        "text": "Behavioral manipulation",
+        "isCorrect": true
+      },
+      {
+        "text": "Content personalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Market competitiveness",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 315,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An engineer discovers that a colleague is falsifying test results. What should the engineer do?",
+    "answers": [
+      {
+        "text": "Ignore the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Confront privately",
+        "isCorrect": false
+      },
+      {
+        "text": "Report to supervisor",
+        "isCorrect": true
+      },
+      {
+        "text": "Share with colleagues",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 316,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A developer is asked to create a backdoor in software without user consent. What is the ethical response?",
+    "answers": [
+      {
+        "text": "Comply with request",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuse and report",
+        "isCorrect": true
+      },
+      {
+        "text": "Implement discreetly",
+        "isCorrect": false
+      },
+      {
+        "text": "Discuss with peers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 317,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A company collects user data for improving services but sells it to third parties. What ethical principle is violated?",
+    "answers": [
+      {
+        "text": "Transparency",
+        "isCorrect": true
+      },
+      {
+        "text": "Efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Innovation",
+        "isCorrect": false
+      },
+      {
+        "text": "Profitability",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 318,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An AI algorithm used in hiring shows bias. What should the company do?",
+    "answers": [
+      {
+        "text": "Ignore the bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Adjust to hide it",
+        "isCorrect": false
+      },
+      {
+        "text": "Rectify the bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Blame data providers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 319,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A company uses user data to target political ads without consent. What ethical issue does this raise?",
+    "answers": [
+      {
+        "text": "Marketing strategy",
+        "isCorrect": false
+      },
+      {
+        "text": "Data privacy violation",
+        "isCorrect": true
+      },
+      {
+        "text": "User engagement",
+        "isCorrect": false
+      },
+      {
+        "text": "Content personalization",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 320,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A tech company avoids disclosing data breaches to preserve its reputation. What ethical concern does this raise?",
+    "answers": [
+      {
+        "text": "Efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Transparency and accountability",
+        "isCorrect": true
+      },
+      {
+        "text": "Legal compliance",
+        "isCorrect": false
+      },
+      {
+        "text": "Customer service",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 321,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "An AI assistant records conversations without consent to improve services. What is the core ethical issue?",
+    "answers": [
+      {
+        "text": "User experience",
+        "isCorrect": false
+      },
+      {
+        "text": "Privacy violation",
+        "isCorrect": true
+      },
+      {
+        "text": "Data integrity",
+        "isCorrect": false
+      },
+      {
+        "text": "Functionality testing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 322,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A developer chooses not to disclose a known bug that risks user data. What's the ethical approach?",
+    "answers": [
+      {
+        "text": "Delay disclosure",
+        "isCorrect": false
+      },
+      {
+        "text": "Report and fix immediately",
+        "isCorrect": true
+      },
+      {
+        "text": "Minimize the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 323,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A tech company implements software that tracks employees' every keystroke. What ethical issue is at stake?",
+    "answers": [
+      {
+        "text": "Performance tracking",
+        "isCorrect": false
+      },
+      {
+        "text": "Invasive surveillance",
+        "isCorrect": true
+      },
+      {
+        "text": "Workforce engagement",
+        "isCorrect": false
+      },
+      {
+        "text": "Remote work compliance",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 324,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A developer includes a feature that can be exploited maliciously but says nothing. What is the ethical issue?",
+    "answers": [
+      {
+        "text": "Security negligence",
+        "isCorrect": true
+      },
+      {
+        "text": "Poor performance",
+        "isCorrect": false
+      },
+      {
+        "text": "Innovation focus",
+        "isCorrect": false
+      },
+      {
+        "text": "Team dynamics",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 325,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A startup stores user credentials in plain text for speed. What's the ethical flaw?",
+    "answers": [
+      {
+        "text": "Convenience",
+        "isCorrect": false
+      },
+      {
+        "text": "Security best practices",
+        "isCorrect": false
+      },
+      {
+        "text": "Data breach risk",
+        "isCorrect": true
+      },
+      {
+        "text": "UI design",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 326,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A smart home device shares data with third parties by default. What's the ethical breach?",
+    "answers": [
+      {
+        "text": "Efficiency",
+        "isCorrect": false
+      },
+      {
+        "text": "Consent and data ownership",
+        "isCorrect": true
+      },
+      {
+        "text": "Battery performance",
+        "isCorrect": false
+      },
+      {
+        "text": "Sensor calibration",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  },
+  {
+    "id": 327,
+    "skill": "Ethics in Tech",
+    "category": "Ethics in Tech",
+    "question": "A wearable app flags potential medical issues but doesn't advise seeking care. What\u2019s the concern?",
+    "answers": [
+      {
+        "text": "User empowerment",
+        "isCorrect": false
+      },
+      {
+        "text": "Legal ambiguity",
+        "isCorrect": false
+      },
+      {
+        "text": "Misleading health communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Hardware limitation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "General Workplace"
+  }
+]

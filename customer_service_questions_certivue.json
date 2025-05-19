@@ -1,0 +1,677 @@
+[
+  {
+    "id": 901,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "A customer calls frustrated about a billing error. What's your best first response?",
+    "answers": [
+      {
+        "text": "Ask them to calm down",
+        "isCorrect": false
+      },
+      {
+        "text": "Transfer them to another department",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge the issue and express understanding",
+        "isCorrect": true
+      },
+      {
+        "text": "Tell them it's not your fault",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 902,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "A customer asks a question you don\u2019t know the answer to. What should you do?",
+    "answers": [
+      {
+        "text": "Guess based on experience",
+        "isCorrect": false
+      },
+      {
+        "text": "Transfer the call immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Say you\u2019ll find the answer and follow up",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the question",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 903,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "A customer is angry due to a late delivery. What\u2019s the most effective way to de-escalate?",
+    "answers": [
+      {
+        "text": "Blame the warehouse",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge their frustration and offer to help",
+        "isCorrect": true
+      },
+      {
+        "text": "Tell them to read the shipping policy",
+        "isCorrect": false
+      },
+      {
+        "text": "Speak over them with facts",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 904,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What is the best way to show active listening to a customer?",
+    "answers": [
+      {
+        "text": "Wait silently",
+        "isCorrect": false
+      },
+      {
+        "text": "Interrupt with a solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Repeat back key concerns and confirm understanding",
+        "isCorrect": true
+      },
+      {
+        "text": "Use scripted responses",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 905,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "You made a mistake on a customer\u2019s order. What\u2019s the best step to take?",
+    "answers": [
+      {
+        "text": "Deny the mistake",
+        "isCorrect": false
+      },
+      {
+        "text": "Blame another team",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge the mistake and offer a solution",
+        "isCorrect": true
+      },
+      {
+        "text": "Tell the customer to reorder",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 906,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "Which of these is a sign of good customer service?",
+    "answers": [
+      {
+        "text": "Deflecting blame",
+        "isCorrect": false
+      },
+      {
+        "text": "Answering quickly but inaccurately",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening carefully and solving the real problem",
+        "isCorrect": true
+      },
+      {
+        "text": "Rushing to end the call",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 907,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "A customer emails a complaint. What is the best tone to use in your reply?",
+    "answers": [
+      {
+        "text": "Defensive and formal",
+        "isCorrect": false
+      },
+      {
+        "text": "Apologetic and dismissive",
+        "isCorrect": false
+      },
+      {
+        "text": "Professional and empathetic",
+        "isCorrect": true
+      },
+      {
+        "text": "Cold and factual",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 908,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What\u2019s a good way to prevent customer frustration before it starts?",
+    "answers": [
+      {
+        "text": "Use technical terms",
+        "isCorrect": false
+      },
+      {
+        "text": "Set clear expectations up front",
+        "isCorrect": true
+      },
+      {
+        "text": "Let them figure it out",
+        "isCorrect": false
+      },
+      {
+        "text": "Promise more than you can deliver",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 909,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "A long-time customer is upset about a policy change. You should:",
+    "answers": [
+      {
+        "text": "Remind them it's not your fault",
+        "isCorrect": false
+      },
+      {
+        "text": "Apologize for the confusion and explain the change clearly",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the concern",
+        "isCorrect": false
+      },
+      {
+        "text": "Say it\u2019s not negotiable",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 910,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What behavior builds customer trust?",
+    "answers": [
+      {
+        "text": "Overpromising outcomes",
+        "isCorrect": false
+      },
+      {
+        "text": "Following up when promised",
+        "isCorrect": true
+      },
+      {
+        "text": "Using vague commitments",
+        "isCorrect": false
+      },
+      {
+        "text": "Referring them to a website only",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 911,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "How should you handle a customer who interrupts and talks over you?",
+    "answers": [
+      {
+        "text": "Raise your voice",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain calm and wait to speak",
+        "isCorrect": true
+      },
+      {
+        "text": "End the conversation",
+        "isCorrect": false
+      },
+      {
+        "text": "Match their tone",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 912,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What\u2019s a key sign a customer is not satisfied, even if they don\u2019t say it?",
+    "answers": [
+      {
+        "text": "They ask too many questions",
+        "isCorrect": false
+      },
+      {
+        "text": "They thank you politely",
+        "isCorrect": false
+      },
+      {
+        "text": "Their tone becomes short or disengaged",
+        "isCorrect": true
+      },
+      {
+        "text": "They follow instructions",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 913,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "A customer is venting emotionally about a bad experience. What\u2019s your role?",
+    "answers": [
+      {
+        "text": "Correct them",
+        "isCorrect": false
+      },
+      {
+        "text": "Stay silent",
+        "isCorrect": false
+      },
+      {
+        "text": "Let them finish and validate their feelings",
+        "isCorrect": true
+      },
+      {
+        "text": "Defend the company",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 914,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "How do you prioritize helping customers in a long queue?",
+    "answers": [
+      {
+        "text": "Serve whoever complains the loudest",
+        "isCorrect": false
+      },
+      {
+        "text": "Help the ones with the biggest orders",
+        "isCorrect": false
+      },
+      {
+        "text": "Triage based on urgency and provide realistic wait expectations",
+        "isCorrect": true
+      },
+      {
+        "text": "Close the queue",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 915,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What\u2019s an appropriate ending to a successful support interaction?",
+    "answers": [
+      {
+        "text": "End the call abruptly",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask if there's anything else you can help with",
+        "isCorrect": true
+      },
+      {
+        "text": "Just hang up",
+        "isCorrect": false
+      },
+      {
+        "text": "Say nothing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 916,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "Which approach reflects taking ownership?",
+    "answers": [
+      {
+        "text": "Letting someone else fix it",
+        "isCorrect": false
+      },
+      {
+        "text": "Following up personally and keeping the customer informed",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding updates",
+        "isCorrect": false
+      },
+      {
+        "text": "Telling them to wait",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 917,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "If a customer becomes aggressive or abusive, what\u2019s your best course of action?",
+    "answers": [
+      {
+        "text": "Mirror their tone",
+        "isCorrect": false
+      },
+      {
+        "text": "Disconnect immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain calm and apply your escalation protocol",
+        "isCorrect": true
+      },
+      {
+        "text": "Tell them to be quiet",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 918,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "How should you address a customer using unfamiliar terminology?",
+    "answers": [
+      {
+        "text": "Correct them immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Gently clarify and use simple terms",
+        "isCorrect": true
+      },
+      {
+        "text": "Let them be confused",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 919,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What is the primary purpose of customer support?",
+    "answers": [
+      {
+        "text": "Explain policies",
+        "isCorrect": false
+      },
+      {
+        "text": "Make sales",
+        "isCorrect": false
+      },
+      {
+        "text": "Resolve issues and retain trust",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid escalation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 920,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "How can you show professionalism on a chat or email support channel?",
+    "answers": [
+      {
+        "text": "Use all caps for urgency",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid greetings",
+        "isCorrect": false
+      },
+      {
+        "text": "Use correct spelling, grammar, and tone",
+        "isCorrect": true
+      },
+      {
+        "text": "Type quickly regardless of accuracy",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 921,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "If a customer shares positive feedback, what should you do?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Thank them and let your team know",
+        "isCorrect": true
+      },
+      {
+        "text": "Say 'Okay'",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask for a survey only",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 922,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "You don\u2019t fully understand the customer\u2019s issue. What should you do?",
+    "answers": [
+      {
+        "text": "Guess the solution",
+        "isCorrect": false
+      },
+      {
+        "text": "Let them figure it out",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask clarifying questions to understand better",
+        "isCorrect": true
+      },
+      {
+        "text": "Transfer them",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 923,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "What\u2019s one thing to avoid in every customer conversation?",
+    "answers": [
+      {
+        "text": "Empathy",
+        "isCorrect": false
+      },
+      {
+        "text": "Responsibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Defensiveness or blame",
+        "isCorrect": true
+      },
+      {
+        "text": "Clarity",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 924,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "When should you apologize to a customer?",
+    "answers": [
+      {
+        "text": "Only if you caused the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Never apologize",
+        "isCorrect": false
+      },
+      {
+        "text": "When the experience didn't meet expectations",
+        "isCorrect": true
+      },
+      {
+        "text": "If they threaten you",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  },
+  {
+    "id": 925,
+    "skill": "Customer Service",
+    "category": "Customer Service",
+    "question": "Why is listening more powerful than speaking in service?",
+    "answers": [
+      {
+        "text": "Because customers want silence",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it reduces call time",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it allows you to understand and respond meaningfully",
+        "isCorrect": true
+      },
+      {
+        "text": "Because it avoids questions",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Customer Service"
+  }
+]

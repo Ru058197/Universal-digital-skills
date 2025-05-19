@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1301,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "You\u2019re pitching a new idea to leadership. What\u2019s a persuasive approach?",
+    "answers": [
+      {
+        "text": "List every detail immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Dismiss past efforts",
+        "isCorrect": false
+      },
+      {
+        "text": "Connect your idea to business goals and impact",
+        "isCorrect": true
+      },
+      {
+        "text": "Push aggressively",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1302,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "A peer disagrees with your idea in a meeting. How can you gain support?",
+    "answers": [
+      {
+        "text": "Talk over them",
+        "isCorrect": false
+      },
+      {
+        "text": "Dismiss their input",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge their view, then share evidence for yours",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore them completely",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1303,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What strengthens persuasive communication?",
+    "answers": [
+      {
+        "text": "Vague language",
+        "isCorrect": false
+      },
+      {
+        "text": "Aggressive tone",
+        "isCorrect": false
+      },
+      {
+        "text": "Clear message with relatable examples",
+        "isCorrect": true
+      },
+      {
+        "text": "Overexplaining with jargon",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1304,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "Which of the following reflects ethical persuasion?",
+    "answers": [
+      {
+        "text": "Exaggerating benefits",
+        "isCorrect": false
+      },
+      {
+        "text": "Withholding key facts",
+        "isCorrect": false
+      },
+      {
+        "text": "Presenting data honestly while aligning with goals",
+        "isCorrect": true
+      },
+      {
+        "text": "Making emotional threats",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1305,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "You want to influence a team\u2019s behavior. What increases your credibility?",
+    "answers": [
+      {
+        "text": "Complaining frequently",
+        "isCorrect": false
+      },
+      {
+        "text": "Showing inconsistency",
+        "isCorrect": false
+      },
+      {
+        "text": "Demonstrating expertise and being reliable",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding feedback",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1306,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "You\u2019re trying to persuade someone who is skeptical. What\u2019s a good first step?",
+    "answers": [
+      {
+        "text": "Deny their concern",
+        "isCorrect": false
+      },
+      {
+        "text": "Rush through your pitch",
+        "isCorrect": false
+      },
+      {
+        "text": "Listen and understand their priorities",
+        "isCorrect": true
+      },
+      {
+        "text": "Quote your title",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1307,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "Which behavior makes persuasion harder?",
+    "answers": [
+      {
+        "text": "Understanding your audience",
+        "isCorrect": false
+      },
+      {
+        "text": "Using evidence",
+        "isCorrect": false
+      },
+      {
+        "text": "Interrupting or dominating the conversation",
+        "isCorrect": true
+      },
+      {
+        "text": "Being flexible",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1308,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "A client seems unsure about signing the agreement. What\u2019s your best move?",
+    "answers": [
+      {
+        "text": "Pressure them to act now",
+        "isCorrect": false
+      },
+      {
+        "text": "Talk faster to close",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask what concerns they have and address them",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the hesitation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1309,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "To persuade others, your solution must:",
+    "answers": [
+      {
+        "text": "Be popular",
+        "isCorrect": false
+      },
+      {
+        "text": "Sound impressive",
+        "isCorrect": false
+      },
+      {
+        "text": "Solve their actual need or pain point",
+        "isCorrect": true
+      },
+      {
+        "text": "Have complex vocabulary",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1310,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What role does empathy play in persuasion?",
+    "answers": [
+      {
+        "text": "It confuses the message",
+        "isCorrect": false
+      },
+      {
+        "text": "It weakens your position",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps build trust and relevance",
+        "isCorrect": true
+      },
+      {
+        "text": "It slows decision making",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1311,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "You want to influence a cross-functional team. What improves your chances?",
+    "answers": [
+      {
+        "text": "Stay isolated in your own lane",
+        "isCorrect": false
+      },
+      {
+        "text": "Dismiss team goals",
+        "isCorrect": false
+      },
+      {
+        "text": "Learn their needs and show how your idea supports them",
+        "isCorrect": true
+      },
+      {
+        "text": "Speak only in KPIs",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1312,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "You present a good idea but get no buy-in. What should you try next?",
+    "answers": [
+      {
+        "text": "Repeat it louder",
+        "isCorrect": false
+      },
+      {
+        "text": "Blame the audience",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask for feedback to refine and try again",
+        "isCorrect": true
+      },
+      {
+        "text": "Drop it completely",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1313,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "A colleague is resistant to change. What\u2019s a good influence tactic?",
+    "answers": [
+      {
+        "text": "Criticize their attitude",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore them",
+        "isCorrect": false
+      },
+      {
+        "text": "Show how the change benefits their work",
+        "isCorrect": true
+      },
+      {
+        "text": "Push through without involving them",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1314,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "When trying to persuade a team, it\u2019s useful to:",
+    "answers": [
+      {
+        "text": "Know what matters to them",
+        "isCorrect": true
+      },
+      {
+        "text": "Overload them with info",
+        "isCorrect": false
+      },
+      {
+        "text": "Be vague and general",
+        "isCorrect": false
+      },
+      {
+        "text": "Talk more than listen",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1315,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "How can body language affect persuasion?",
+    "answers": [
+      {
+        "text": "It distracts people",
+        "isCorrect": false
+      },
+      {
+        "text": "It doesn\u2019t matter",
+        "isCorrect": false
+      },
+      {
+        "text": "It reinforces your message and builds trust",
+        "isCorrect": true
+      },
+      {
+        "text": "It creates bias",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1316,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What helps you influence up (i.e., persuade leadership)?",
+    "answers": [
+      {
+        "text": "Use casual language",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid data",
+        "isCorrect": false
+      },
+      {
+        "text": "Align with strategic priorities and focus on outcomes",
+        "isCorrect": true
+      },
+      {
+        "text": "Lead with emotion only",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1317,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "You want to be persuasive without being pushy. What\u2019s a good approach?",
+    "answers": [
+      {
+        "text": "Build relationships and offer value",
+        "isCorrect": true
+      },
+      {
+        "text": "Repeat your message constantly",
+        "isCorrect": false
+      },
+      {
+        "text": "Dominate conversations",
+        "isCorrect": false
+      },
+      {
+        "text": "Speak without a plan",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1318,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "How can storytelling support persuasion?",
+    "answers": [
+      {
+        "text": "It wastes time",
+        "isCorrect": false
+      },
+      {
+        "text": "It confuses facts",
+        "isCorrect": false
+      },
+      {
+        "text": "It creates connection and makes your message memorable",
+        "isCorrect": true
+      },
+      {
+        "text": "It weakens arguments",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1319,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What should you avoid when trying to persuade ethically?",
+    "answers": [
+      {
+        "text": "Understanding impact",
+        "isCorrect": false
+      },
+      {
+        "text": "Being transparent",
+        "isCorrect": false
+      },
+      {
+        "text": "Manipulating or misleading people",
+        "isCorrect": true
+      },
+      {
+        "text": "Listening",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1320,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "When is the best time to persuade someone?",
+    "answers": [
+      {
+        "text": "When they\u2019re distracted",
+        "isCorrect": false
+      },
+      {
+        "text": "When they\u2019re angry",
+        "isCorrect": false
+      },
+      {
+        "text": "When they\u2019re open and focused",
+        "isCorrect": true
+      },
+      {
+        "text": "Randomly during crisis",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1321,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What\u2019s the impact of using active listening during persuasion?",
+    "answers": [
+      {
+        "text": "It reduces clarity",
+        "isCorrect": false
+      },
+      {
+        "text": "It slows things down",
+        "isCorrect": false
+      },
+      {
+        "text": "It shows respect and builds engagement",
+        "isCorrect": true
+      },
+      {
+        "text": "It confuses people",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1322,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "A teammate ignores your idea. What\u2019s a strategic next step?",
+    "answers": [
+      {
+        "text": "Call them out in front of others",
+        "isCorrect": false
+      },
+      {
+        "text": "Repeat the same message",
+        "isCorrect": false
+      },
+      {
+        "text": "Find a new way to frame the idea based on their goals",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid them",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1323,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What\u2019s a good way to end a persuasive conversation?",
+    "answers": [
+      {
+        "text": "With assumptions",
+        "isCorrect": false
+      },
+      {
+        "text": "With a joke",
+        "isCorrect": false
+      },
+      {
+        "text": "With a clear ask or next step",
+        "isCorrect": true
+      },
+      {
+        "text": "Without any summary",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1324,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "What builds long-term influence the most?",
+    "answers": [
+      {
+        "text": "Charisma",
+        "isCorrect": false
+      },
+      {
+        "text": "Demanding urgency",
+        "isCorrect": false
+      },
+      {
+        "text": "Consistency, credibility, and connection",
+        "isCorrect": true
+      },
+      {
+        "text": "Authority only",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1325,
+    "skill": "Influence & Persuasion",
+    "category": "Influence & Persuasion",
+    "question": "How can you handle objections while staying persuasive?",
+    "answers": [
+      {
+        "text": "Ignore them",
+        "isCorrect": false
+      },
+      {
+        "text": "Dismiss them quickly",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge and respond with facts or empathy",
+        "isCorrect": true
+      },
+      {
+        "text": "Blame someone else",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  }
+]
