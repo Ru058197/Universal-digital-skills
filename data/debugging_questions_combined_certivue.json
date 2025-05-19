@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1101,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the output of the following C code?\n\nint x = 1, y = 0, z = 5;\nint a = x && y || z++;\nprintf(\"%d\", z);",
+    "answers": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "Varies",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1102,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the output of the following C code?\n\nint x = 1, z = 3;\nint y = x << 3;\nprintf(\"%d\", y);",
+    "answers": [
+      {
+        "text": "-2147483648",
+        "isCorrect": false
+      },
+      {
+        "text": "Runtime Error",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1103,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "In debugging, what is the term for examining the program step by step?",
+    "answers": [
+      {
+        "text": "Controlling",
+        "isCorrect": false
+      },
+      {
+        "text": "Tracing",
+        "isCorrect": false
+      },
+      {
+        "text": "Stepping",
+        "isCorrect": true
+      },
+      {
+        "text": "Testing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1104,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Which of the following is a freeware GNU debugger that runs on most Unix-like platforms?",
+    "answers": [
+      {
+        "text": "GDB",
+        "isCorrect": true
+      },
+      {
+        "text": "GNB",
+        "isCorrect": false
+      },
+      {
+        "text": "FDB",
+        "isCorrect": false
+      },
+      {
+        "text": "FNB",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1105,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What command in GDB displays a short description of a command?",
+    "answers": [
+      {
+        "text": "he",
+        "isCorrect": false
+      },
+      {
+        "text": "h",
+        "isCorrect": true
+      },
+      {
+        "text": "assist",
+        "isCorrect": false
+      },
+      {
+        "text": "assistant",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1106,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Which command in GDB creates an inferior process that runs your program?",
+    "answers": [
+      {
+        "text": "run",
+        "isCorrect": true
+      },
+      {
+        "text": "exit",
+        "isCorrect": false
+      },
+      {
+        "text": "execute",
+        "isCorrect": false
+      },
+      {
+        "text": "e",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1107,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Which of the following does not affect the execution of a program?",
+    "answers": [
+      {
+        "text": "Arguments",
+        "isCorrect": false
+      },
+      {
+        "text": "Environment",
+        "isCorrect": false
+      },
+      {
+        "text": "Control",
+        "isCorrect": true
+      },
+      {
+        "text": "I/O",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1108,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What does the `set args` command without arguments do in GDB?",
+    "answers": [
+      {
+        "text": "Initialize all arguments",
+        "isCorrect": false
+      },
+      {
+        "text": "Remove all arguments",
+        "isCorrect": true
+      },
+      {
+        "text": "No change",
+        "isCorrect": false
+      },
+      {
+        "text": "Show all arguments",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1109,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Which of the following is not involved in debugging?",
+    "answers": [
+      {
+        "text": "Identifying",
+        "isCorrect": false
+      },
+      {
+        "text": "Isolating",
+        "isCorrect": false
+      },
+      {
+        "text": "Test",
+        "isCorrect": true
+      },
+      {
+        "text": "Fixing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1110,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the output of the following C code?\n\nint x=0x10+010+10;\nprintf(\"x=%x\", x);",
+    "answers": [
+      {
+        "text": "I=34",
+        "isCorrect": false
+      },
+      {
+        "text": "X=22",
+        "isCorrect": true
+      },
+      {
+        "text": "X=34",
+        "isCorrect": false
+      },
+      {
+        "text": "Error",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1111,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the output of this Python code?\n\nx = [1, 2, 3]\nprint(x[3])",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "IndexError",
+        "isCorrect": true
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1112,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Which statement best describes the bug in this code?\n\nlet total = 0;\nfor (let i = 0; i <= 10; i++) {\n  total += i;\n}\nconsole.log(total);",
+    "answers": [
+      {
+        "text": "Off-by-one error",
+        "isCorrect": true
+      },
+      {
+        "text": "Syntax error",
+        "isCorrect": false
+      },
+      {
+        "text": "Incorrect loop variable",
+        "isCorrect": false
+      },
+      {
+        "text": "Infinite loop",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1113,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Which of the following will raise a runtime error in C++?",
+    "answers": [
+      {
+        "text": "int x = 5 / 1;",
+        "isCorrect": false
+      },
+      {
+        "text": "int y = 10 / 0;",
+        "isCorrect": true
+      },
+      {
+        "text": "int z = 2 * 2;",
+        "isCorrect": false
+      },
+      {
+        "text": "int a = 4 - 2;",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1114,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What\u2019s wrong with this SQL query?\n\nSELECT * FROM employees WHERE name = 'John;",
+    "answers": [
+      {
+        "text": "Missing table",
+        "isCorrect": false
+      },
+      {
+        "text": "Invalid column",
+        "isCorrect": false
+      },
+      {
+        "text": "Unclosed string",
+        "isCorrect": true
+      },
+      {
+        "text": "No WHERE clause",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1115,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "Why does this Python loop cause a syntax error?\n\nfor i in range(5)\n  print(i)",
+    "answers": [
+      {
+        "text": "Colon missing",
+        "isCorrect": true
+      },
+      {
+        "text": "Parentheses are wrong",
+        "isCorrect": false
+      },
+      {
+        "text": "print should be capitalized",
+        "isCorrect": false
+      },
+      {
+        "text": "range syntax is incorrect",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1116,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the output of this JavaScript code?\n\nconsole.log(typeof NaN);",
+    "answers": [
+      {
+        "text": "'undefined'",
+        "isCorrect": false
+      },
+      {
+        "text": "'object'",
+        "isCorrect": false
+      },
+      {
+        "text": "'number'",
+        "isCorrect": true
+      },
+      {
+        "text": "'NaN'",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1117,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What\u2019s the bug in this C++ statement?\n\nint array[3] = {1, 2};",
+    "answers": [
+      {
+        "text": "Array index out of bounds",
+        "isCorrect": false
+      },
+      {
+        "text": "Array too small",
+        "isCorrect": false
+      },
+      {
+        "text": "Missing one initializer (not a bug)",
+        "isCorrect": true
+      },
+      {
+        "text": "Invalid syntax",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1118,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "In JavaScript, what causes this to return 'undefined'?\n\nlet x = {};\nconsole.log(x.name);",
+    "answers": [
+      {
+        "text": "name is undefined",
+        "isCorrect": true
+      },
+      {
+        "text": "name is reserved",
+        "isCorrect": false
+      },
+      {
+        "text": "x is null",
+        "isCorrect": false
+      },
+      {
+        "text": "Object syntax error",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1119,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the problem in this SQL query?\n\nSELECT name age FROM users;",
+    "answers": [
+      {
+        "text": "Missing comma between columns",
+        "isCorrect": true
+      },
+      {
+        "text": "Missing WHERE clause",
+        "isCorrect": false
+      },
+      {
+        "text": "Invalid table name",
+        "isCorrect": false
+      },
+      {
+        "text": "Unquoted string",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  },
+  {
+    "id": 1120,
+    "skill": "Debugging",
+    "category": "Code Debugging",
+    "question": "What is the result of this Python code?\n\nx = '10'\ny = 2\nprint(x * y)",
+    "answers": [
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "1010",
+        "isCorrect": false
+      },
+      {
+        "text": "101010",
+        "isCorrect": true
+      },
+      {
+        "text": "TypeError",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Builder",
+    "context": "Tech"
+  }
+]

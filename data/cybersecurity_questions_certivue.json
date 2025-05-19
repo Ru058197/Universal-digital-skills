@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1201,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is the primary goal of cybersecurity?",
+    "answers": [
+      {
+        "text": "Enhance website aesthetics",
+        "isCorrect": false
+      },
+      {
+        "text": "Protect systems from digital attacks",
+        "isCorrect": true
+      },
+      {
+        "text": "Increase network speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Advertise services",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1202,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which of the following is NOT a component of the CIA triad in cybersecurity?",
+    "answers": [
+      {
+        "text": "Confidentiality",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrity",
+        "isCorrect": false
+      },
+      {
+        "text": "Availability",
+        "isCorrect": false
+      },
+      {
+        "text": "Authentication",
+        "isCorrect": true
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1203,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What does the principle of least privilege entail?",
+    "answers": [
+      {
+        "text": "Users have complete access",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimal access for tasks",
+        "isCorrect": true
+      },
+      {
+        "text": "Temporary access rights",
+        "isCorrect": false
+      },
+      {
+        "text": "Restricted from everything",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1204,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which of the following is a common tool used to scan a network for vulnerabilities?",
+    "answers": [
+      {
+        "text": "Word Processor",
+        "isCorrect": false
+      },
+      {
+        "text": "Nmap",
+        "isCorrect": true
+      },
+      {
+        "text": "Photoshop",
+        "isCorrect": false
+      },
+      {
+        "text": "VLC Player",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1205,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is phishing?",
+    "answers": [
+      {
+        "text": "A type of malware",
+        "isCorrect": false
+      },
+      {
+        "text": "A method to protect data",
+        "isCorrect": false
+      },
+      {
+        "text": "Fraudulent attempt to obtain info",
+        "isCorrect": true
+      },
+      {
+        "text": "A network scan technique",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1206,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is two-factor authentication (2FA)?",
+    "answers": [
+      {
+        "text": "Two passwords for login",
+        "isCorrect": false
+      },
+      {
+        "text": "Password and second verification",
+        "isCorrect": true
+      },
+      {
+        "text": "Logging in from two devices",
+        "isCorrect": false
+      },
+      {
+        "text": "Two browsers used",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1207,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which of the following is considered a strong password?",
+    "answers": [
+      {
+        "text": "password123",
+        "isCorrect": false
+      },
+      {
+        "text": "123456",
+        "isCorrect": false
+      },
+      {
+        "text": "P@ssw0rd!",
+        "isCorrect": true
+      },
+      {
+        "text": "qwerty",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1208,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is a firewall?",
+    "answers": [
+      {
+        "text": "A physical barrier",
+        "isCorrect": false
+      },
+      {
+        "text": "Blocks unauthorized access",
+        "isCorrect": true
+      },
+      {
+        "text": "A type of virus",
+        "isCorrect": false
+      },
+      {
+        "text": "An encryption tool",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1209,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What does VPN stand for?",
+    "answers": [
+      {
+        "text": "Virtual Private Network",
+        "isCorrect": true
+      },
+      {
+        "text": "Variable Protocol Network",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual Public Network",
+        "isCorrect": false
+      },
+      {
+        "text": "Verified Private Network",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1210,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which of the following is a type of malware that encrypts files and demands payment?",
+    "answers": [
+      {
+        "text": "Spyware",
+        "isCorrect": false
+      },
+      {
+        "text": "Adware",
+        "isCorrect": false
+      },
+      {
+        "text": "Ransomware",
+        "isCorrect": true
+      },
+      {
+        "text": "Trojan",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1211,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is the purpose of encryption in cybersecurity?",
+    "answers": [
+      {
+        "text": "Compress files",
+        "isCorrect": false
+      },
+      {
+        "text": "Speed up data",
+        "isCorrect": false
+      },
+      {
+        "text": "Secure data format",
+        "isCorrect": true
+      },
+      {
+        "text": "Delete unnecessary files",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1212,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which of the following is NOT a type of malware?",
+    "answers": [
+      {
+        "text": "Virus",
+        "isCorrect": false
+      },
+      {
+        "text": "Worm",
+        "isCorrect": false
+      },
+      {
+        "text": "Firewall",
+        "isCorrect": true
+      },
+      {
+        "text": "Trojan",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1213,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What does the term 'phishing' refer to in cybersecurity?",
+    "answers": [
+      {
+        "text": "Secure data",
+        "isCorrect": false
+      },
+      {
+        "text": "Improve network speed",
+        "isCorrect": false
+      },
+      {
+        "text": "Trick for sensitive info",
+        "isCorrect": true
+      },
+      {
+        "text": "Firewall method",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1214,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which of the following best describes a strong password?",
+    "answers": [
+      {
+        "text": "123456",
+        "isCorrect": false
+      },
+      {
+        "text": "password",
+        "isCorrect": false
+      },
+      {
+        "text": "P@ssw0rd!",
+        "isCorrect": true
+      },
+      {
+        "text": "qwerty",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1215,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is the main function of a firewall?",
+    "answers": [
+      {
+        "text": "Scan for viruses",
+        "isCorrect": false
+      },
+      {
+        "text": "Block unauthorized access",
+        "isCorrect": true
+      },
+      {
+        "text": "Store data",
+        "isCorrect": false
+      },
+      {
+        "text": "Manage users",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1216,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which is a common method used to authenticate users?",
+    "answers": [
+      {
+        "text": "IP address",
+        "isCorrect": false
+      },
+      {
+        "text": "Username and password",
+        "isCorrect": true
+      },
+      {
+        "text": "MAC address",
+        "isCorrect": false
+      },
+      {
+        "text": "Browser history",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1218,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which type of attack overwhelms a system with traffic?",
+    "answers": [
+      {
+        "text": "Phishing",
+        "isCorrect": false
+      },
+      {
+        "text": "DoS",
+        "isCorrect": true
+      },
+      {
+        "text": "Spoofing",
+        "isCorrect": false
+      },
+      {
+        "text": "Sniffing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1219,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is the purpose of two-factor authentication (2FA)?",
+    "answers": [
+      {
+        "text": "Speed login",
+        "isCorrect": false
+      },
+      {
+        "text": "Extra security",
+        "isCorrect": true
+      },
+      {
+        "text": "Replace passwords",
+        "isCorrect": false
+      },
+      {
+        "text": "Share accounts",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1220,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which is a common sign of a phishing attempt?",
+    "answers": [
+      {
+        "text": "Email from known contact",
+        "isCorrect": false
+      },
+      {
+        "text": "Poor grammar and errors",
+        "isCorrect": true
+      },
+      {
+        "text": "HTTPS site",
+        "isCorrect": false
+      },
+      {
+        "text": "Call from friend",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1221,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What does antivirus software do?",
+    "answers": [
+      {
+        "text": "Create data backups",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitor productivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Remove malware",
+        "isCorrect": true
+      },
+      {
+        "text": "Manage traffic",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1222,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "Which method ensures data availability?",
+    "answers": [
+      {
+        "text": "Data backups",
+        "isCorrect": true
+      },
+      {
+        "text": "Weak passwords",
+        "isCorrect": false
+      },
+      {
+        "text": "Disable firewall",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore updates",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1223,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is a trait of social engineering attacks?",
+    "answers": [
+      {
+        "text": "Technical flaws",
+        "isCorrect": false
+      },
+      {
+        "text": "Software bugs",
+        "isCorrect": false
+      },
+      {
+        "text": "Human manipulation",
+        "isCorrect": true
+      },
+      {
+        "text": "Strong authentication",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1224,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What is a zero-day vulnerability?",
+    "answers": [
+      {
+        "text": "Known bug",
+        "isCorrect": false
+      },
+      {
+        "text": "Old exploit",
+        "isCorrect": false
+      },
+      {
+        "text": "Undisclosed security flaw",
+        "isCorrect": true
+      },
+      {
+        "text": "Expired certificate",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  },
+  {
+    "id": 1225,
+    "skill": "Cybersecurity Basics",
+    "category": "Cybersecurity Basics",
+    "question": "What does HTTPS signify?",
+    "answers": [
+      {
+        "text": "Non-secure website",
+        "isCorrect": false
+      },
+      {
+        "text": "Encrypted connection",
+        "isCorrect": true
+      },
+      {
+        "text": "Free website",
+        "isCorrect": false
+      },
+      {
+        "text": "Local server",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Guardian",
+    "context": "IT/Network Security"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1301,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You're leading a project with a tight deadline. A team member is consistently late with their deliverables. What should you do?",
+    "answers": [
+      {
+        "text": "Ignore the issue",
+        "isCorrect": false
+      },
+      {
+        "text": "Publicly reprimand them",
+        "isCorrect": false
+      },
+      {
+        "text": "Privately discuss and offer support",
+        "isCorrect": true
+      },
+      {
+        "text": "Reassign their tasks without explanation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1302,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Two team members have a disagreement during a meeting. How do you handle it?",
+    "answers": [
+      {
+        "text": "Let them resolve it",
+        "isCorrect": false
+      },
+      {
+        "text": "Take sides",
+        "isCorrect": false
+      },
+      {
+        "text": "Mediate and find common ground",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the conflict",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1303,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A new policy is unpopular among your team. How do you address their concerns?",
+    "answers": [
+      {
+        "text": "Enforce it without discussion",
+        "isCorrect": false
+      },
+      {
+        "text": "Explain and invite feedback",
+        "isCorrect": true
+      },
+      {
+        "text": "Allow the team to ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Complain about it with them",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1304,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You're leading a team with diverse skill sets. How do you ensure collaboration?",
+    "answers": [
+      {
+        "text": "Assign tasks randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "Promote independence",
+        "isCorrect": false
+      },
+      {
+        "text": "Align tasks with strengths and encourage sharing",
+        "isCorrect": true
+      },
+      {
+        "text": "Focus only on top performers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1305,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A team member proposes an innovative idea. What is your response?",
+    "answers": [
+      {
+        "text": "Dismiss it",
+        "isCorrect": false
+      },
+      {
+        "text": "Critique it publicly",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluate and support further development",
+        "isCorrect": true
+      },
+      {
+        "text": "Take credit for it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1306,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Your team is experiencing low morale. How do you boost motivation?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Set unrealistic goals",
+        "isCorrect": false
+      },
+      {
+        "text": "Recognize effort and involve the team in planning",
+        "isCorrect": true
+      },
+      {
+        "text": "Replace team members",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1307,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Two departments are in conflict under your leadership. What do you do?",
+    "answers": [
+      {
+        "text": "Let them sort it out",
+        "isCorrect": false
+      },
+      {
+        "text": "Blame one department",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitate a joint resolution",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the issue",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1308,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A top employee shows signs of burnout. How do you respond?",
+    "answers": [
+      {
+        "text": "Give them more work",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Discuss their workload and provide support",
+        "isCorrect": true
+      },
+      {
+        "text": "Criticize performance",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1309,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You're leading a remote team across time zones. How do you ensure communication?",
+    "answers": [
+      {
+        "text": "Schedule meetings at your convenience",
+        "isCorrect": false
+      },
+      {
+        "text": "Use only email",
+        "isCorrect": false
+      },
+      {
+        "text": "Use async tools and fair scheduling",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid meetings",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1310,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Deadline is approaching but delays occurred. What do you do?",
+    "answers": [
+      {
+        "text": "Ignore delays",
+        "isCorrect": false
+      },
+      {
+        "text": "Blame the team",
+        "isCorrect": false
+      },
+      {
+        "text": "Communicate and propose a new timeline",
+        "isCorrect": true
+      },
+      {
+        "text": "Rush work and cut quality",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1311,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A junior team member voices a concern during a meeting. How do you respond?",
+    "answers": [
+      {
+        "text": "Dismiss it to maintain agenda",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge and invite discussion",
+        "isCorrect": true
+      },
+      {
+        "text": "Redirect the meeting immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Criticize them for interrupting",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1312,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You notice one team member is dominating conversations. What's your approach?",
+    "answers": [
+      {
+        "text": "Encourage quieter members to contribute",
+        "isCorrect": true
+      },
+      {
+        "text": "Let the dominant voice lead",
+        "isCorrect": false
+      },
+      {
+        "text": "End meetings early",
+        "isCorrect": false
+      },
+      {
+        "text": "Change team assignments",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1313,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A critical project fails under your leadership. What\u2019s the best course of action?",
+    "answers": [
+      {
+        "text": "Blame the team",
+        "isCorrect": false
+      },
+      {
+        "text": "Conduct a team debrief to learn and recover",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid future high-visibility projects",
+        "isCorrect": false
+      },
+      {
+        "text": "Delay reporting the failure",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1314,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Your team resists adopting a new workflow tool. How do you encourage adoption?",
+    "answers": [
+      {
+        "text": "Mandate immediate use",
+        "isCorrect": false
+      },
+      {
+        "text": "Demonstrate value and provide training",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore complaints",
+        "isCorrect": false
+      },
+      {
+        "text": "Replace resistant members",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1315,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A high-potential employee is bored. What\u2019s your leadership move?",
+    "answers": [
+      {
+        "text": "Assign more administrative tasks",
+        "isCorrect": false
+      },
+      {
+        "text": "Offer stretch assignments and growth opportunities",
+        "isCorrect": true
+      },
+      {
+        "text": "Ask them to train others only",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1316,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A cross-functional team you lead is not aligned. How do you proceed?",
+    "answers": [
+      {
+        "text": "Restructure the team",
+        "isCorrect": false
+      },
+      {
+        "text": "Align goals and facilitate collaboration",
+        "isCorrect": true
+      },
+      {
+        "text": "Assign work without discussion",
+        "isCorrect": false
+      },
+      {
+        "text": "Cancel the initiative",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1317,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "An employee challenges your decision in a team meeting. How do you handle it?",
+    "answers": [
+      {
+        "text": "Shut them down",
+        "isCorrect": false
+      },
+      {
+        "text": "Welcome the input and explain your reasoning",
+        "isCorrect": true
+      },
+      {
+        "text": "Discredit them privately",
+        "isCorrect": false
+      },
+      {
+        "text": "Change the topic quickly",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1318,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "One team consistently outperforms another. What\u2019s your leadership strategy?",
+    "answers": [
+      {
+        "text": "Give more resources to the winning team",
+        "isCorrect": false
+      },
+      {
+        "text": "Compare and shame the lower team",
+        "isCorrect": false
+      },
+      {
+        "text": "Explore what\u2019s working and mentor the others",
+        "isCorrect": true
+      },
+      {
+        "text": "Publicly reward only the top team",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1319,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You\u2019re onboarding several new team members. What\u2019s your best move?",
+    "answers": [
+      {
+        "text": "Let them figure things out",
+        "isCorrect": false
+      },
+      {
+        "text": "Provide structure, mentorship, and clear expectations",
+        "isCorrect": true
+      },
+      {
+        "text": "Assign low-level work immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Keep them isolated to observe",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1320,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Your manager gives unclear expectations. How do you lead your team?",
+    "answers": [
+      {
+        "text": "Wait for clarity",
+        "isCorrect": false
+      },
+      {
+        "text": "Guess what\u2019s needed",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask clarifying questions and translate direction to your team",
+        "isCorrect": true
+      },
+      {
+        "text": "Do nothing",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1321,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A deadline conflict arises with two critical projects. What do you do?",
+    "answers": [
+      {
+        "text": "Prioritize both and stretch your team",
+        "isCorrect": false
+      },
+      {
+        "text": "Drop one without analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Assess urgency, impact, and negotiate timelines",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the conflict",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1322,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A teammate confides in you about workplace exclusion. What\u2019s your responsibility?",
+    "answers": [
+      {
+        "text": "Tell them to ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Take the concern seriously and elevate it appropriately",
+        "isCorrect": true
+      },
+      {
+        "text": "Tell them to switch teams",
+        "isCorrect": false
+      },
+      {
+        "text": "Advise them to quit",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1323,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "Your team isn't meeting KPIs. What\u2019s your first step?",
+    "answers": [
+      {
+        "text": "Fire underperformers",
+        "isCorrect": false
+      },
+      {
+        "text": "Review goals and identify obstacles",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the metrics",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask for more time",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1324,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "One department continually misses inputs your team depends on. What do you do?",
+    "answers": [
+      {
+        "text": "Work around them",
+        "isCorrect": false
+      },
+      {
+        "text": "Escalate without context",
+        "isCorrect": false
+      },
+      {
+        "text": "Collaborate on expectations and timelines",
+        "isCorrect": true
+      },
+      {
+        "text": "Publicly call them out",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1325,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You\u2019re asked to reduce budget with minimal productivity loss. What\u2019s the smart move?",
+    "answers": [
+      {
+        "text": "Cut training immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Lay off junior employees",
+        "isCorrect": false
+      },
+      {
+        "text": "Analyze impact and optimize resources",
+        "isCorrect": true
+      },
+      {
+        "text": "Cancel projects",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1326,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "A team member wants more responsibility. How do you respond?",
+    "answers": [
+      {
+        "text": "Ignore the request",
+        "isCorrect": false
+      },
+      {
+        "text": "Add more tasks immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Discuss readiness and provide a growth path",
+        "isCorrect": true
+      },
+      {
+        "text": "Assign them a new team",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1327,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You notice team enthusiasm has declined. What\u2019s a leadership response?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Survey the team and act on feedback",
+        "isCorrect": true
+      },
+      {
+        "text": "Blame external factors",
+        "isCorrect": false
+      },
+      {
+        "text": "Delay all meetings",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1328,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "An executive bypasses you and directs your team directly. What do you do?",
+    "answers": [
+      {
+        "text": "Confront the exec in public",
+        "isCorrect": false
+      },
+      {
+        "text": "Realign chain of command privately",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Warn your team to ignore the exec",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1329,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You\u2019re asked to lead a team unfamiliar with your style. How do you earn trust?",
+    "answers": [
+      {
+        "text": "Enforce policies strictly",
+        "isCorrect": false
+      },
+      {
+        "text": "Model transparency and adapt your communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid feedback loops",
+        "isCorrect": false
+      },
+      {
+        "text": "Push your methods immediately",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  },
+  {
+    "id": 1330,
+    "skill": "Leadership",
+    "category": "Leadership",
+    "question": "You inherit a team with poor performance reviews. What\u2019s your first step?",
+    "answers": [
+      {
+        "text": "Terminate top offenders",
+        "isCorrect": false
+      },
+      {
+        "text": "Blame prior leadership",
+        "isCorrect": false
+      },
+      {
+        "text": "Assess current state and co-build an improvement plan",
+        "isCorrect": true
+      },
+      {
+        "text": "Request transfers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Basic",
+    "twin": "Collaborator",
+    "context": "Leadership"
+  }
+]
