@@ -1,29 +1,83 @@
 [
   {
-    "id": 1001,
-    "skill": "Sample",
-    "category": "Sample",
-    "question": "What is 2 + 2?",
+    "id": 3001,
+    "skill": "Analytical",
+    "category": "Analytical",
+    "question": "You\u2019re given a dataset with inconsistent entries. What\u2019s your first step?",
     "answers": [
       {
-        "text": "3",
+        "text": "Run a statistical analysis",
         "isCorrect": false
       },
       {
-        "text": "4",
+        "text": "Clean and validate the data",
         "isCorrect": true
       },
       {
-        "text": "5",
+        "text": "Ignore the inconsistencies",
         "isCorrect": false
       },
       {
-        "text": "22",
+        "text": "Present it to stakeholders immediately",
         "isCorrect": false
       }
     ],
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "twin": "Thinker",
-    "context": "General"
+    "context": "Workplace"
+  },
+  {
+    "id": 3002,
+    "skill": "Analytical",
+    "category": "Analytical",
+    "question": "Which method is best for identifying a pattern in large amounts of data?",
+    "answers": [
+      {
+        "text": "Brainstorming",
+        "isCorrect": false
+      },
+      {
+        "text": "Data visualization",
+        "isCorrect": true
+      },
+      {
+        "text": "Meeting with team members",
+        "isCorrect": false
+      },
+      {
+        "text": "Customer interviews",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "Workplace"
+  },
+  {
+    "id": 3003,
+    "skill": "Analytical",
+    "category": "Analytical",
+    "question": "You observe a sudden drop in website traffic. What\u2019s a reasonable first action?",
+    "answers": [
+      {
+        "text": "Rebuild the website",
+        "isCorrect": false
+      },
+      {
+        "text": "Investigate analytics for root cause",
+        "isCorrect": true
+      },
+      {
+        "text": "Call the marketing team immediately",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore it until it recovers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "Workplace"
   }
 ]
