@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Certivue Skill Assessment</title>
+  <title>Certivue Skill Dashboard</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,30 +13,41 @@
   </header>
   <main>
     <h1>Select a Skill to Begin</h1>
-    <div class="grid">
-<button onclick="startQuiz('adaptability')">Adaptability</button>
-<button onclick="startQuiz('analytical')">Analytical</button>
-<button onclick="startQuiz('communication')">Communication</button>
-<button onclick="startQuiz('compliance')">Compliance</button>
-<button onclick="startQuiz('conflict')">Conflict</button>
-<button onclick="startQuiz('customer_service')">Customer Service</button>
-<button onclick="startQuiz('data_literacy')">Data Literacy</button>
-<button onclick="startQuiz('decision_making')">Decision Making</button>
-<button onclick="startQuiz('delegation')">Delegation</button>
-<button onclick="startQuiz('ethics')">Ethics</button>
-<button onclick="startQuiz('html')">Html</button>
-<button onclick="startQuiz('influence')">Influence</button>
-<button onclick="startQuiz('javascript')">Javascript</button>
-<button onclick="startQuiz('problem_solving')">Problem Solving</button>
-<button onclick="startQuiz('project_management')">Project Management</button>
-<button onclick="startQuiz('python')">Python</button>
-<button onclick="startQuiz('remote_work')">Remote Work</button>
-<button onclick="startQuiz('spatial_skills')">Spatial Skills</button>
-<button onclick="startQuiz('sql')">Sql</button>
-<button onclick="startQuiz('teamwork')">Teamwork</button>
-<button onclick="startQuiz('time_management')">Time Management</button>
-<button onclick="startQuiz('workplace_judgment')">Workplace Judgment</button>
-    </div>
+
+    <section>
+      <h2>Behavioral Skills</h2>
+      <div class="grid">
+        <button onclick="startQuiz('adaptability')">🌀 Adaptability</button>
+        <button onclick="startQuiz('analytical')">🧠 Analytical</button>
+        <button onclick="startQuiz('communication')">💬 Communication</button>
+        <button onclick="startQuiz('compliance')">⚖️ Compliance</button>
+        <button onclick="startQuiz('conflict')">☮️ Conflict</button>
+        <button onclick="startQuiz('customer_service')">🙋 Customer Service</button>
+        <button onclick="startQuiz('data_literacy')">📊 Data Literacy</button>
+        <button onclick="startQuiz('decision_making')">🧭 Decision Making</button>
+        <button onclick="startQuiz('delegation')">📤 Delegation</button>
+        <button onclick="startQuiz('ethics')">⚠️ Ethics</button>
+        <button onclick="startQuiz('influence')">🎯 Influence</button>
+        <button onclick="startQuiz('problem_solving')">🛠️ Problem Solving</button>
+        <button onclick="startQuiz('project_management')">🗂️ Project Management</button>
+        <button onclick="startQuiz('remote_work')">🏠 Remote Work</button>
+        <button onclick="startQuiz('spatial_skills')">🧭 Spatial Skills</button>
+        <button onclick="startQuiz('teamwork')">🤝 Teamwork</button>
+        <button onclick="startQuiz('time_management')">⏰ Time Management</button>
+        <button onclick="startQuiz('workplace_judgment')">🧑‍⚖️ Workplace Judgment</button>
+      </div>
+    </section>
+
+    <section>
+      <h2>Technical Skills</h2>
+      <div class="grid">
+        <button onclick="startQuiz('html')">📄 HTML</button>
+        <button onclick="startQuiz('javascript')">📜 JavaScript</button>
+        <button onclick="startQuiz('python')">🐍 Python</button>
+        <button onclick="startQuiz('sql')">🧮 SQL</button>
+      </div>
+    </section>
+
   </main>
   <footer>&copy; 2025 Certivue</footer>
   <script>

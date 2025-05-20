@@ -27,15 +27,19 @@ main {
   text-align: center;
 }
 h1 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   color: #003366;
+}
+h2 {
+  color: #003366;
+  margin-top: 2rem;
 }
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 1rem;
-  margin: 2rem auto;
-  max-width: 800px;
+  margin: 1rem auto 2rem;
+  max-width: 1000px;
 }
 button {
   background: #fff;
@@ -43,17 +47,17 @@ button {
   padding: 1rem;
   border-radius: 1rem;
   font-weight: bold;
+  font-size: 14px;
   cursor: pointer;
   transition: 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
 }
 button:hover {
   border-color: #003366;
   background: #eef6ff;
-}
-button img {
-  display: block;
-  margin: 0 auto 0.5rem;
-  height: 40px;
 }
 footer {
   text-align: center;

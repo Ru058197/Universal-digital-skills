@@ -5,6 +5,15 @@
   <meta charset="UTF-8">
   <title>Certivue | Take Quiz</title>
   <link rel="stylesheet" href="styles.css">
+  <script>
+    document.addEventListener('contextmenu', event => event.preventDefault());
+    document.addEventListener('keydown', function(e) {
+      if (e.ctrlKey && ['c', 'v', 'u'].includes(e.key.toLowerCase()) || e.key === 'F12') {
+        e.preventDefault();
+        alert('This action is disabled during the assessment.');
+      }
+    });
+  </script>
 </head>
 <body>
   <header>
