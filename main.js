@@ -1,50 +1,110 @@
-function loadSkill(skillFile) {
-  fetch(`./data/${skillFile}.json`)
-    .then(res => res.json())
-    .then(data => {
-      localStorage.setItem('certivue_results', JSON.stringify(data));
-      window.location.href = 'results.html';
-    })
-    .catch(err => alert('Error loading skill file: ' + err));
+
+function getParam(name) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(name);
 }
-function displayResults() {
-  const data = JSON.parse(localStorage.getItem('certivue_results') || '[]');
-  if (!data.length) {
-    document.getElementById('summary').innerHTML = '<p>No results loaded.</p>';
+
+function startTimer() {
+  sessionStorage.setItem('quiz_start', Date.now());
+}
+
+function loadQuiz() {
+  const skill = getParam('skill');
+  if (!skill) return;
+
+  if (localStorage.getItem('attempt_' + skill)) {
+    document.body.innerHTML = '<main><h1>You have already completed this quiz.</h1></main>';
     return;
   }
+
+  fetch('./data/' + skill + '_questions_certivue.json')
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById('quiz-title').textContent = skill.replace('_', ' ').toUpperCase();
+      const form = document.getElementById('quiz-form');
+      form.innerHTML = '';
+      data.forEach((q, i) => {
+        const block = document.createElement('div');
+        block.className = 'question-block';
+        const question = document.createElement('h3');
+        question.textContent = 'Q' + (i + 1) + ': ' + q.question;
+        block.appendChild(question);
+        q.answers.forEach((a, j) => {
+          const label = document.createElement('label');
+          label.innerHTML = `<input type="radio" name="q${i}" value="${j}"> ${a.text}`;
+          block.appendChild(label);
+          block.appendChild(document.createElement('br'));
+        });
+        form.appendChild(block);
+      });
+      form.setAttribute('data-skill', skill);
+      sessionStorage.setItem('quiz_data', JSON.stringify(data));
+      startTimer();
+    });
+}
+
+function submitQuiz() {
+  const form = document.getElementById('quiz-form');
+  const skill = form.getAttribute('data-skill');
+  const data = JSON.parse(sessionStorage.getItem('quiz_data') || '[]');
+  const results = [];
+
+  for (let i = 0; i < data.length; i++) {
+    const selected = form.querySelector('input[name="q' + i + '"]:checked');
+    if (!selected) {
+      alert('Please answer all questions before submitting.');
+      return;
+    }
+    results.push({
+      question: data[i].question,
+      correct: data[i].answers.find(a => a.isCorrect).text,
+      selected: data[i].answers[selected.value].text,
+      isCorrect: data[i].answers[selected.value].isCorrect
+    });
+  }
+
+  const timeSpent = Date.now() - parseInt(sessionStorage.getItem('quiz_start'));
+  localStorage.setItem('certivue_results', JSON.stringify({ skill, results, timeSpent }));
+  localStorage.setItem('attempt_' + skill, 'true');
+  window.location.href = 'results.html';
+}
+
+function displayResults() {
+  const resultObj = JSON.parse(localStorage.getItem('certivue_results'));
+  if (!resultObj) return;
+
+  const { skill, results, timeSpent } = resultObj;
   const container = document.getElementById('summary');
-  container.innerHTML = '';
-  let score = 0;
-  data.forEach((q, i) => {
+  const correctCount = results.filter(r => r.isCorrect).length;
+
+  const score = document.createElement('p');
+  score.innerHTML = `<strong>Skill:</strong> ${skill.toUpperCase()}<br>
+    <strong>Correct:</strong> ${correctCount} / ${results.length}<br>
+    <strong>Time Taken:</strong> ${Math.round(timeSpent / 1000)} seconds`;
+  container.appendChild(score);
+
+  results.forEach((r, i) => {
     const block = document.createElement('div');
     block.className = 'question-block';
-    const questionText = document.createElement('h3');
-    questionText.textContent = `Q${i + 1}: ${q.question}`;
-    const correct = q.answers.find(a => a.isCorrect)?.text;
-    if (correct) score++;
-    const answerList = document.createElement('ul');
-    q.answers.forEach(ans => {
-      const li = document.createElement('li');
-      li.textContent = ans.text;
-      if (ans.isCorrect) li.style.fontWeight = 'bold';
-      answerList.appendChild(li);
-    });
-    block.appendChild(questionText);
-    block.appendChild(answerList);
+    const q = document.createElement('h3');
+    q.textContent = 'Q' + (i + 1) + ': ' + r.question;
+    const a = document.createElement('p');
+    a.innerHTML = `<strong>Your Answer:</strong> ${r.selected}<br><strong>Correct Answer:</strong> ${r.correct}`;
+    if (r.isCorrect) a.style.color = 'green';
+    else a.style.color = 'red';
+    block.appendChild(q);
+    block.appendChild(a);
     container.appendChild(block);
   });
-  const scoreDisplay = document.createElement('p');
-  scoreDisplay.innerHTML = `<strong>Total Questions:</strong> ${data.length} | <strong>Correct:</strong> ${score}`;
-  container.prepend(scoreDisplay);
 }
+
 function downloadCSV() {
-  const data = JSON.parse(localStorage.getItem('certivue_results') || '[]');
-  if (!data.length) return alert('No data to export.');
-  let csv = 'Question,Correct Answer\n';
-  data.forEach(q => {
-    const correct = q.answers.find(a => a.isCorrect)?.text || '';
-    csv += `"${q.question.replace(/"/g, '""')}","${correct.replace(/"/g, '""')}"\n`;
+  const resultObj = JSON.parse(localStorage.getItem('certivue_results'));
+  if (!resultObj) return alert('No data to export.');
+  let csv = 'Question,Selected Answer,Correct Answer,Correct?
+';
+  resultObj.results.forEach(r => {
+    csv += `"${r.question.replace(/"/g, '""')}","${r.selected}","${r.correct}",${r.isCorrect}\n`;
   });
   const blob = new Blob([csv], { type: 'text/csv' });
   const a = document.createElement('a');
@@ -52,6 +112,7 @@ function downloadCSV() {
   a.download = 'certivue_results.csv';
   a.click();
 }
+
 function downloadJSON() {
   const data = localStorage.getItem('certivue_results');
   if (!data) return alert('No data to export.');
@@ -61,4 +122,6 @@ function downloadJSON() {
   a.download = 'certivue_results.json';
   a.click();
 }
+
+if (window.location.pathname.includes('quiz.html')) loadQuiz();
 if (window.location.pathname.includes('results.html')) displayResults();

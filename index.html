@@ -1,60 +1,52 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Certivue | Universal Digital Skills Validation</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="UTF-8">
+  <title>Certivue Skill Assessment</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <div class="navbar">
-      <div class="logo">⚯ Certivue</div>
-      <nav>
-        <a href="#">Assessment</a>
-        <a href="#">Dashboard</a>
-      </nav>
-    </div>
+    <div class="logo">Certivue</div>
+    <nav><a href="index.html">Home</a></nav>
   </header>
   <main>
-    <section class="intro">
-      <h1>Universal Digital Skills Validation</h1>
-      <p>Select a skill category to start</p>
-    </section>
-    <section class="skills">
-      <h2>Behavioral Skills</h2>
-      <div class="grid">
-        <button onclick="loadSkill('adaptability_questions_certivue')">🔄 Adaptability</button>
-        <button onclick="loadSkill('communication_questions_certivue')">💬 Communication</button>
-        <button onclick="loadSkill('compliance_questions_certivue')">📝 Compliance</button>
-        <button onclick="loadSkill('conflict_questions_certivue')">⚔️ Conflict</button>
-        <button onclick="loadSkill('customer_service_questions_certivue')">🤝 Customer Service</button>
-        <button onclick="loadSkill('data_literacy_questions_certivue')">📈 Data Literacy</button>
-        <button onclick="loadSkill('delegation_questions_certivue')">📂 Delegation</button>
-        <button onclick="loadSkill('ethics_in_tech_questions_certivue')">⚖️ Ethics</button>
-        <button onclick="loadSkill('influence_persuasion_questions_certivue')">🎯 Influence</button>
-        <button onclick="loadSkill('leadership_questions_combined_certivue')">🧭 Leadership</button>
-        <button onclick="loadSkill('prioritization_questions_certivue')">📋 Prioritization</button>
-        <button onclick="loadSkill('problem_solving_questions_certivue')">🧠 Problem Solving</button>
-        <button onclick="loadSkill('project_management_questions_certivue')">🛠 Project Mgmt</button>
-        <button onclick="loadSkill('time_management_questions_certivue')">⏱ Time Management</button>
-        <button onclick="loadSkill('workplace_judgment_questions_certivue')">🛡 Workplace Judgment</button>
-      </div>
-      <h2>Technical Skills</h2>
-      <div class="grid">
-        <button onclick="loadSkill('cpp_questions_certivue')">🔧 C++</button>
-        <button onclick="loadSkill('cybersecurity_questions_certivue')">🔐 Cybersecurity</button>
-        <button onclick="loadSkill('debugging_questions_combined_certivue')">🧩 Debugging</button>
-        <button onclick="loadSkill('javascript_questions_certivue')">📜 JavaScript</button>
-        <button onclick="loadSkill('python_questions_certivue')">🐍 Python</button>
-        <button onclick="loadSkill('sql_questions_certivue')">🗄 SQL</button>
-        <button onclick="loadSkill('validation_bank_corrected_certivue')">📑 Validation Bank</button>
-      </div>
-    </section>
+    <h1>Select a Skill to Begin</h1>
+    <div class="grid">
+<button onclick="startQuiz('adaptability')">Adaptability</button>
+<button onclick="startQuiz('analytical')">Analytical</button>
+<button onclick="startQuiz('communication')">Communication</button>
+<button onclick="startQuiz('compliance')">Compliance</button>
+<button onclick="startQuiz('conflict')">Conflict</button>
+<button onclick="startQuiz('customer_service')">Customer Service</button>
+<button onclick="startQuiz('data_literacy')">Data Literacy</button>
+<button onclick="startQuiz('decision_making')">Decision Making</button>
+<button onclick="startQuiz('delegation')">Delegation</button>
+<button onclick="startQuiz('ethics')">Ethics</button>
+<button onclick="startQuiz('html')">Html</button>
+<button onclick="startQuiz('influence')">Influence</button>
+<button onclick="startQuiz('javascript')">Javascript</button>
+<button onclick="startQuiz('problem_solving')">Problem Solving</button>
+<button onclick="startQuiz('project_management')">Project Management</button>
+<button onclick="startQuiz('python')">Python</button>
+<button onclick="startQuiz('remote_work')">Remote Work</button>
+<button onclick="startQuiz('spatial_skills')">Spatial Skills</button>
+<button onclick="startQuiz('sql')">Sql</button>
+<button onclick="startQuiz('teamwork')">Teamwork</button>
+<button onclick="startQuiz('time_management')">Time Management</button>
+<button onclick="startQuiz('workplace_judgment')">Workplace Judgment</button>
+    </div>
   </main>
-  <footer>
-    <p>© 2025 Certivue</p>
-  </footer>
-  <script src="main.js"></script>
+  <footer>&copy; 2025 Certivue</footer>
+  <script>
+    function startQuiz(skill) {
+      if (localStorage.getItem('attempt_' + skill)) {
+        alert('You have already completed this assessment.');
+        return;
+      }
+      window.location.href = 'quiz.html?skill=' + skill;
+    }
+  </script>
 </body>
 </html>
