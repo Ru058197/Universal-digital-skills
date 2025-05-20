@@ -1,2 +1,30 @@
+
 <!DOCTYPE html>
-<!-- Placeholder for dashboard.html -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Certivue Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Certivue</div>
+    <nav>
+      <a href="index.html">Skill Selector</a>
+      <a href="results.html">Last Results</a>
+    </nav>
+  </header>
+  <main>
+    <h1>Your Dashboard</h1>
+    <div id="dashboard-summary" class="summary-card"></div>
+    <h2>Skill Progress</h2>
+    <div id="skill-grid" class="grid"></div>
+    <div class="export-buttons">
+      <button onclick="downloadDashboardCSV()">Export All Results (CSV)</button>
+      <button onclick="downloadDashboardJSON()">Export All Results (JSON)</button>
+    </div>
+  </main>
+  <footer>&copy; 2025 Certivue</footer>
+  <script src="main.js"></script>
+</body>
+</html>

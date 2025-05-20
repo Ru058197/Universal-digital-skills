@@ -65,3 +65,19 @@ footer {
   background: #eee;
   font-size: 0.9rem;
 }
+
+.summary-card {
+  border: 2px solid #ddd;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  background: #f0f8ff;
+  text-align: left;
+}
+.grid button small {
+  display: block;
+  font-weight: normal;
+  font-size: 12px;
+  color: #444;
+}
