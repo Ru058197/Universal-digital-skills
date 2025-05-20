@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1101,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "You\u2019re assigned to a new team with unfamiliar tools. What\u2019s the best mindset to start with?",
+    "answers": [
+      {
+        "text": "Resist using the new tools",
+        "isCorrect": false
+      },
+      {
+        "text": "Complain about the process",
+        "isCorrect": false
+      },
+      {
+        "text": "Be open to learning and ask questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the change",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1102,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "A key project deadline gets moved up unexpectedly. How do you respond?",
+    "answers": [
+      {
+        "text": "Refuse to adjust your schedule",
+        "isCorrect": false
+      },
+      {
+        "text": "Panic and vent to coworkers",
+        "isCorrect": false
+      },
+      {
+        "text": "Reprioritize and communicate the shift",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the change until the last minute",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1103,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Your company rolls out a new software you don\u2019t know. What\u2019s the best first step?",
+    "answers": [
+      {
+        "text": "Wait to be told what to do",
+        "isCorrect": false
+      },
+      {
+        "text": "Explore the training materials proactively",
+        "isCorrect": true
+      },
+      {
+        "text": "Complain about the change",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask someone to do it for you",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1104,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Adaptability in the workplace is best described as:",
+    "answers": [
+      {
+        "text": "Avoiding change whenever possible",
+        "isCorrect": false
+      },
+      {
+        "text": "Complaining about new systems",
+        "isCorrect": false
+      },
+      {
+        "text": "Adjusting quickly and constructively to new conditions",
+        "isCorrect": true
+      },
+      {
+        "text": "Sticking to old routines",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1105,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Your team leader shifts project priorities midweek. What\u2019s a good response?",
+    "answers": [
+      {
+        "text": "Stick to the old plan",
+        "isCorrect": false
+      },
+      {
+        "text": "Get frustrated and ignore it",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask questions and adjust your approach",
+        "isCorrect": true
+      },
+      {
+        "text": "Refuse until next week",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1106,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Which of the following best shows adaptability?",
+    "answers": [
+      {
+        "text": "Rejecting all feedback",
+        "isCorrect": false
+      },
+      {
+        "text": "Learning from mistakes and making adjustments",
+        "isCorrect": true
+      },
+      {
+        "text": "Staying rigid in your role",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding collaboration",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1107,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "You\u2019re asked to take on a task outside your job description. How do you approach it?",
+    "answers": [
+      {
+        "text": "Refuse unless it's mandatory",
+        "isCorrect": false
+      },
+      {
+        "text": "Say yes without asking questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Clarify expectations and explore how you can contribute",
+        "isCorrect": true
+      },
+      {
+        "text": "Do it reluctantly",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1108,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Which behavior reflects low adaptability?",
+    "answers": [
+      {
+        "text": "Embracing feedback",
+        "isCorrect": false
+      },
+      {
+        "text": "Being flexible in crisis",
+        "isCorrect": false
+      },
+      {
+        "text": "Resisting all suggestions",
+        "isCorrect": true
+      },
+      {
+        "text": "Working well under pressure",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1109,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "A team process is restructured. What\u2019s a productive way to engage?",
+    "answers": [
+      {
+        "text": "Ignore the new process",
+        "isCorrect": false
+      },
+      {
+        "text": "Criticize it constantly",
+        "isCorrect": false
+      },
+      {
+        "text": "Try it out and give constructive feedback",
+        "isCorrect": true
+      },
+      {
+        "text": "Refuse to document changes",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1110,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Why is adaptability valued in fast-moving environments?",
+    "answers": [
+      {
+        "text": "Because it slows change",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it resists new technology",
+        "isCorrect": false
+      },
+      {
+        "text": "Because it ensures people can pivot and remain effective",
+        "isCorrect": true
+      },
+      {
+        "text": "Because it encourages disagreement",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1111,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "When your usual approach fails, what shows strong adaptability?",
+    "answers": [
+      {
+        "text": "Blame others",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid similar tasks in the future",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluate what went wrong and try a new method",
+        "isCorrect": true
+      },
+      {
+        "text": "Stick with the original plan anyway",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1112,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Which attitude helps you become more adaptable?",
+    "answers": [
+      {
+        "text": "Curiosity and willingness to try",
+        "isCorrect": true
+      },
+      {
+        "text": "Fear of failure",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding responsibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Need for control",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1113,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "You\u2019re temporarily assigned to a new department. What\u2019s a good way to thrive?",
+    "answers": [
+      {
+        "text": "Stay quiet and avoid interaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Act like you already know everything",
+        "isCorrect": false
+      },
+      {
+        "text": "Observe, ask questions, and learn quickly",
+        "isCorrect": true
+      },
+      {
+        "text": "Complain until you're moved back",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1114,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "What\u2019s the risk of refusing to adapt in a changing organization?",
+    "answers": [
+      {
+        "text": "You\u2019ll get more responsibility",
+        "isCorrect": false
+      },
+      {
+        "text": "You\u2019ll become a better expert",
+        "isCorrect": false
+      },
+      {
+        "text": "You may get left behind as others grow",
+        "isCorrect": true
+      },
+      {
+        "text": "You\u2019ll receive more support",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1115,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "You\u2019ve always done it 'your way.' What\u2019s the benefit of trying something new?",
+    "answers": [
+      {
+        "text": "It wastes time",
+        "isCorrect": false
+      },
+      {
+        "text": "It confuses others",
+        "isCorrect": false
+      },
+      {
+        "text": "It can lead to improvement and innovation",
+        "isCorrect": true
+      },
+      {
+        "text": "It weakens your expertise",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1116,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "A customer suddenly changes the requirements. What\u2019s a good next move?",
+    "answers": [
+      {
+        "text": "Push back and decline",
+        "isCorrect": false
+      },
+      {
+        "text": "Panic and ask someone else to handle it",
+        "isCorrect": false
+      },
+      {
+        "text": "Clarify the new expectations and update the plan",
+        "isCorrect": true
+      },
+      {
+        "text": "Say nothing and do the old plan",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1117,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "What mindset helps in uncertain situations?",
+    "answers": [
+      {
+        "text": "Only focus on your role",
+        "isCorrect": false
+      },
+      {
+        "text": "Look for someone to blame",
+        "isCorrect": false
+      },
+      {
+        "text": "Stay flexible and solution-oriented",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid input from others",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1118,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Your manager gives feedback that your workflow needs to change. What do you do?",
+    "answers": [
+      {
+        "text": "Defend your approach aggressively",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuse to change",
+        "isCorrect": false
+      },
+      {
+        "text": "Listen and ask for clarification",
+        "isCorrect": true
+      },
+      {
+        "text": "Pretend to change, but continue your way",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1119,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "You\u2019re unsure how to complete a new assignment. What\u2019s a smart approach?",
+    "answers": [
+      {
+        "text": "Complain about it",
+        "isCorrect": false
+      },
+      {
+        "text": "Try it out, then ask for feedback",
+        "isCorrect": true
+      },
+      {
+        "text": "Wait for someone else to do it",
+        "isCorrect": false
+      },
+      {
+        "text": "Do nothing and hope it goes away",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1120,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Adaptable employees are typically known for:",
+    "answers": [
+      {
+        "text": "Sticking to tradition",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding technology",
+        "isCorrect": false
+      },
+      {
+        "text": "Resilience and openness to learning",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignoring communication",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1121,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "What does emotional adaptability involve?",
+    "answers": [
+      {
+        "text": "Suppressing emotion",
+        "isCorrect": false
+      },
+      {
+        "text": "Exploding under stress",
+        "isCorrect": false
+      },
+      {
+        "text": "Staying calm and adjusting your reaction",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding all decisions",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1122,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "What\u2019s a good first step when facing an unexpected challenge?",
+    "answers": [
+      {
+        "text": "React impulsively",
+        "isCorrect": false
+      },
+      {
+        "text": "Shut down and avoid it",
+        "isCorrect": false
+      },
+      {
+        "text": "Pause, assess options, and adapt your plan",
+        "isCorrect": true
+      },
+      {
+        "text": "Get angry and escalate",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1123,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "What can make someone more adaptable at work?",
+    "answers": [
+      {
+        "text": "Rigid routines",
+        "isCorrect": false
+      },
+      {
+        "text": "Learning new skills continuously",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding feedback",
+        "isCorrect": false
+      },
+      {
+        "text": "Resisting collaboration",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1124,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Why is feedback helpful for adaptability?",
+    "answers": [
+      {
+        "text": "It creates pressure",
+        "isCorrect": false
+      },
+      {
+        "text": "It validates complaints",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps identify areas for growth and adjustment",
+        "isCorrect": true
+      },
+      {
+        "text": "It\u2019s only for poor performers",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  },
+  {
+    "id": 1125,
+    "skill": "Adaptability",
+    "category": "Adaptability",
+    "question": "Which behavior would help you adapt better to remote work?",
+    "answers": [
+      {
+        "text": "Avoid structure",
+        "isCorrect": false
+      },
+      {
+        "text": "Use flexible routines and check-ins",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore coworkers",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuse video calls",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Explorer",
+    "context": "General Workplace"
+  }
+]

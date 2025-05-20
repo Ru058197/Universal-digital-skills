@@ -1,0 +1,677 @@
+[
+  {
+    "id": 300,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the process of exchanging information and meaning between individuals or groups called?",
+    "answers": [
+      {
+        "text": "Negotiation",
+        "isCorrect": false
+      },
+      {
+        "text": "Persuasion",
+        "isCorrect": false
+      },
+      {
+        "text": "Communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Presentation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 301,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which of the following is an example of nonverbal communication?",
+    "answers": [
+      {
+        "text": "Speaking",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Using hand gestures",
+        "isCorrect": true
+      },
+      {
+        "text": "Sending an email",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 302,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What does active listening involve?",
+    "answers": [
+      {
+        "text": "Interrupting the speaker",
+        "isCorrect": false
+      },
+      {
+        "text": "Focusing on your response",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding eye contact",
+        "isCorrect": false
+      },
+      {
+        "text": "Paying attention and understanding the speaker",
+        "isCorrect": true
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 303,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which of the following is an example of written communication?",
+    "answers": [
+      {
+        "text": "Having a conversation",
+        "isCorrect": false
+      },
+      {
+        "text": "Sending a text message",
+        "isCorrect": true
+      },
+      {
+        "text": "Making a phone call",
+        "isCorrect": false
+      },
+      {
+        "text": "Attending a meeting",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 304,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is empathy?",
+    "answers": [
+      {
+        "text": "Understanding and sharing the feelings of others",
+        "isCorrect": true
+      },
+      {
+        "text": "Convincing others to agree",
+        "isCorrect": false
+      },
+      {
+        "text": "Interrupting others",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignoring others' emotions",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 305,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What are interpersonal skills?",
+    "answers": [
+      {
+        "text": "Skills used in written communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Skills used in nonverbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Skills used in one-on-one interactions",
+        "isCorrect": true
+      },
+      {
+        "text": "Skills used in public speaking",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 306,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is an essential element of effective public speaking?",
+    "answers": [
+      {
+        "text": "Speaking fast",
+        "isCorrect": false
+      },
+      {
+        "text": "Using complex vocabulary",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintaining eye contact",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding visual aids",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 307,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What does emotional intelligence involve?",
+    "answers": [
+      {
+        "text": "Ignoring emotions",
+        "isCorrect": false
+      },
+      {
+        "text": "Recognizing and managing emotions",
+        "isCorrect": true
+      },
+      {
+        "text": "Focusing only on logic",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding connections",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 308,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the purpose of feedback in communication?",
+    "answers": [
+      {
+        "text": "To criticize",
+        "isCorrect": false
+      },
+      {
+        "text": "To express opinions",
+        "isCorrect": false
+      },
+      {
+        "text": "To evaluate and improve",
+        "isCorrect": true
+      },
+      {
+        "text": "To dominate conversation",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 309,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Why is cultural awareness important in communication?",
+    "answers": [
+      {
+        "text": "To impose values",
+        "isCorrect": false
+      },
+      {
+        "text": "To avoid diversity",
+        "isCorrect": false
+      },
+      {
+        "text": "To understand and respect differences",
+        "isCorrect": true
+      },
+      {
+        "text": "To promote misunderstandings",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 310,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which communication skill involves vocabulary and tone?",
+    "answers": [
+      {
+        "text": "Verbal communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Nonverbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening",
+        "isCorrect": false
+      },
+      {
+        "text": "Written communication",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 311,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the ability to share the perspective of others called?",
+    "answers": [
+      {
+        "text": "Empathy",
+        "isCorrect": true
+      },
+      {
+        "text": "Assertiveness",
+        "isCorrect": false
+      },
+      {
+        "text": "Negotiation",
+        "isCorrect": false
+      },
+      {
+        "text": "Emotional intelligence",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 312,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which of the following is a nonverbal communication cue?",
+    "answers": [
+      {
+        "text": "Speaking clearly",
+        "isCorrect": false
+      },
+      {
+        "text": "Using grammar",
+        "isCorrect": false
+      },
+      {
+        "text": "Nodding in agreement",
+        "isCorrect": true
+      },
+      {
+        "text": "Writing an email",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 313,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What does it mean to be an active listener?",
+    "answers": [
+      {
+        "text": "Focusing on response",
+        "isCorrect": false
+      },
+      {
+        "text": "Interrupting",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking questions and providing feedback",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoiding eye contact",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 314,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which skill involves expressing ideas effectively in writing?",
+    "answers": [
+      {
+        "text": "Verbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Nonverbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening",
+        "isCorrect": false
+      },
+      {
+        "text": "Written communication",
+        "isCorrect": true
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 315,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the ability to deliver ideas clearly to an audience?",
+    "answers": [
+      {
+        "text": "Negotiation",
+        "isCorrect": false
+      },
+      {
+        "text": "Presentation skills",
+        "isCorrect": true
+      },
+      {
+        "text": "Interpersonal skills",
+        "isCorrect": false
+      },
+      {
+        "text": "Empathy",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 316,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What does emotional intelligence help establish?",
+    "answers": [
+      {
+        "text": "Rapport and trust",
+        "isCorrect": true
+      },
+      {
+        "text": "Conflict",
+        "isCorrect": false
+      },
+      {
+        "text": "Dominance",
+        "isCorrect": false
+      },
+      {
+        "text": "Biases",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 317,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the purpose of constructive feedback?",
+    "answers": [
+      {
+        "text": "To criticize",
+        "isCorrect": false
+      },
+      {
+        "text": "To dominate",
+        "isCorrect": false
+      },
+      {
+        "text": "To improve communication",
+        "isCorrect": true
+      },
+      {
+        "text": "To avoid feedback",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 318,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which skill involves understanding cultural differences?",
+    "answers": [
+      {
+        "text": "Verbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Nonverbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Cultural awareness",
+        "isCorrect": true
+      },
+      {
+        "text": "Written communication",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 319,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which skill involves body language and expressions?",
+    "answers": [
+      {
+        "text": "Verbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Nonverbal communication",
+        "isCorrect": true
+      },
+      {
+        "text": "Listening",
+        "isCorrect": false
+      },
+      {
+        "text": "Written communication",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 320,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the ability to interact effectively with others called?",
+    "answers": [
+      {
+        "text": "Verbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Nonverbal communication",
+        "isCorrect": false
+      },
+      {
+        "text": "Interpersonal skills",
+        "isCorrect": true
+      },
+      {
+        "text": "Presentation skills",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 321,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which skill involves delivering information to an audience?",
+    "answers": [
+      {
+        "text": "Negotiation",
+        "isCorrect": false
+      },
+      {
+        "text": "Public speaking",
+        "isCorrect": true
+      },
+      {
+        "text": "Emotional intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "Empathy",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 322,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is the skill of recognizing and managing emotions?",
+    "answers": [
+      {
+        "text": "Empathy",
+        "isCorrect": false
+      },
+      {
+        "text": "Emotional intelligence",
+        "isCorrect": true
+      },
+      {
+        "text": "Active listening",
+        "isCorrect": false
+      },
+      {
+        "text": "Written communication",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 323,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "What is an effective way to give feedback?",
+    "answers": [
+      {
+        "text": "Be vague",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus on personal attacks",
+        "isCorrect": false
+      },
+      {
+        "text": "Be specific and constructive",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid feedback",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  },
+  {
+    "id": 324,
+    "skill": "Communication",
+    "category": "Communication",
+    "question": "Which is an example of written communication?",
+    "answers": [
+      {
+        "text": "Conversation",
+        "isCorrect": false
+      },
+      {
+        "text": "Phone call",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing an email",
+        "isCorrect": true
+      },
+      {
+        "text": "Using gestures",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Collaborator",
+    "context": "General Workplace"
+  }
+]

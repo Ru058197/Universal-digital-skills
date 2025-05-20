@@ -1,0 +1,812 @@
+[
+  {
+    "id": 401,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are definitely Lazzies?",
+    "answers": [
+      {
+        "text": "Yes",
+        "isCorrect": true
+      },
+      {
+        "text": "No",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": false
+      },
+      {
+        "text": "Only some Bloops are Lazzies",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 402,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A train travels 60 miles per hour. How long will it take to travel 180 miles?",
+    "answers": [
+      {
+        "text": "2 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "3 hours",
+        "isCorrect": true
+      },
+      {
+        "text": "4 hours",
+        "isCorrect": false
+      },
+      {
+        "text": "5 hours",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 403,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
+    "answers": [
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": true
+      },
+      {
+        "text": "64",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 404,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If some Smibs are Smobs, and all Smobs are Smibs, then:",
+    "answers": [
+      {
+        "text": "All Smibs are Smobs",
+        "isCorrect": false
+      },
+      {
+        "text": "Some Smibs are not Smobs",
+        "isCorrect": false
+      },
+      {
+        "text": "All Smobs are Smibs",
+        "isCorrect": true
+      },
+      {
+        "text": "No Smibs are Smobs",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 405,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A store offers a 20% discount on a $50 item. What is the sale price?",
+    "answers": [
+      {
+        "text": "$40",
+        "isCorrect": true
+      },
+      {
+        "text": "$42",
+        "isCorrect": false
+      },
+      {
+        "text": "$45",
+        "isCorrect": false
+      },
+      {
+        "text": "$48",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 406,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+    "answers": [
+      {
+        "text": "5 minutes",
+        "isCorrect": true
+      },
+      {
+        "text": "10 minutes",
+        "isCorrect": false
+      },
+      {
+        "text": "100 minutes",
+        "isCorrect": false
+      },
+      {
+        "text": "50 minutes",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 407,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "Which number is the odd one out: 3, 5, 7, 9, 11?",
+    "answers": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 408,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If all Zips are Zoodles, and some Zoodles are Zonks, then:",
+    "answers": [
+      {
+        "text": "All Zips are Zonks",
+        "isCorrect": false
+      },
+      {
+        "text": "Some Zips are Zonks",
+        "isCorrect": false
+      },
+      {
+        "text": "Some Zonks are Zips",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": true
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 409,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A rectangle has a length of 10 units and a width of 5 units. What is its area?",
+    "answers": [
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "60",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 410,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If today is Wednesday, what day will it be 10 days from now?",
+    "answers": [
+      {
+        "text": "Friday",
+        "isCorrect": false
+      },
+      {
+        "text": "Saturday",
+        "isCorrect": true
+      },
+      {
+        "text": "Sunday",
+        "isCorrect": false
+      },
+      {
+        "text": "Monday",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 411,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "What is the next number in the series: 1, 4, 9, 16, ?",
+    "answers": [
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 412,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If a shirt originally costs $80 and is marked down by 25%, what is the sale price?",
+    "answers": [
+      {
+        "text": "$55",
+        "isCorrect": false
+      },
+      {
+        "text": "$60",
+        "isCorrect": true
+      },
+      {
+        "text": "$65",
+        "isCorrect": false
+      },
+      {
+        "text": "$70",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 413,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "Which word does not belong: Apple, Banana, Carrot, Grape?",
+    "answers": [
+      {
+        "text": "Apple",
+        "isCorrect": false
+      },
+      {
+        "text": "Banana",
+        "isCorrect": false
+      },
+      {
+        "text": "Carrot",
+        "isCorrect": true
+      },
+      {
+        "text": "Grape",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 414,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If all Wibbles are Wobbles, and some Wobbles are Wubbles, then:",
+    "answers": [
+      {
+        "text": "All Wibbles are Wubbles",
+        "isCorrect": false
+      },
+      {
+        "text": "Some Wibbles are Wubbles",
+        "isCorrect": false
+      },
+      {
+        "text": "Some Wubbles are Wibbles",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be determined",
+        "isCorrect": true
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 415,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A car travels 150 miles in 3 hours. What is its average speed?",
+    "answers": [
+      {
+        "text": "45 mph",
+        "isCorrect": false
+      },
+      {
+        "text": "50 mph",
+        "isCorrect": true
+      },
+      {
+        "text": "55 mph",
+        "isCorrect": false
+      },
+      {
+        "text": "60 mph",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 416,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If a baker bakes 3 cakes in 1 hour, how many cakes can they bake in 5 hours?",
+    "answers": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 417,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "Which number is next in the series: 5, 10, 20, 40, ?",
+    "answers": [
+      {
+        "text": "60",
+        "isCorrect": false
+      },
+      {
+        "text": "70",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 418,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A book costs $12. If you buy 4 books, how much will it cost?",
+    "answers": [
+      {
+        "text": "$48",
+        "isCorrect": true
+      },
+      {
+        "text": "$44",
+        "isCorrect": false
+      },
+      {
+        "text": "$40",
+        "isCorrect": false
+      },
+      {
+        "text": "$36",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 419,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "What is the average of the numbers 3, 6, 9, and 12?",
+    "answers": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7.5",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 420,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "What is 25% of 200?",
+    "answers": [
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 421,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "Which is a prime number?",
+    "answers": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 422,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If the first day of a month is a Sunday, what day of the week is the 8th?",
+    "answers": [
+      {
+        "text": "Monday",
+        "isCorrect": false
+      },
+      {
+        "text": "Tuesday",
+        "isCorrect": false
+      },
+      {
+        "text": "Sunday",
+        "isCorrect": true
+      },
+      {
+        "text": "Saturday",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 423,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A container holds 3 liters of juice. How many milliliters does it contain?",
+    "answers": [
+      {
+        "text": "300",
+        "isCorrect": false
+      },
+      {
+        "text": "3000",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "text": "1000",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 424,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "If a square has sides of length 6, what is its perimeter?",
+    "answers": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "24",
+        "isCorrect": true
+      },
+      {
+        "text": "36",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 425,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A pattern shows: 1, 1, 2, 3, 5, 8, ? What\u2019s next?",
+    "answers": [
+      {
+        "text": "13",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 426,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "What comes next in the series: A, C, E, G, ?",
+    "answers": [
+      {
+        "text": "H",
+        "isCorrect": false
+      },
+      {
+        "text": "I",
+        "isCorrect": true
+      },
+      {
+        "text": "J",
+        "isCorrect": false
+      },
+      {
+        "text": "K",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 427,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "Which number is divisible by both 3 and 5?",
+    "answers": [
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "text": "22",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 428,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "A triangle has angles 60\u00b0, 60\u00b0, and ?. What is the missing angle?",
+    "answers": [
+      {
+        "text": "30\u00b0",
+        "isCorrect": false
+      },
+      {
+        "text": "60\u00b0",
+        "isCorrect": true
+      },
+      {
+        "text": "90\u00b0",
+        "isCorrect": false
+      },
+      {
+        "text": "120\u00b0",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 429,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "What is the result of 3\u00b2 + 4\u00b2?",
+    "answers": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "isCorrect": true
+      },
+      {
+        "text": "35",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  },
+  {
+    "id": 430,
+    "skill": "Cognitive Analytical Skills",
+    "category": "Cognitive Analytical Skills",
+    "question": "Which number completes the analogy: 2 is to 4 as 3 is to ?",
+    "answers": [
+      {
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "difficulty": "Intermediate",
+    "twin": "Thinker",
+    "context": "General Workplace"
+  }
+]
