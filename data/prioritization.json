@@ -1,42 +1,84 @@
 [
   {
-    "question": "What is a common prioritization pitfall?",
+    "question": "A client sends a 'rush' request on Friday afternoon. What should you check first?",
     "answers": [
       {
-        "text": "Tackling easy wins early",
+        "text": "Your mood",
         "score": 0
       },
       {
-        "text": "Making time for planning",
+        "text": "Their history",
         "score": 0
       },
       {
-        "text": "Letting everything feel like a fire drill",
+        "text": "Their actual deadline and if it affects other commitments",
         "score": 1
       },
       {
-        "text": "Clarifying priorities",
+        "text": "If your manager agrees",
         "score": 0
       }
     ]
   },
   {
-    "question": "A manager asks for a report by end of day, but you\u2019re behind on a deadline. What do you do?",
+    "question": "You\u2019re given five tasks with the same due date. What\u2019s the best way to decide which to do first?",
     "answers": [
       {
-        "text": "Ignore the report request",
+        "text": "Start with the one you like most",
         "score": 0
       },
       {
-        "text": "Tell your manager you\u2019re too busy",
+        "text": "Do them all simultaneously",
         "score": 0
       },
       {
-        "text": "Clarify the urgency and adjust priorities together",
+        "text": "Evaluate importance and urgency",
         "score": 1
       },
       {
-        "text": "Rush both tasks and risk mistakes",
+        "text": "Ask someone else to decide",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "How can transparency help with prioritization?",
+    "answers": [
+      {
+        "text": "It doesn\u2019t",
+        "score": 0
+      },
+      {
+        "text": "It creates more confusion",
+        "score": 0
+      },
+      {
+        "text": "It helps align team efforts and reduces surprise conflicts",
+        "score": 1
+      },
+      {
+        "text": "It adds work",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the best approach when new urgent requests come in during the day?",
+    "answers": [
+      {
+        "text": "Pause and assess priorities",
+        "score": 1
+      },
+      {
+        "text": "Drop everything immediately",
+        "score": 0
+      },
+      {
+        "text": "Say yes to everything",
+        "score": 0
+      },
+      {
+        "text": "Continue as planned no matter what",
         "score": 0
       }
     ]
@@ -58,48 +100,6 @@
       },
       {
         "text": "There are no problems",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "If you miss a deadline due to shifting priorities, what should you do?",
-    "answers": [
-      {
-        "text": "Hide it",
-        "score": 0
-      },
-      {
-        "text": "Blame your manager",
-        "score": 0
-      },
-      {
-        "text": "Own it and explain the tradeoffs transparently",
-        "score": 1
-      },
-      {
-        "text": "Say it was a minor task",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What tool helps prioritize based on urgency and importance?",
-    "answers": [
-      {
-        "text": "Fishbone diagram",
-        "score": 0
-      },
-      {
-        "text": "Eisenhower Matrix",
-        "score": 1
-      },
-      {
-        "text": "Cost-benefit chart",
-        "score": 0
-      },
-      {
-        "text": "RACI matrix",
         "score": 0
       }
     ]

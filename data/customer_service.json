@@ -1,5 +1,47 @@
 [
   {
+    "question": "A customer is angry due to a late delivery. What\u2019s the most effective way to de-escalate?",
+    "answers": [
+      {
+        "text": "Blame the warehouse",
+        "score": 0
+      },
+      {
+        "text": "Acknowledge their frustration and offer to help",
+        "score": 1
+      },
+      {
+        "text": "Tell them to read the shipping policy",
+        "score": 0
+      },
+      {
+        "text": "Speak over them with facts",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which approach reflects taking ownership?",
+    "answers": [
+      {
+        "text": "Letting someone else fix it",
+        "score": 0
+      },
+      {
+        "text": "Following up personally and keeping the customer informed",
+        "score": 1
+      },
+      {
+        "text": "Avoiding updates",
+        "score": 0
+      },
+      {
+        "text": "Telling them to wait",
+        "score": 0
+      }
+    ]
+  },
+  {
     "question": "What\u2019s a good way to prevent customer frustration before it starts?",
     "answers": [
       {
@@ -21,64 +63,22 @@
     ]
   },
   {
-    "question": "What\u2019s a key sign a customer is not satisfied, even if they don\u2019t say it?",
+    "question": "Why is listening more powerful than speaking in service?",
     "answers": [
       {
-        "text": "They ask too many questions",
+        "text": "Because customers want silence",
         "score": 0
       },
       {
-        "text": "They thank you politely",
+        "text": "Because it reduces call time",
         "score": 0
       },
       {
-        "text": "Their tone becomes short or disengaged",
+        "text": "Because it allows you to understand and respond meaningfully",
         "score": 1
       },
       {
-        "text": "They follow instructions",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What behavior builds customer trust?",
-    "answers": [
-      {
-        "text": "Overpromising outcomes",
-        "score": 0
-      },
-      {
-        "text": "Following up when promised",
-        "score": 1
-      },
-      {
-        "text": "Using vague commitments",
-        "score": 0
-      },
-      {
-        "text": "Referring them to a website only",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "If a customer shares positive feedback, what should you do?",
-    "answers": [
-      {
-        "text": "Ignore it",
-        "score": 0
-      },
-      {
-        "text": "Thank them and let your team know",
-        "score": 1
-      },
-      {
-        "text": "Say 'Okay'",
-        "score": 0
-      },
-      {
-        "text": "Ask for a survey only",
+        "text": "Because it avoids questions",
         "score": 0
       }
     ]

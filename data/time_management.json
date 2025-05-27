@@ -1,21 +1,21 @@
 [
   {
-    "question": "What is the purpose of setting SMART goals?",
+    "question": "What helps avoid procrastination?",
     "answers": [
       {
-        "text": "To ensure goals are vague",
+        "text": "Work non-stop",
         "score": 0
       },
       {
-        "text": "To make goals unattainable",
+        "text": "Set unrealistic deadlines",
         "score": 0
       },
       {
-        "text": "To set clear, measurable goals",
+        "text": "Break tasks into parts",
         "score": 1
       },
       {
-        "text": "To create goals without deadlines",
+        "text": "Ignore the task",
         "score": 0
       }
     ]
@@ -42,64 +42,64 @@
     ]
   },
   {
-    "question": "Why delegate tasks?",
+    "question": "What is a common tool used to prioritize tasks?",
     "answers": [
       {
-        "text": "Decrease productivity",
+        "text": "A stopwatch",
         "score": 0
       },
       {
-        "text": "Buy time for high-priority tasks",
+        "text": "A to-do list",
         "score": 1
       },
       {
-        "text": "Avoid responsibility",
+        "text": "A calculator",
         "score": 0
       },
       {
-        "text": "Skip planning",
+        "text": "A map",
         "score": 0
       }
     ]
   },
   {
-    "question": "How does saying 'no' help?",
+    "question": "How does self-discipline help?",
     "answers": [
       {
-        "text": "Avoid all commitments",
+        "text": "It\u2019s irrelevant",
         "score": 0
       },
       {
-        "text": "Focus on own priorities",
+        "text": "Supports focus and consistency",
         "score": 1
       },
       {
-        "text": "Reject responsibility",
+        "text": "Encourages breaks",
         "score": 0
       },
       {
-        "text": "Increase stress",
+        "text": "Reduces accountability",
         "score": 0
       }
     ]
   },
   {
-    "question": "What is a key benefit of using a time management app?",
+    "question": "Why is it important to take regular breaks?",
     "answers": [
       {
-        "text": "Guarantees no interruptions",
+        "text": "To finish tasks faster",
         "score": 0
       },
       {
-        "text": "Automates all tasks",
-        "score": 0
-      },
-      {
-        "text": "Organizes and tracks tasks and deadlines",
+        "text": "To reduce fatigue and improve focus",
         "score": 1
       },
       {
-        "text": "Eliminates need for planning",
+        "text": "To increase stress levels",
+        "score": 0
+      },
+      {
+        "text": "To avoid finishing early",
         "score": 0
       }
     ]

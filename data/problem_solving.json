@@ -1,89 +1,5 @@
 [
   {
-    "question": "You\u2019re solving a supply issue affecting customers. What adds long-term value?",
-    "answers": [
-      {
-        "text": "Provide a one-time workaround",
-        "score": 0
-      },
-      {
-        "text": "Offer a refund",
-        "score": 0
-      },
-      {
-        "text": "Fix the root cause to prevent repeat issues",
-        "score": 1
-      },
-      {
-        "text": "Apologize without change",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What does it mean to think critically?",
-    "answers": [
-      {
-        "text": "Accepting surface-level info",
-        "score": 0
-      },
-      {
-        "text": "Avoiding hard questions",
-        "score": 0
-      },
-      {
-        "text": "Evaluating ideas objectively and logically",
-        "score": 1
-      },
-      {
-        "text": "Reacting emotionally",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What helps generate solutions under pressure?",
-    "answers": [
-      {
-        "text": "Blaming others",
-        "score": 0
-      },
-      {
-        "text": "Dwelling on the issue",
-        "score": 0
-      },
-      {
-        "text": "Staying calm and solution-focused",
-        "score": 1
-      },
-      {
-        "text": "Avoiding responsibility",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "A sudden change causes confusion. What\u2019s a good first step?",
-    "answers": [
-      {
-        "text": "Panic",
-        "score": 0
-      },
-      {
-        "text": "Wait for direction",
-        "score": 0
-      },
-      {
-        "text": "Clarify what\u2019s known and unknown",
-        "score": 1
-      },
-      {
-        "text": "Ignore it and move forward",
-        "score": 0
-      }
-    ]
-  },
-  {
     "question": "What\u2019s the first step in solving any workplace problem?",
     "answers": [
       {
@@ -100,6 +16,90 @@
       },
       {
         "text": "Create urgency unnecessarily",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You\u2019re assigned a task with unclear instructions. What\u2019s the best first step?",
+    "answers": [
+      {
+        "text": "Guess what\u2019s needed",
+        "score": 0
+      },
+      {
+        "text": "Start the task immediately",
+        "score": 0
+      },
+      {
+        "text": "Ask clarifying questions",
+        "score": 1
+      },
+      {
+        "text": "Wait for someone else to act",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What quality supports strong problem-solving?",
+    "answers": [
+      {
+        "text": "Rigidity",
+        "score": 0
+      },
+      {
+        "text": "Assumption",
+        "score": 0
+      },
+      {
+        "text": "Curiosity and persistence",
+        "score": 1
+      },
+      {
+        "text": "Avoidance",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "When faced with a tough problem and tight deadline, what\u2019s effective?",
+    "answers": [
+      {
+        "text": "Avoid decision-making",
+        "score": 0
+      },
+      {
+        "text": "Rush without thinking",
+        "score": 0
+      },
+      {
+        "text": "Break it down and prioritize steps",
+        "score": 1
+      },
+      {
+        "text": "Panic and escalate",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the value of defining the problem clearly before solving it?",
+    "answers": [
+      {
+        "text": "It wastes time",
+        "score": 0
+      },
+      {
+        "text": "It delays action",
+        "score": 0
+      },
+      {
+        "text": "It helps focus on the real issue",
+        "score": 1
+      },
+      {
+        "text": "It\u2019s unnecessary",
         "score": 0
       }
     ]

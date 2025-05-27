@@ -1,85 +1,105 @@
 [
   {
-    "question": "Which keyword declares a block-scoped variable?",
+    "question": "Which is the correct way to write a comment in JavaScript?",
     "answers": [
       {
-        "text": "`let`",
-        "score": 1
-      },
-      {
-        "text": "`var`",
+        "text": "// This is a comment",
         "score": 0
       },
       {
-        "text": "`define`",
+        "text": "/* This is a comment */",
+        "score": 0
+      },
+      {
+        "text": "Both A and B",
+        "score": 1
+      },
+      {
+        "text": "# This is a comment",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which keyword declares a block-scoped variable?",
+    "question": "What is the purpose of the isNaN() function?",
     "answers": [
       {
-        "text": "`let`",
+        "text": "Checks if a value is not a number",
         "score": 1
       },
       {
-        "text": "`var`",
+        "text": "Converts to a number",
         "score": 0
       },
       {
-        "text": "`define`",
+        "text": "Checks for null",
+        "score": 0
+      },
+      {
+        "text": "None of the above",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which keyword declares a block-scoped variable?",
+    "question": "Which method executes a function after a specified delay?",
     "answers": [
       {
-        "text": "`let`",
+        "text": "setTimeout()",
         "score": 1
       },
       {
-        "text": "`var`",
+        "text": "setInterval()",
         "score": 0
       },
       {
-        "text": "`define`",
+        "text": "delayFunction()",
+        "score": 0
+      },
+      {
+        "text": "wait()",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which keyword declares a block-scoped variable?",
+    "question": "Which method removes the first element of an array?",
     "answers": [
       {
-        "text": "`let`",
-        "score": 1
-      },
-      {
-        "text": "`var`",
+        "text": "pop()",
         "score": 0
       },
       {
-        "text": "`define`",
+        "text": "shift()",
+        "score": 1
+      },
+      {
+        "text": "unshift()",
+        "score": 0
+      },
+      {
+        "text": "splice()",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which keyword declares a block-scoped variable?",
+    "question": "What is the output of the following code?\n\nconsole.log([] + []);",
     "answers": [
       {
-        "text": "`let`",
+        "text": "\"\"",
         "score": 1
       },
       {
-        "text": "`var`",
+        "text": "[]",
         "score": 0
       },
       {
-        "text": "`define`",
+        "text": "undefined",
+        "score": 0
+      },
+      {
+        "text": NaN,
         "score": 0
       }
     ]

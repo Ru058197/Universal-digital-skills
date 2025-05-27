@@ -1,85 +1,105 @@
 [
   {
-    "question": "What\u2019s a strong password trait?",
+    "question": "Which type of attack overwhelms a system with traffic?",
     "answers": [
       {
-        "text": "Mix of letters, numbers, and symbols",
-        "score": 1
-      },
-      {
-        "text": "Your pet\u2019s name",
+        "text": "Phishing",
         "score": 0
       },
       {
-        "text": "123456",
+        "text": "DoS",
+        "score": 1
+      },
+      {
+        "text": "Spoofing",
+        "score": 0
+      },
+      {
+        "text": "Sniffing",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s a strong password trait?",
+    "question": "Which of the following is a type of malware that encrypts files and demands payment?",
     "answers": [
       {
-        "text": "Mix of letters, numbers, and symbols",
-        "score": 1
-      },
-      {
-        "text": "Your pet\u2019s name",
+        "text": "Spyware",
         "score": 0
       },
       {
-        "text": "123456",
+        "text": "Adware",
+        "score": 0
+      },
+      {
+        "text": "Ransomware",
+        "score": 1
+      },
+      {
+        "text": "Trojan",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s a strong password trait?",
+    "question": "What does VPN stand for?",
     "answers": [
       {
-        "text": "Mix of letters, numbers, and symbols",
+        "text": "Virtual Private Network",
         "score": 1
       },
       {
-        "text": "Your pet\u2019s name",
+        "text": "Variable Protocol Network",
         "score": 0
       },
       {
-        "text": "123456",
+        "text": "Virtual Public Network",
+        "score": 0
+      },
+      {
+        "text": "Verified Private Network",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s a strong password trait?",
+    "question": "What is a zero-day vulnerability?",
     "answers": [
       {
-        "text": "Mix of letters, numbers, and symbols",
-        "score": 1
-      },
-      {
-        "text": "Your pet\u2019s name",
+        "text": "Known bug",
         "score": 0
       },
       {
-        "text": "123456",
+        "text": "Old exploit",
+        "score": 0
+      },
+      {
+        "text": "Undisclosed security flaw",
+        "score": 1
+      },
+      {
+        "text": "Expired certificate",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s a strong password trait?",
+    "question": "What does antivirus software do?",
     "answers": [
       {
-        "text": "Mix of letters, numbers, and symbols",
-        "score": 1
-      },
-      {
-        "text": "Your pet\u2019s name",
+        "text": "Create data backups",
         "score": 0
       },
       {
-        "text": "123456",
+        "text": "Monitor productivity",
+        "score": 0
+      },
+      {
+        "text": "Remove malware",
+        "score": 1
+      },
+      {
+        "text": "Manage traffic",
         "score": 0
       }
     ]

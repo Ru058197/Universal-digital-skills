@@ -1,5 +1,68 @@
 [
   {
+    "question": "You feel defensive in a feedback conversation. What helps keep it productive?",
+    "answers": [
+      {
+        "text": "Change the topic",
+        "score": 0
+      },
+      {
+        "text": "Interrupt and explain yourself",
+        "score": 0
+      },
+      {
+        "text": "Take a breath and focus on listening",
+        "score": 1
+      },
+      {
+        "text": "Discredit the feedback",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You receive feedback you disagree with. What\u2019s a good first step?",
+    "answers": [
+      {
+        "text": "Dismiss it entirely",
+        "score": 0
+      },
+      {
+        "text": "Defend yourself immediately",
+        "score": 0
+      },
+      {
+        "text": "Listen fully and ask clarifying questions",
+        "score": 1
+      },
+      {
+        "text": "Avoid the topic",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "How should you respond when someone accuses you unfairly?",
+    "answers": [
+      {
+        "text": "Retaliate immediately",
+        "score": 0
+      },
+      {
+        "text": "Stay silent forever",
+        "score": 0
+      },
+      {
+        "text": "Acknowledge the concern and calmly share your side",
+        "score": 1
+      },
+      {
+        "text": "Insult them back",
+        "score": 0
+      }
+    ]
+  },
+  {
     "question": "A coworker repeatedly interrupts you in meetings. What\u2019s a constructive approach?",
     "answers": [
       {
@@ -21,85 +84,22 @@
     ]
   },
   {
-    "question": "Two teammates are arguing over a project direction. What should you do first?",
+    "question": "Your manager intervenes in a conflict but takes only one side. What should you do?",
     "answers": [
       {
-        "text": "Ignore them",
+        "text": "Stay quiet",
         "score": 0
       },
       {
-        "text": "Tell them to figure it out later",
+        "text": "Undermine the decision",
         "score": 0
       },
       {
-        "text": "Help mediate a calm discussion to clarify perspectives",
+        "text": "Request a one-on-one to share your perspective",
         "score": 1
       },
       {
-        "text": "Choose a side immediately",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What\u2019s a good outcome of well-managed conflict?",
-    "answers": [
-      {
-        "text": "Silencing all disagreement",
-        "score": 0
-      },
-      {
-        "text": "Everyone agrees instantly",
-        "score": 0
-      },
-      {
-        "text": "Stronger relationships and clearer understanding",
-        "score": 1
-      },
-      {
-        "text": "Loss of engagement",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What\u2019s a common root cause of unresolved workplace conflict?",
-    "answers": [
-      {
-        "text": "Frequent communication",
-        "score": 0
-      },
-      {
-        "text": "Too much collaboration",
-        "score": 0
-      },
-      {
-        "text": "Lack of clarity or assumptions",
-        "score": 1
-      },
-      {
-        "text": "Having diverse opinions",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What\u2019s a healthy goal of conflict resolution?",
-    "answers": [
-      {
-        "text": "Win the argument",
-        "score": 0
-      },
-      {
-        "text": "Shut down discussion",
-        "score": 0
-      },
-      {
-        "text": "Find mutual understanding and a productive path forward",
-        "score": 1
-      },
-      {
-        "text": "Delay decisions",
+        "text": "Complain to others",
         "score": 0
       }
     ]

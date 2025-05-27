@@ -1,63 +1,42 @@
 [
   {
-    "question": "Your workload is full but you're asked to take on more. What's the best way to respond?",
+    "question": "You get an email from an unknown source asking for login info. What should you do?",
     "answers": [
       {
-        "text": "Say yes without hesitation",
+        "text": "Provide fake info",
         "score": 0
       },
       {
-        "text": "Complain to the team",
+        "text": "Ignore it completely",
         "score": 0
       },
       {
-        "text": "Clarify current commitments and negotiate priorities",
+        "text": "Report it as phishing and delete",
         "score": 1
       },
       {
-        "text": "Ignore the request",
+        "text": "Forward it to coworkers",
         "score": 0
       }
     ]
   },
   {
-    "question": "You disagree with a leadership decision. What's the most productive move?",
+    "question": "An executive shares confidential strategic plans during a call. What\u2019s your obligation?",
     "answers": [
       {
-        "text": "Publicly criticize the decision",
+        "text": "Take notes to share later",
         "score": 0
       },
       {
-        "text": "Start rumors",
+        "text": "Discuss it with your team",
         "score": 0
       },
       {
-        "text": "Ask questions and share feedback through proper channels",
+        "text": "Treat it as confidential and avoid disclosing it",
         "score": 1
       },
       {
-        "text": "Avoid work in protest",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You\u2019re asked to do something you believe violates company policy. What do you do?",
-    "answers": [
-      {
-        "text": "Do it anyway to stay in favor",
-        "score": 0
-      },
-      {
-        "text": "Refuse and immediately go public",
-        "score": 0
-      },
-      {
-        "text": "Seek clarification and raise the concern appropriately",
-        "score": 1
-      },
-      {
-        "text": "Ignore the task",
+        "text": "Post it anonymously for discussion",
         "score": 0
       }
     ]
@@ -84,22 +63,43 @@
     ]
   },
   {
-    "question": "You see a team member struggling with a task but they haven\u2019t asked for help. What should you do?",
+    "question": "You notice your manager playing favorites. What's a professional response?",
     "answers": [
       {
-        "text": "Critique them to your boss",
+        "text": "Confront them publicly",
         "score": 0
       },
       {
-        "text": "Offer help privately and respectfully",
+        "text": "Ignore it and resent it",
+        "score": 0
+      },
+      {
+        "text": "Focus on your work and consider raising concerns through HR",
         "score": 1
       },
       {
-        "text": "Tell everyone they\u2019re slow",
+        "text": "Tell coworkers only",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Your workload is full but you're asked to take on more. What's the best way to respond?",
+    "answers": [
+      {
+        "text": "Say yes without hesitation",
         "score": 0
       },
       {
-        "text": "Wait for them to fail",
+        "text": "Complain to the team",
+        "score": 0
+      },
+      {
+        "text": "Clarify current commitments and negotiate priorities",
+        "score": 1
+      },
+      {
+        "text": "Ignore the request",
         "score": 0
       }
     ]

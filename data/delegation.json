@@ -1,105 +1,105 @@
 [
   {
-    "question": "What\u2019s one way to boost confidence when delegating?",
+    "question": "An employee struggles with a new delegated task. What\u2019s your first move?",
     "answers": [
       {
-        "text": "Mention past mistakes",
+        "text": "Take it back immediately",
         "score": 0
       },
       {
-        "text": "Offer support and express trust",
+        "text": "Ask what\u2019s unclear and offer support",
         "score": 1
       },
       {
-        "text": "Give vague directions",
+        "text": "Assign it to someone else",
         "score": 0
       },
       {
-        "text": "Constant corrections",
+        "text": "Extend the deadline quietly",
         "score": 0
       }
     ]
   },
   {
-    "question": "Delegation helps grow others by:",
+    "question": "Delegation is LEAST effective when:",
     "answers": [
       {
-        "text": "Making them compete",
-        "score": 0
-      },
-      {
-        "text": "Assigning blame",
-        "score": 0
-      },
-      {
-        "text": "Letting them build new skills",
+        "text": "The person has no authority",
         "score": 1
       },
       {
-        "text": "Avoiding feedback",
+        "text": "Expectations are clearly set",
+        "score": 0
+      },
+      {
+        "text": "Feedback is encouraged",
+        "score": 0
+      },
+      {
+        "text": "They\u2019re empowered",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which of the following is a poor delegation practice?",
+    "question": "Delegation is most successful when:",
     "answers": [
       {
-        "text": "Matching the task to the person\u2019s skills",
-        "score": 0
-      },
-      {
-        "text": "Providing clear deadlines",
-        "score": 0
-      },
-      {
-        "text": "Assigning without explanation",
+        "text": "You trust your team\u2019s judgment",
         "score": 1
       },
       {
-        "text": "Following up on progress",
+        "text": "You withhold important details",
+        "score": 0
+      },
+      {
+        "text": "Deadlines are left open-ended",
+        "score": 0
+      },
+      {
+        "text": "You recheck everything yourself",
         "score": 0
       }
     ]
   },
   {
-    "question": "When assigning a task, what builds ownership?",
+    "question": "Which of these tasks should a leader delegate?",
     "answers": [
       {
-        "text": "Making them guess the outcome",
+        "text": "Setting vision",
         "score": 0
       },
       {
-        "text": "Assigning and walking away",
+        "text": "Final hiring decisions",
         "score": 0
       },
       {
-        "text": "Explaining purpose and impact",
+        "text": "Routine report generation",
         "score": 1
       },
       {
-        "text": "Rewriting their work later",
+        "text": "Establishing strategy",
         "score": 0
       }
     ]
   },
   {
-    "question": "Why might someone resist delegation?",
+    "question": "Why is delegation important in leadership?",
     "answers": [
       {
-        "text": "They want to empower others",
+        "text": "It avoids accountability",
         "score": 0
       },
       {
-        "text": "They fear loss of control",
+        "text": "It reduces communication needs",
+        "score": 0
+      },
+      {
+        "text": "It builds team capability and efficiency",
         "score": 1
       },
       {
-        "text": "They dislike communication",
-        "score": 0
-      },
-      {
-        "text": "They like collaboration",
+        "text": "It lets you avoid work",
         "score": 0
       }
     ]

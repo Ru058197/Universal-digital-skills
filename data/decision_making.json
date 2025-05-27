@@ -1,21 +1,84 @@
 [
   {
-    "question": "Your direct report comes to you with a mistake they made. What\u2019s the right action?",
+    "question": "You're leading a project, and a team member consistently misses deadlines. What do you do?",
     "answers": [
       {
-        "text": "Punish them",
+        "text": "Reassign their tasks",
         "score": 0
       },
       {
-        "text": "Thank them for transparency and work on a fix",
+        "text": "Reprimand publicly",
+        "score": 0
+      },
+      {
+        "text": "Have a private conversation",
         "score": 1
       },
       {
         "text": "Ignore it",
         "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You see a peer falsify a timesheet. What\u2019s the most ethical choice?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "score": 0
       },
       {
-        "text": "Document it for future reviews",
+        "text": "Confront them aggressively",
+        "score": 0
+      },
+      {
+        "text": "Report it to the appropriate authority",
+        "score": 1
+      },
+      {
+        "text": "Mention it to others",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Your team missed a major deadline. What is your immediate responsibility?",
+    "answers": [
+      {
+        "text": "Blame the team",
+        "score": 0
+      },
+      {
+        "text": "Deflect accountability",
+        "score": 0
+      },
+      {
+        "text": "Acknowledge the issue and initiate recovery steps",
+        "score": 1
+      },
+      {
+        "text": "Do nothing",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Your department budget has been cut. How do you approach resource allocation?",
+    "answers": [
+      {
+        "text": "Cut everyone\u2019s resources equally",
+        "score": 0
+      },
+      {
+        "text": "Only fund favorites",
+        "score": 0
+      },
+      {
+        "text": "Review priorities and reallocate strategically",
+        "score": 1
+      },
+      {
+        "text": "Pause all initiatives",
         "score": 0
       }
     ]
@@ -37,69 +100,6 @@
       },
       {
         "text": "Transfer them elsewhere",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You have to choose between a high-risk, high-reward option and a low-risk, stable option. How do you decide?",
-    "answers": [
-      {
-        "text": "Flip a coin",
-        "score": 0
-      },
-      {
-        "text": "Choose the flashier one",
-        "score": 0
-      },
-      {
-        "text": "Assess risk tolerance and business goals",
-        "score": 1
-      },
-      {
-        "text": "Pick based on popularity",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You're overwhelmed with tasks and can't meet all deadlines. How do you manage?",
-    "answers": [
-      {
-        "text": "Work overtime",
-        "score": 0
-      },
-      {
-        "text": "Prioritize tasks and ask for help",
-        "score": 1
-      },
-      {
-        "text": "Delay tasks indefinitely",
-        "score": 0
-      },
-      {
-        "text": "Avoid responsibility",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You receive an opportunity that benefits you personally but could disrupt the team. How do you handle it?",
-    "answers": [
-      {
-        "text": "Take it quietly",
-        "score": 0
-      },
-      {
-        "text": "Reject it",
-        "score": 0
-      },
-      {
-        "text": "Evaluate openly with the team and manager",
-        "score": 1
-      },
-      {
-        "text": "Ignore team impact",
         "score": 0
       }
     ]

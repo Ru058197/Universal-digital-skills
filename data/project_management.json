@@ -1,84 +1,63 @@
 [
   {
-    "question": "What should be considered when assigning tasks?",
+    "question": "What\u2019s a RAID log used for?",
     "answers": [
       {
-        "text": "Availability and alignment with skillsets",
+        "text": "Sales forecasts",
+        "score": 0
+      },
+      {
+        "text": "Vacation schedules",
+        "score": 0
+      },
+      {
+        "text": "Tracking Risks, Assumptions, Issues, and Dependencies",
         "score": 1
       },
       {
-        "text": "Who is loudest",
-        "score": 0
-      },
-      {
-        "text": "Personal preference only",
-        "score": 0
-      },
-      {
-        "text": "Task popularity",
+        "text": "Meeting minutes",
         "score": 0
       }
     ]
   },
   {
-    "question": "You\u2019re planning for limited resources. What tool helps you adjust?",
+    "question": "Which behavior helps build trust as a project manager?",
     "answers": [
       {
-        "text": "Work plan estimator",
+        "text": "Changing direction often",
         "score": 0
       },
       {
-        "text": "Risk tracker",
+        "text": "Hiding bad news",
         "score": 0
       },
       {
-        "text": "Resource allocation matrix",
+        "text": "Transparency and reliability",
         "score": 1
       },
       {
-        "text": "Timeline extender",
+        "text": "Doing all work alone",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s the critical path in project planning?",
+    "question": "What tool helps track milestones and timelines?",
     "answers": [
       {
-        "text": "The longest sequence of dependent tasks",
+        "text": "Risk register",
+        "score": 0
+      },
+      {
+        "text": "Resource matrix",
+        "score": 0
+      },
+      {
+        "text": "Gantt chart",
         "score": 1
       },
       {
-        "text": "The shortest set of tasks",
-        "score": 0
-      },
-      {
-        "text": "The riskiest activity list",
-        "score": 0
-      },
-      {
-        "text": "The least important path",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You need to communicate bad news to a stakeholder. What helps?",
-    "answers": [
-      {
-        "text": "Avoiding contact",
-        "score": 0
-      },
-      {
-        "text": "Only writing emails",
-        "score": 0
-      },
-      {
-        "text": "Being honest and offering a path forward",
-        "score": 1
-      },
-      {
-        "text": "Blaming someone else",
+        "text": "Marketing funnel",
         "score": 0
       }
     ]
@@ -100,6 +79,27 @@
       },
       {
         "text": "Blame QA later",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the critical path in project planning?",
+    "answers": [
+      {
+        "text": "The longest sequence of dependent tasks",
+        "score": 1
+      },
+      {
+        "text": "The shortest set of tasks",
+        "score": 0
+      },
+      {
+        "text": "The riskiest activity list",
+        "score": 0
+      },
+      {
+        "text": "The least important path",
         "score": 0
       }
     ]

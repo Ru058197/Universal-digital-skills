@@ -1,85 +1,105 @@
 [
   {
-    "question": "A major change is introduced. You\u2026",
+    "question": "You\u2019ve always done it 'your way.' What\u2019s the benefit of trying something new?",
     "answers": [
       {
-        "text": "Stay flexible and adjust",
-        "score": 1
-      },
-      {
-        "text": "Complain to your boss",
+        "text": "It wastes time",
         "score": 0
       },
       {
-        "text": "Ignore it",
+        "text": "It confuses others",
+        "score": 0
+      },
+      {
+        "text": "It can lead to improvement and innovation",
+        "score": 1
+      },
+      {
+        "text": "It weakens your expertise",
         "score": 0
       }
     ]
   },
   {
-    "question": "A major change is introduced. You\u2026",
+    "question": "Which behavior reflects low adaptability?",
     "answers": [
       {
-        "text": "Stay flexible and adjust",
-        "score": 1
-      },
-      {
-        "text": "Complain to your boss",
+        "text": "Embracing feedback",
         "score": 0
       },
       {
-        "text": "Ignore it",
+        "text": "Being flexible in crisis",
+        "score": 0
+      },
+      {
+        "text": "Resisting all suggestions",
+        "score": 1
+      },
+      {
+        "text": "Working well under pressure",
         "score": 0
       }
     ]
   },
   {
-    "question": "A major change is introduced. You\u2026",
+    "question": "What\u2019s a good first step when facing an unexpected challenge?",
     "answers": [
       {
-        "text": "Stay flexible and adjust",
-        "score": 1
-      },
-      {
-        "text": "Complain to your boss",
+        "text": "React impulsively",
         "score": 0
       },
       {
-        "text": "Ignore it",
+        "text": "Shut down and avoid it",
+        "score": 0
+      },
+      {
+        "text": "Pause, assess options, and adapt your plan",
+        "score": 1
+      },
+      {
+        "text": "Get angry and escalate",
         "score": 0
       }
     ]
   },
   {
-    "question": "A major change is introduced. You\u2026",
+    "question": "Your manager gives feedback that your workflow needs to change. What do you do?",
     "answers": [
       {
-        "text": "Stay flexible and adjust",
-        "score": 1
-      },
-      {
-        "text": "Complain to your boss",
+        "text": "Defend your approach aggressively",
         "score": 0
       },
       {
-        "text": "Ignore it",
+        "text": "Refuse to change",
+        "score": 0
+      },
+      {
+        "text": "Listen and ask for clarification",
+        "score": 1
+      },
+      {
+        "text": "Pretend to change, but continue your way",
         "score": 0
       }
     ]
   },
   {
-    "question": "A major change is introduced. You\u2026",
+    "question": "A key project deadline gets moved up unexpectedly. How do you respond?",
     "answers": [
       {
-        "text": "Stay flexible and adjust",
-        "score": 1
-      },
-      {
-        "text": "Complain to your boss",
+        "text": "Refuse to adjust your schedule",
         "score": 0
       },
       {
-        "text": "Ignore it",
+        "text": "Panic and vent to coworkers",
+        "score": 0
+      },
+      {
+        "text": "Reprioritize and communicate the shift",
+        "score": 1
+      },
+      {
+        "text": "Ignore the change until the last minute",
         "score": 0
       }
     ]

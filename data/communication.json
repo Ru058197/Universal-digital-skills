@@ -1,85 +1,105 @@
 [
   {
-    "question": "What\u2019s most effective when clarifying confusion?",
+    "question": "What does emotional intelligence involve?",
     "answers": [
       {
-        "text": "Active listening",
-        "score": 1
-      },
-      {
-        "text": "Raising your voice",
+        "text": "Ignoring emotions",
         "score": 0
       },
       {
-        "text": "Avoiding eye contact",
+        "text": "Recognizing and managing emotions",
+        "score": 1
+      },
+      {
+        "text": "Focusing only on logic",
+        "score": 0
+      },
+      {
+        "text": "Avoiding connections",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s most effective when clarifying confusion?",
+    "question": "What is the process of exchanging information and meaning between individuals or groups called?",
     "answers": [
       {
-        "text": "Active listening",
-        "score": 1
-      },
-      {
-        "text": "Raising your voice",
+        "text": "Negotiation",
         "score": 0
       },
       {
-        "text": "Avoiding eye contact",
+        "text": "Persuasion",
+        "score": 0
+      },
+      {
+        "text": "Communication",
+        "score": 1
+      },
+      {
+        "text": "Presentation",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s most effective when clarifying confusion?",
+    "question": "What is empathy?",
     "answers": [
       {
-        "text": "Active listening",
+        "text": "Understanding and sharing the feelings of others",
         "score": 1
       },
       {
-        "text": "Raising your voice",
+        "text": "Convincing others to agree",
         "score": 0
       },
       {
-        "text": "Avoiding eye contact",
+        "text": "Interrupting others",
+        "score": 0
+      },
+      {
+        "text": "Ignoring others' emotions",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s most effective when clarifying confusion?",
+    "question": "What is the purpose of feedback in communication?",
     "answers": [
       {
-        "text": "Active listening",
-        "score": 1
-      },
-      {
-        "text": "Raising your voice",
+        "text": "To criticize",
         "score": 0
       },
       {
-        "text": "Avoiding eye contact",
+        "text": "To express opinions",
+        "score": 0
+      },
+      {
+        "text": "To evaluate and improve",
+        "score": 1
+      },
+      {
+        "text": "To dominate conversation",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s most effective when clarifying confusion?",
+    "question": "Which of the following is an example of written communication?",
     "answers": [
       {
-        "text": "Active listening",
-        "score": 1
-      },
-      {
-        "text": "Raising your voice",
+        "text": "Having a conversation",
         "score": 0
       },
       {
-        "text": "Avoiding eye contact",
+        "text": "Sending a text message",
+        "score": 1
+      },
+      {
+        "text": "Making a phone call",
+        "score": 0
+      },
+      {
+        "text": "Attending a meeting",
         "score": 0
       }
     ]

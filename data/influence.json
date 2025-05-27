@@ -1,105 +1,105 @@
 [
   {
-    "question": "A colleague is resistant to change. What\u2019s a good influence tactic?",
+    "question": "What builds long-term influence the most?",
     "answers": [
       {
-        "text": "Criticize their attitude",
+        "text": "Charisma",
         "score": 0
       },
       {
-        "text": "Ignore them",
+        "text": "Demanding urgency",
         "score": 0
       },
       {
-        "text": "Show how the change benefits their work",
+        "text": "Consistency, credibility, and connection",
         "score": 1
       },
       {
-        "text": "Push through without involving them",
+        "text": "Authority only",
         "score": 0
       }
     ]
   },
   {
-    "question": "How can storytelling support persuasion?",
+    "question": "Which of the following reflects ethical persuasion?",
     "answers": [
       {
-        "text": "It wastes time",
+        "text": "Exaggerating benefits",
         "score": 0
       },
       {
-        "text": "It confuses facts",
+        "text": "Withholding key facts",
         "score": 0
       },
       {
-        "text": "It creates connection and makes your message memorable",
+        "text": "Presenting data honestly while aligning with goals",
         "score": 1
       },
       {
-        "text": "It weakens arguments",
+        "text": "Making emotional threats",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s the impact of using active listening during persuasion?",
+    "question": "What strengthens persuasive communication?",
     "answers": [
       {
-        "text": "It reduces clarity",
+        "text": "Vague language",
         "score": 0
       },
       {
-        "text": "It slows things down",
+        "text": "Aggressive tone",
         "score": 0
       },
       {
-        "text": "It shows respect and builds engagement",
+        "text": "Clear message with relatable examples",
         "score": 1
       },
       {
-        "text": "It confuses people",
+        "text": "Overexplaining with jargon",
         "score": 0
       }
     ]
   },
   {
-    "question": "You want to be persuasive without being pushy. What\u2019s a good approach?",
+    "question": "What helps you influence up (i.e., persuade leadership)?",
     "answers": [
       {
-        "text": "Build relationships and offer value",
+        "text": "Use casual language",
+        "score": 0
+      },
+      {
+        "text": "Avoid data",
+        "score": 0
+      },
+      {
+        "text": "Align with strategic priorities and focus on outcomes",
         "score": 1
       },
       {
-        "text": "Repeat your message constantly",
-        "score": 0
-      },
-      {
-        "text": "Dominate conversations",
-        "score": 0
-      },
-      {
-        "text": "Speak without a plan",
+        "text": "Lead with emotion only",
         "score": 0
       }
     ]
   },
   {
-    "question": "What should you avoid when trying to persuade ethically?",
+    "question": "When is the best time to persuade someone?",
     "answers": [
       {
-        "text": "Understanding impact",
+        "text": "When they\u2019re distracted",
         "score": 0
       },
       {
-        "text": "Being transparent",
+        "text": "When they\u2019re angry",
         "score": 0
       },
       {
-        "text": "Manipulating or misleading people",
+        "text": "When they\u2019re open and focused",
         "score": 1
       },
       {
-        "text": "Listening",
+        "text": "Randomly during crisis",
         "score": 0
       }
     ]

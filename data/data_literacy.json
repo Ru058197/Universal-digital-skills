@@ -1,105 +1,105 @@
 [
   {
-    "question": "Which action improves data-driven decision-making?",
+    "question": "A report includes 4 decimal places unnecessarily. What should you do?",
     "answers": [
       {
-        "text": "Ignoring trends",
+        "text": "Add more decimals",
         "score": 0
       },
       {
-        "text": "Guessing based on opinion",
+        "text": "Ignore it",
         "score": 0
       },
       {
-        "text": "Using accurate, relevant, and timely data",
+        "text": "Simplify for clarity without losing meaning",
         "score": 1
       },
       {
-        "text": "Picking what looks best",
+        "text": "Delete the report",
         "score": 0
       }
     ]
   },
   {
-    "question": "What is a KPI?",
+    "question": "Which graph type is best to show parts of a whole?",
     "answers": [
       {
-        "text": "Key Performance Indicator",
+        "text": "Bar chart",
+        "score": 0
+      },
+      {
+        "text": "Pie chart",
         "score": 1
       },
       {
-        "text": "Knowledge Process Index",
+        "text": "Scatter plot",
         "score": 0
       },
       {
-        "text": "Key Personal Insight",
-        "score": 0
-      },
-      {
-        "text": "Keen Productivity Item",
+        "text": "Histogram",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s a red flag in a data report?",
+    "question": "You\u2019re asked to present data to executives. What\u2019s a good approach?",
     "answers": [
       {
-        "text": "Clear source attribution",
+        "text": "Focus on tactical tasks",
         "score": 0
       },
       {
-        "text": "Consistent format",
+        "text": "Add every detail",
         "score": 0
       },
       {
-        "text": "Lack of explanation for anomalies",
+        "text": "Highlight trends, insights, and business impact",
         "score": 1
       },
       {
-        "text": "Color coding",
+        "text": "Use acronyms heavily",
         "score": 0
       }
     ]
   },
   {
-    "question": "What\u2019s the difference between qualitative and quantitative data?",
+    "question": "When should you update your dashboard metrics?",
     "answers": [
       {
-        "text": "One uses color",
+        "text": "Once a year",
         "score": 0
       },
       {
-        "text": "They're the same",
+        "text": "Only when asked",
         "score": 0
       },
       {
-        "text": "Quantitative is numeric, qualitative is descriptive",
+        "text": "Regularly based on reporting cycles",
         "score": 1
       },
       {
-        "text": "One is always better",
+        "text": "Never",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which of the following is a continuous variable?",
+    "question": "Why is context important when interpreting metrics?",
     "answers": [
       {
-        "text": "Team name",
+        "text": "So you can memorize numbers",
         "score": 0
       },
       {
-        "text": "Department",
+        "text": "It isn\u2019t",
         "score": 0
       },
       {
-        "text": "Revenue over time",
+        "text": "Because metrics alone don\u2019t tell the full story",
         "score": 1
       },
       {
-        "text": "Zip code",
+        "text": "To make things harder",
         "score": 0
       }
     ]

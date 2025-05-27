@@ -1,42 +1,63 @@
 [
   {
-    "question": "What command in GDB displays a short description of a command?",
+    "question": "What is the result of this Python code?\n\nx = '10'\ny = 2\nprint(x * y)",
     "answers": [
       {
-        "text": "he",
+        "text": "20",
         "score": 0
       },
       {
-        "text": "h",
+        "text": "1010",
+        "score": 0
+      },
+      {
+        "text": "101010",
         "score": 1
       },
       {
-        "text": "assist",
-        "score": 0
-      },
-      {
-        "text": "assistant",
+        "text": "TypeError",
         "score": 0
       }
     ]
   },
   {
-    "question": "What is the problem in this SQL query?\n\nSELECT name age FROM users;",
+    "question": "What is the output of this JavaScript code?\n\nconsole.log(typeof NaN);",
     "answers": [
       {
-        "text": "Missing comma between columns",
+        "text": "'undefined'",
+        "score": 0
+      },
+      {
+        "text": "'object'",
+        "score": 0
+      },
+      {
+        "text": "'number'",
         "score": 1
       },
       {
-        "text": "Missing WHERE clause",
+        "text": "'NaN'",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which command in GDB creates an inferior process that runs your program?",
+    "answers": [
+      {
+        "text": "run",
+        "score": 1
+      },
+      {
+        "text": "exit",
         "score": 0
       },
       {
-        "text": "Invalid table name",
+        "text": "execute",
         "score": 0
       },
       {
-        "text": "Unquoted string",
+        "text": "e",
         "score": 0
       }
     ]
@@ -63,43 +84,22 @@
     ]
   },
   {
-    "question": "What\u2019s wrong with this SQL query?\n\nSELECT * FROM employees WHERE name = 'John;",
+    "question": "What is the output of the following C code?\n\nint x=0x10+010+10;\nprintf(\"x=%x\", x);",
     "answers": [
       {
-        "text": "Missing table",
+        "text": "I=34",
         "score": 0
       },
       {
-        "text": "Invalid column",
-        "score": 0
-      },
-      {
-        "text": "Unclosed string",
+        "text": "X=22",
         "score": 1
       },
       {
-        "text": "No WHERE clause",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What is the result of this Python code?\n\nx = '10'\ny = 2\nprint(x * y)",
-    "answers": [
-      {
-        "text": "20",
+        "text": "X=34",
         "score": 0
       },
       {
-        "text": "1010",
-        "score": 0
-      },
-      {
-        "text": "101010",
-        "score": 1
-      },
-      {
-        "text": "TypeError",
+        "text": "Error",
         "score": 0
       }
     ]

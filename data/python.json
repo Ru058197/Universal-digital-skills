@@ -1,47 +1,5 @@
 [
   {
-    "question": "Which symbol is used for comments in Python?",
-    "answers": [
-      {
-        "text": "//",
-        "score": 0
-      },
-      {
-        "text": "#",
-        "score": 1
-      },
-      {
-        "text": "--",
-        "score": 0
-      },
-      {
-        "text": "/* */",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "Which of the following is the correct way to define a tuple in Python?",
-    "answers": [
-      {
-        "text": "{1, 2, 3}",
-        "score": 0
-      },
-      {
-        "text": "[1, 2, 3]",
-        "score": 0
-      },
-      {
-        "text": "(1, 2, 3)",
-        "score": 1
-      },
-      {
-        "text": "\"1, 2, 3\"",
-        "score": 0
-      }
-    ]
-  },
-  {
     "question": "What is the output of the following code?\n\nx = 5\ny = 2\nprint(x ** y)",
     "answers": [
       {
@@ -63,43 +21,85 @@
     ]
   },
   {
-    "question": "What does the len() function do in Python?",
+    "question": "What will be the output of the following code?\n\nprint(7 % 2)",
     "answers": [
       {
-        "text": "Returns the length of a string",
+        "text": "0",
+        "score": 0
+      },
+      {
+        "text": "1",
         "score": 1
       },
       {
-        "text": "Converts a string to uppercase",
+        "text": "2",
         "score": 0
       },
       {
-        "text": "Checks if a value is equal to another",
-        "score": 0
-      },
-      {
-        "text": "Removes whitespace from a string",
+        "text": "3",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which keyword is used to exit from a loop in Python?",
+    "question": "What is the correct way to check if a key exists in a dictionary in Python?",
     "answers": [
       {
-        "text": "break",
+        "text": "key in dictionary",
         "score": 1
       },
       {
-        "text": "stop",
+        "text": "dictionary.contains(key)",
         "score": 0
       },
       {
-        "text": "exit",
+        "text": "dictionary[key]",
         "score": 0
       },
       {
-        "text": "end",
+        "text": "dictionary.get(key)",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the correct way to open a file in Python for reading?",
+    "answers": [
+      {
+        "text": "open(\"file.txt\", \"r\")",
+        "score": 1
+      },
+      {
+        "text": "open(\"file.txt\", \"w\")",
+        "score": 0
+      },
+      {
+        "text": "open(\"file.txt\", \"read\")",
+        "score": 0
+      },
+      {
+        "text": "open(\"file.txt\", \"write\")",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a valid relational operator in Python?",
+    "answers": [
+      {
+        "text": "<>",
+        "score": 0
+      },
+      {
+        "text": "!=",
+        "score": 1
+      },
+      {
+        "text": "^=",
+        "score": 0
+      },
+      {
+        "text": "&&",
         "score": 0
       }
     ]

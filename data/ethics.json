@@ -1,42 +1,42 @@
 [
   {
-    "question": "A developer includes a feature that can be exploited maliciously but says nothing. What is the ethical issue?",
+    "question": "A tech company plans to sell user data to third parties without informing users. What ethical principle is being violated?",
     "answers": [
       {
-        "text": "Security negligence",
+        "text": "Transparency",
         "score": 1
       },
-      {
-        "text": "Poor performance",
-        "score": 0
-      },
-      {
-        "text": "Innovation focus",
-        "score": 0
-      },
-      {
-        "text": "Team dynamics",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "A smart home device shares data with third parties by default. What's the ethical breach?",
-    "answers": [
       {
         "text": "Efficiency",
         "score": 0
       },
       {
-        "text": "Consent and data ownership",
-        "score": 1
-      },
-      {
-        "text": "Battery performance",
+        "text": "Innovation",
         "score": 0
       },
       {
-        "text": "Sensor calibration",
+        "text": "Profitability",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "An app collects more user data than necessary for its function. What principle is being violated?",
+    "answers": [
+      {
+        "text": "Data minimization",
+        "score": 1
+      },
+      {
+        "text": "User engagement",
+        "score": 0
+      },
+      {
+        "text": "Feature richness",
+        "score": 0
+      },
+      {
+        "text": "Market analysis",
         "score": 0
       }
     ]
@@ -63,43 +63,43 @@
     ]
   },
   {
-    "question": "A software engineer discovers that a new feature collects user data without explicit consent. What is the most ethical course of action?",
+    "question": "A developer chooses not to disclose a known bug that risks user data. What's the ethical approach?",
     "answers": [
       {
-        "text": "Ignore the issue",
+        "text": "Delay disclosure",
         "score": 0
       },
       {
-        "text": "Report the concern to the project manager",
+        "text": "Report and fix immediately",
         "score": 1
       },
       {
-        "text": "Discuss it with colleagues",
+        "text": "Minimize the issue",
         "score": 0
       },
       {
-        "text": "Wait to see if users complain",
+        "text": "Ignore it",
         "score": 0
       }
     ]
   },
   {
-    "question": "A tech company avoids disclosing data breaches to preserve its reputation. What ethical concern does this raise?",
+    "question": "A developer is asked to implement a feature that could potentially harm user privacy. What is the ethical response?",
     "answers": [
       {
-        "text": "Efficiency",
+        "text": "Implement the feature",
         "score": 0
       },
       {
-        "text": "Transparency and accountability",
+        "text": "Raise concerns with the supervisor",
         "score": 1
       },
       {
-        "text": "Legal compliance",
+        "text": "Resign immediately",
         "score": 0
       },
       {
-        "text": "Customer service",
+        "text": "Ignore the request",
         "score": 0
       }
     ]

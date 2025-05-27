@@ -1,63 +1,42 @@
 [
   {
-    "question": "Can we overload functions in C++?",
+    "question": "Which of the following is the correct way to declare a pointer in C++?",
     "answers": [
       {
-        "text": "Yes",
+        "text": "int ptr;",
+        "score": 0
+      },
+      {
+        "text": "int *ptr;",
         "score": 1
       },
       {
-        "text": "No",
+        "text": "int &ptr;",
         "score": 0
       },
       {
-        "text": "Only with different return types",
-        "score": 0
-      },
-      {
-        "text": "Only with different names",
+        "text": "pointer int ptr;",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which of the following is a correct identifier in C++?",
+    "question": "Which of the following is the correct syntax to include a user-defined header file in C++?",
     "answers": [
       {
-        "text": "1variable",
+        "text": "#include <userdefined>",
         "score": 0
       },
       {
-        "text": "_variable",
+        "text": "#include [userdefined]",
+        "score": 0
+      },
+      {
+        "text": "#include \"userdefined\"",
         "score": 1
       },
       {
-        "text": "variable-name",
-        "score": 0
-      },
-      {
-        "text": "$variable",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "Which of the following is the correct way to declare a constant in C++?",
-    "answers": [
-      {
-        "text": "const int x = 10;",
-        "score": 0
-      },
-      {
-        "text": "int const x = 10;",
-        "score": 0
-      },
-      {
-        "text": "Both A and B",
-        "score": 1
-      },
-      {
-        "text": "None of the above",
+        "text": "#include {userdefined}",
         "score": 0
       }
     ]
@@ -84,22 +63,43 @@
     ]
   },
   {
-    "question": "Who developed the C++ programming language?",
+    "question": "Which of the following is used for single-line comments in C++?",
     "answers": [
       {
-        "text": "Dennis Ritchie",
+        "text": "/* comment */",
         "score": 0
       },
       {
-        "text": "Ken Thompson",
-        "score": 0
-      },
-      {
-        "text": "Bjarne Stroustrup",
+        "text": "// comment",
         "score": 1
       },
       {
-        "text": "James Gosling",
+        "text": "<!-- comment -->",
+        "score": 0
+      },
+      {
+        "text": "# comment",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a correct identifier in C++?",
+    "answers": [
+      {
+        "text": "1variable",
+        "score": 0
+      },
+      {
+        "text": "_variable",
+        "score": 1
+      },
+      {
+        "text": "variable-name",
+        "score": 0
+      },
+      {
+        "text": "$variable",
         "score": 0
       }
     ]

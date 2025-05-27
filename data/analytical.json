@@ -1,5 +1,68 @@
 [
   {
+    "question": "Which number is divisible by both 3 and 5?",
+    "answers": [
+      {
+        "text": "15",
+        "score": 1
+      },
+      {
+        "text": "18",
+        "score": 0
+      },
+      {
+        "text": "20",
+        "score": 0
+      },
+      {
+        "text": "22",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A rectangle has a length of 10 units and a width of 5 units. What is its area?",
+    "answers": [
+      {
+        "text": "15",
+        "score": 0
+      },
+      {
+        "text": "30",
+        "score": 0
+      },
+      {
+        "text": "50",
+        "score": 1
+      },
+      {
+        "text": "60",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which number is next in the series: 5, 10, 20, 40, ?",
+    "answers": [
+      {
+        "text": "60",
+        "score": 0
+      },
+      {
+        "text": "70",
+        "score": 0
+      },
+      {
+        "text": "80",
+        "score": 1
+      },
+      {
+        "text": "100",
+        "score": 0
+      }
+    ]
+  },
+  {
     "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
     "answers": [
       {
@@ -21,85 +84,22 @@
     ]
   },
   {
-    "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+    "question": "A book costs $12. If you buy 4 books, how much will it cost?",
     "answers": [
       {
-        "text": "5 minutes",
+        "text": "$48",
         "score": 1
       },
       {
-        "text": "10 minutes",
+        "text": "$44",
         "score": 0
       },
       {
-        "text": "100 minutes",
+        "text": "$40",
         "score": 0
       },
       {
-        "text": "50 minutes",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What is the result of 3\u00b2 + 4\u00b2?",
-    "answers": [
-      {
-        "text": "12",
-        "score": 0
-      },
-      {
-        "text": "16",
-        "score": 0
-      },
-      {
-        "text": "25",
-        "score": 1
-      },
-      {
-        "text": "35",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "Which number is the odd one out: 3, 5, 7, 9, 11?",
-    "answers": [
-      {
-        "text": "3",
-        "score": 0
-      },
-      {
-        "text": "5",
-        "score": 0
-      },
-      {
-        "text": "9",
-        "score": 1
-      },
-      {
-        "text": "11",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "If some Smibs are Smobs, and all Smobs are Smibs, then:",
-    "answers": [
-      {
-        "text": "All Smibs are Smobs",
-        "score": 0
-      },
-      {
-        "text": "Some Smibs are not Smobs",
-        "score": 0
-      },
-      {
-        "text": "All Smobs are Smibs",
-        "score": 1
-      },
-      {
-        "text": "No Smibs are Smobs",
+        "text": "$36",
         "score": 0
       }
     ]

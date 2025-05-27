@@ -1,85 +1,105 @@
 [
   {
-    "question": "Which clause filters records?",
+    "question": "What does SQL stand for?",
     "answers": [
       {
-        "text": "WHERE",
+        "text": "Structured Query Language",
         "score": 1
       },
       {
-        "text": "SELECT",
+        "text": "Simple Query Language",
         "score": 0
       },
       {
-        "text": "GROUP BY",
+        "text": "Sequential Query Language",
+        "score": 0
+      },
+      {
+        "text": "Standard Query Language",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which clause filters records?",
+    "question": "Which SQL statement is used to delete data from a database?",
     "answers": [
       {
-        "text": "WHERE",
-        "score": 1
-      },
-      {
-        "text": "SELECT",
+        "text": "REMOVE",
         "score": 0
       },
       {
-        "text": "GROUP BY",
+        "text": "DELETE",
+        "score": 1
+      },
+      {
+        "text": "ERASE",
+        "score": 0
+      },
+      {
+        "text": "DROP",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which clause filters records?",
+    "question": "Which SQL constraint ensures that a column cannot have NULL values?",
     "answers": [
       {
-        "text": "WHERE",
-        "score": 1
-      },
-      {
-        "text": "SELECT",
+        "text": "UNIQUE",
         "score": 0
       },
       {
-        "text": "GROUP BY",
+        "text": "NOT NULL",
+        "score": 1
+      },
+      {
+        "text": "CHECK",
+        "score": 0
+      },
+      {
+        "text": "DEFAULT",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which clause filters records?",
+    "question": "Which SQL function returns the largest value in a set?",
     "answers": [
       {
-        "text": "WHERE",
+        "text": "MAX()",
         "score": 1
       },
       {
-        "text": "SELECT",
+        "text": "BIGGEST()",
         "score": 0
       },
       {
-        "text": "GROUP BY",
+        "text": "LARGE()",
+        "score": 0
+      },
+      {
+        "text": "HIGHEST()",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which clause filters records?",
+    "question": "Which clause is used to filter records in SQL?",
     "answers": [
+      {
+        "text": "ORDER BY",
+        "score": 0
+      },
+      {
+        "text": "GROUP BY",
+        "score": 0
+      },
       {
         "text": "WHERE",
         "score": 1
       },
       {
-        "text": "SELECT",
-        "score": 0
-      },
-      {
-        "text": "GROUP BY",
+        "text": "HAVING",
         "score": 0
       }
     ]

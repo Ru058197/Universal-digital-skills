@@ -1,105 +1,105 @@
 [
   {
-    "question": "Your manager gives unclear expectations. How do you lead your team?",
+    "question": "You're leading a project with a tight deadline. A team member is consistently late with their deliverables. What should you do?",
     "answers": [
       {
-        "text": "Wait for clarity",
+        "text": "Ignore the issue",
         "score": 0
       },
       {
-        "text": "Guess what\u2019s needed",
+        "text": "Publicly reprimand them",
         "score": 0
       },
       {
-        "text": "Ask clarifying questions and translate direction to your team",
+        "text": "Privately discuss and offer support",
         "score": 1
       },
       {
-        "text": "Do nothing",
+        "text": "Reassign their tasks without explanation",
         "score": 0
       }
     ]
   },
   {
-    "question": "You notice team enthusiasm has declined. What\u2019s a leadership response?",
+    "question": "A critical project fails under your leadership. What\u2019s the best course of action?",
+    "answers": [
+      {
+        "text": "Blame the team",
+        "score": 0
+      },
+      {
+        "text": "Conduct a team debrief to learn and recover",
+        "score": 1
+      },
+      {
+        "text": "Avoid future high-visibility projects",
+        "score": 0
+      },
+      {
+        "text": "Delay reporting the failure",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Your team is experiencing low morale. How do you boost motivation?",
     "answers": [
       {
         "text": "Ignore it",
         "score": 0
       },
       {
-        "text": "Survey the team and act on feedback",
-        "score": 1
-      },
-      {
-        "text": "Blame external factors",
+        "text": "Set unrealistic goals",
         "score": 0
       },
       {
-        "text": "Delay all meetings",
+        "text": "Recognize effort and involve the team in planning",
+        "score": 1
+      },
+      {
+        "text": "Replace team members",
         "score": 0
       }
     ]
   },
   {
-    "question": "A junior team member voices a concern during a meeting. How do you respond?",
+    "question": "An executive bypasses you and directs your team directly. What do you do?",
     "answers": [
       {
-        "text": "Dismiss it to maintain agenda",
+        "text": "Confront the exec in public",
         "score": 0
       },
       {
-        "text": "Acknowledge and invite discussion",
+        "text": "Realign chain of command privately",
         "score": 1
       },
       {
-        "text": "Redirect the meeting immediately",
+        "text": "Ignore it",
         "score": 0
       },
       {
-        "text": "Criticize them for interrupting",
+        "text": "Warn your team to ignore the exec",
         "score": 0
       }
     ]
   },
   {
-    "question": "A high-potential employee is bored. What\u2019s your leadership move?",
+    "question": "A top employee shows signs of burnout. How do you respond?",
     "answers": [
       {
-        "text": "Assign more administrative tasks",
-        "score": 0
-      },
-      {
-        "text": "Offer stretch assignments and growth opportunities",
-        "score": 1
-      },
-      {
-        "text": "Ask them to train others only",
+        "text": "Give them more work",
         "score": 0
       },
       {
         "text": "Ignore it",
         "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You're leading a remote team across time zones. How do you ensure communication?",
-    "answers": [
-      {
-        "text": "Schedule meetings at your convenience",
-        "score": 0
       },
       {
-        "text": "Use only email",
-        "score": 0
-      },
-      {
-        "text": "Use async tools and fair scheduling",
+        "text": "Discuss their workload and provide support",
         "score": 1
       },
       {
-        "text": "Avoid meetings",
+        "text": "Criticize performance",
         "score": 0
       }
     ]

@@ -1,105 +1,105 @@
 [
   {
-    "question": "Who is responsible for compliance in an organization?",
+    "question": "What is the risk of ignoring minor compliance issues?",
     "answers": [
       {
-        "text": "Only legal team",
+        "text": "It builds efficiency",
         "score": 0
       },
       {
-        "text": "Only executives",
+        "text": "Nothing happens",
         "score": 0
       },
       {
-        "text": "Everyone, including individual employees",
+        "text": "They can lead to larger violations and liabilities",
         "score": 1
       },
       {
-        "text": "External auditors only",
+        "text": "It speeds up work",
         "score": 0
       }
     ]
   },
   {
-    "question": "Discrimination training helps employees:",
+    "question": "You receive a suspicious email asking for login info. What\u2019s the best response?",
     "answers": [
       {
-        "text": "Learn how to avoid others",
+        "text": "Click the link",
         "score": 0
       },
       {
-        "text": "Complain more",
+        "text": "Reply with fake info",
         "score": 0
       },
       {
-        "text": "Understand respectful conduct and equal treatment",
+        "text": "Report it as phishing",
         "score": 1
       },
       {
-        "text": "Get promoted",
+        "text": "Forward it to a friend",
         "score": 0
       }
     ]
   },
   {
-    "question": "When should you speak up about a concern?",
+    "question": "Why is it important to complete compliance training on time?",
     "answers": [
       {
-        "text": "Only after proof",
+        "text": "To avoid boredom",
         "score": 0
       },
       {
-        "text": "If you\u2019re told to",
+        "text": "So others do it too",
         "score": 0
       },
       {
-        "text": "When something feels wrong, even without full proof",
+        "text": "To stay informed and meet legal obligations",
         "score": 1
       },
       {
-        "text": "After others complain",
+        "text": "To fill time",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which behavior best supports compliance culture?",
+    "question": "Why are anonymous hotlines used in compliance?",
     "answers": [
       {
-        "text": "Looking the other way",
+        "text": "To confuse people",
         "score": 0
       },
       {
-        "text": "Doing what works fastest",
+        "text": "To avoid accountability",
         "score": 0
       },
       {
-        "text": "Following policies and encouraging accountability",
+        "text": "To allow safe reporting of concerns",
         "score": 1
       },
       {
-        "text": "Avoiding documentation",
+        "text": "To gather marketing info",
         "score": 0
       }
     ]
   },
   {
-    "question": "Your company updates its privacy policy. What\u2019s your role?",
+    "question": "Harassment can be:",
     "answers": [
       {
-        "text": "Ignore it",
+        "text": "Only physical",
         "score": 0
       },
       {
-        "text": "Rely on someone else",
+        "text": "Only verbal",
         "score": 0
       },
       {
-        "text": "Review and understand how it affects your work",
+        "text": "Verbal, physical, visual, or digital",
         "score": 1
       },
       {
-        "text": "Share it on social media",
+        "text": "Just between managers",
         "score": 0
       }
     ]
