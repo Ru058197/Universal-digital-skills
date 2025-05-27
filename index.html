@@ -1,154 +1,35 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Certivue Interactive Dashboard</title>
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #0f172a;
-      color: white;
-    }
-    header {
-      background: #1e293b;
-      padding: 1rem 2rem;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .logo {
-      font-size: 1.5rem;
-      font-weight: bold;
-    }
-    h1, h2 {
-      margin-left: 2rem;
-      color: #93c5fd;
-    }
-    .carousel-section {
-      margin: 1rem 0;
-    }
-    .carousel {
-      display: flex;
-      overflow-x: auto;
-      gap: 1rem;
-      padding: 1rem 2rem;
-      scroll-snap-type: x mandatory;
-    }
-    .skill-card {
-      background: #1e293b;
-      border-radius: 1rem;
-      padding: 1rem;
-      min-width: 180px;
-      flex: 0 0 auto;
-      scroll-snap-align: start;
-      transition: transform 0.3s, background 0.3s;
-      cursor: pointer;
-      text-align: center;
-      border: 2px solid transparent;
-    }
-    .skill-card:hover {
-      transform: scale(1.05);
-      background: #2563eb;
-      border-color: #60a5fa;
-    }
-    .skill-icon {
-      font-size: 2rem;
-    }
-    .skill-title {
-      margin-top: 0.5rem;
-      font-size: 1.1rem;
-      font-weight: bold;
-    }
-    .start-btn {
-      margin-top: 0.75rem;
-      padding: 0.4rem 0.8rem;
-      background: #10b981;
-      color: white;
-      border: none;
-      border-radius: 0.5rem;
-      font-weight: bold;
-      cursor: pointer;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #1e293b;
-      font-size: 0.9rem;
-      color: #aaa;
-    }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Certivue Skills</title>
+  <link rel="stylesheet" href="styles/styles.css" />
 </head>
 <body>
   <header>
-    <div class="logo">Certivue</div>
-    <nav><a href="dashboard.html" style="color:#60a5fa; text-decoration:none;">Dashboard</a></nav>
+    <h1>Certivue Skill Assessment</h1>
+    <p class="tagline">Discover your strengths. Target your growth.</p>
   </header>
 
-  <main>
-    <h1>Welcome to Your Skill Center</h1>
-
-    <div class="carousel-section">
-      <h2>Behavioral Skills</h2>
-      <div class="carousel">
-        <div class="skill-card" onclick="startQuiz('communication')">
-          <div class="skill-icon">💬</div>
-          <div class="skill-title">Communication</div>
-          <button class="start-btn">Start</button>
-        </div>
-        <div class="skill-card" onclick="startQuiz('analytical')">
-          <div class="skill-icon">🧠</div>
-          <div class="skill-title">Analytical</div>
-          <button class="start-btn">Start</button>
-        </div>
-        <div class="skill-card" onclick="startQuiz('conflict')">
-          <div class="skill-icon">☮️</div>
-          <div class="skill-title">Conflict</div>
-          <button class="start-btn">Start</button>
-        </div>
-        <div class="skill-card" onclick="startQuiz('time_management')">
-          <div class="skill-icon">⏰</div>
-          <div class="skill-title">Time Management</div>
-          <button class="start-btn">Start</button>
-        </div>
-      </div>
+  <section class="skill-section">
+    <h2>Behavioral Skills</h2>
+    <div class="skill-grid">
+      <div class="skill-card">Analytical</div>
+      <div class="skill-card">Communication</div>
+      <div class="skill-card">Conflict</div>
+      <div class="skill-card">Adaptability</div>
     </div>
+  </section>
 
-    <div class="carousel-section">
-      <h2>Technical Skills</h2>
-      <div class="carousel">
-        <div class="skill-card" onclick="startQuiz('html')">
-          <div class="skill-icon">📄</div>
-          <div class="skill-title">HTML</div>
-          <button class="start-btn">Start</button>
-        </div>
-        <div class="skill-card" onclick="startQuiz('javascript')">
-          <div class="skill-icon">📜</div>
-          <div class="skill-title">JavaScript</div>
-          <button class="start-btn">Start</button>
-        </div>
-        <div class="skill-card" onclick="startQuiz('python')">
-          <div class="skill-icon">🐍</div>
-          <div class="skill-title">Python</div>
-          <button class="start-btn">Start</button>
-        </div>
-        <div class="skill-card" onclick="startQuiz('sql')">
-          <div class="skill-icon">🧮</div>
-          <div class="skill-title">SQL</div>
-          <button class="start-btn">Start</button>
-        </div>
-      </div>
+  <section class="skill-section">
+    <h2>Technical Skills</h2>
+    <div class="skill-grid">
+      <div class="skill-card">Python</div>
+      <div class="skill-card">JavaScript</div>
+      <div class="skill-card">SQL</div>
     </div>
-
-  </main>
-  <footer>
-    &copy; 2025 Certivue. Assess. Grow. Advance.
-  </footer>
-  <script>
-    function startQuiz(skill) {
-      window.location.href = `quiz.html?skill=${skill}`;
-    }
-  </script>
+  </section>
 </body>
 </html>
