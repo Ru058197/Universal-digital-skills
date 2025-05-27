@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What\u2019s a good way to prevent customer frustration before it starts?",
+    "answers": [
+      {
+        "text": "Use technical terms",
+        "score": 0
+      },
+      {
+        "text": "Set clear expectations up front",
+        "score": 1
+      },
+      {
+        "text": "Let them figure it out",
+        "score": 0
+      },
+      {
+        "text": "Promise more than you can deliver",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s a key sign a customer is not satisfied, even if they don\u2019t say it?",
+    "answers": [
+      {
+        "text": "They ask too many questions",
+        "score": 0
+      },
+      {
+        "text": "They thank you politely",
+        "score": 0
+      },
+      {
+        "text": "Their tone becomes short or disengaged",
+        "score": 1
+      },
+      {
+        "text": "They follow instructions",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What behavior builds customer trust?",
+    "answers": [
+      {
+        "text": "Overpromising outcomes",
+        "score": 0
+      },
+      {
+        "text": "Following up when promised",
+        "score": 1
+      },
+      {
+        "text": "Using vague commitments",
+        "score": 0
+      },
+      {
+        "text": "Referring them to a website only",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "If a customer shares positive feedback, what should you do?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Thank them and let your team know",
+        "score": 1
+      },
+      {
+        "text": "Say 'Okay'",
+        "score": 0
+      },
+      {
+        "text": "Ask for a survey only",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A customer calls frustrated about a billing error. What's your best first response?",
+    "answers": [
+      {
+        "text": "Ask them to calm down",
+        "score": 0
+      },
+      {
+        "text": "Transfer them to another department",
+        "score": 0
+      },
+      {
+        "text": "Acknowledge the issue and express understanding",
+        "score": 1
+      },
+      {
+        "text": "Tell them it's not your fault",
+        "score": 0
+      }
+    ]
+  }
+]

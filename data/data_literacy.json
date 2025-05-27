@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Which action improves data-driven decision-making?",
+    "answers": [
+      {
+        "text": "Ignoring trends",
+        "score": 0
+      },
+      {
+        "text": "Guessing based on opinion",
+        "score": 0
+      },
+      {
+        "text": "Using accurate, relevant, and timely data",
+        "score": 1
+      },
+      {
+        "text": "Picking what looks best",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is a KPI?",
+    "answers": [
+      {
+        "text": "Key Performance Indicator",
+        "score": 1
+      },
+      {
+        "text": "Knowledge Process Index",
+        "score": 0
+      },
+      {
+        "text": "Key Personal Insight",
+        "score": 0
+      },
+      {
+        "text": "Keen Productivity Item",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s a red flag in a data report?",
+    "answers": [
+      {
+        "text": "Clear source attribution",
+        "score": 0
+      },
+      {
+        "text": "Consistent format",
+        "score": 0
+      },
+      {
+        "text": "Lack of explanation for anomalies",
+        "score": 1
+      },
+      {
+        "text": "Color coding",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the difference between qualitative and quantitative data?",
+    "answers": [
+      {
+        "text": "One uses color",
+        "score": 0
+      },
+      {
+        "text": "They're the same",
+        "score": 0
+      },
+      {
+        "text": "Quantitative is numeric, qualitative is descriptive",
+        "score": 1
+      },
+      {
+        "text": "One is always better",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a continuous variable?",
+    "answers": [
+      {
+        "text": "Team name",
+        "score": 0
+      },
+      {
+        "text": "Department",
+        "score": 0
+      },
+      {
+        "text": "Revenue over time",
+        "score": 1
+      },
+      {
+        "text": "Zip code",
+        "score": 0
+      }
+    ]
+  }
+]

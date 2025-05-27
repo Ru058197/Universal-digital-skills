@@ -1,0 +1,107 @@
+[
+  {
+    "question": "A colleague is resistant to change. What\u2019s a good influence tactic?",
+    "answers": [
+      {
+        "text": "Criticize their attitude",
+        "score": 0
+      },
+      {
+        "text": "Ignore them",
+        "score": 0
+      },
+      {
+        "text": "Show how the change benefits their work",
+        "score": 1
+      },
+      {
+        "text": "Push through without involving them",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "How can storytelling support persuasion?",
+    "answers": [
+      {
+        "text": "It wastes time",
+        "score": 0
+      },
+      {
+        "text": "It confuses facts",
+        "score": 0
+      },
+      {
+        "text": "It creates connection and makes your message memorable",
+        "score": 1
+      },
+      {
+        "text": "It weakens arguments",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the impact of using active listening during persuasion?",
+    "answers": [
+      {
+        "text": "It reduces clarity",
+        "score": 0
+      },
+      {
+        "text": "It slows things down",
+        "score": 0
+      },
+      {
+        "text": "It shows respect and builds engagement",
+        "score": 1
+      },
+      {
+        "text": "It confuses people",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You want to be persuasive without being pushy. What\u2019s a good approach?",
+    "answers": [
+      {
+        "text": "Build relationships and offer value",
+        "score": 1
+      },
+      {
+        "text": "Repeat your message constantly",
+        "score": 0
+      },
+      {
+        "text": "Dominate conversations",
+        "score": 0
+      },
+      {
+        "text": "Speak without a plan",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What should you avoid when trying to persuade ethically?",
+    "answers": [
+      {
+        "text": "Understanding impact",
+        "score": 0
+      },
+      {
+        "text": "Being transparent",
+        "score": 0
+      },
+      {
+        "text": "Manipulating or misleading people",
+        "score": 1
+      },
+      {
+        "text": "Listening",
+        "score": 0
+      }
+    ]
+  }
+]

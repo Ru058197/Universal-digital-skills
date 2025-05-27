@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What should be considered when assigning tasks?",
+    "answers": [
+      {
+        "text": "Availability and alignment with skillsets",
+        "score": 1
+      },
+      {
+        "text": "Who is loudest",
+        "score": 0
+      },
+      {
+        "text": "Personal preference only",
+        "score": 0
+      },
+      {
+        "text": "Task popularity",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You\u2019re planning for limited resources. What tool helps you adjust?",
+    "answers": [
+      {
+        "text": "Work plan estimator",
+        "score": 0
+      },
+      {
+        "text": "Risk tracker",
+        "score": 0
+      },
+      {
+        "text": "Resource allocation matrix",
+        "score": 1
+      },
+      {
+        "text": "Timeline extender",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the critical path in project planning?",
+    "answers": [
+      {
+        "text": "The longest sequence of dependent tasks",
+        "score": 1
+      },
+      {
+        "text": "The shortest set of tasks",
+        "score": 0
+      },
+      {
+        "text": "The riskiest activity list",
+        "score": 0
+      },
+      {
+        "text": "The least important path",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You need to communicate bad news to a stakeholder. What helps?",
+    "answers": [
+      {
+        "text": "Avoiding contact",
+        "score": 0
+      },
+      {
+        "text": "Only writing emails",
+        "score": 0
+      },
+      {
+        "text": "Being honest and offering a path forward",
+        "score": 1
+      },
+      {
+        "text": "Blaming someone else",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s a good way to ensure quality in deliverables?",
+    "answers": [
+      {
+        "text": "Review only at the end",
+        "score": 0
+      },
+      {
+        "text": "Assume it\u2019s fine",
+        "score": 0
+      },
+      {
+        "text": "Build in reviews and quality checks early",
+        "score": 1
+      },
+      {
+        "text": "Blame QA later",
+        "score": 0
+      }
+    ]
+  }
+]

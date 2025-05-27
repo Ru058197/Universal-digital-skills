@@ -1,0 +1,107 @@
+[
+  {
+    "question": "A developer includes a feature that can be exploited maliciously but says nothing. What is the ethical issue?",
+    "answers": [
+      {
+        "text": "Security negligence",
+        "score": 1
+      },
+      {
+        "text": "Poor performance",
+        "score": 0
+      },
+      {
+        "text": "Innovation focus",
+        "score": 0
+      },
+      {
+        "text": "Team dynamics",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A smart home device shares data with third parties by default. What's the ethical breach?",
+    "answers": [
+      {
+        "text": "Efficiency",
+        "score": 0
+      },
+      {
+        "text": "Consent and data ownership",
+        "score": 1
+      },
+      {
+        "text": "Battery performance",
+        "score": 0
+      },
+      {
+        "text": "Sensor calibration",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "An AI chatbot provides medical advice without disclaimers. What is the ethical concern?",
+    "answers": [
+      {
+        "text": "User autonomy",
+        "score": 0
+      },
+      {
+        "text": "Misinformation risk",
+        "score": 1
+      },
+      {
+        "text": "Cost saving",
+        "score": 0
+      },
+      {
+        "text": "User engagement",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A software engineer discovers that a new feature collects user data without explicit consent. What is the most ethical course of action?",
+    "answers": [
+      {
+        "text": "Ignore the issue",
+        "score": 0
+      },
+      {
+        "text": "Report the concern to the project manager",
+        "score": 1
+      },
+      {
+        "text": "Discuss it with colleagues",
+        "score": 0
+      },
+      {
+        "text": "Wait to see if users complain",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A tech company avoids disclosing data breaches to preserve its reputation. What ethical concern does this raise?",
+    "answers": [
+      {
+        "text": "Efficiency",
+        "score": 0
+      },
+      {
+        "text": "Transparency and accountability",
+        "score": 1
+      },
+      {
+        "text": "Legal compliance",
+        "score": 0
+      },
+      {
+        "text": "Customer service",
+        "score": 0
+      }
+    ]
+  }
+]

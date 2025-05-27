@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Your manager gives unclear expectations. How do you lead your team?",
+    "answers": [
+      {
+        "text": "Wait for clarity",
+        "score": 0
+      },
+      {
+        "text": "Guess what\u2019s needed",
+        "score": 0
+      },
+      {
+        "text": "Ask clarifying questions and translate direction to your team",
+        "score": 1
+      },
+      {
+        "text": "Do nothing",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You notice team enthusiasm has declined. What\u2019s a leadership response?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Survey the team and act on feedback",
+        "score": 1
+      },
+      {
+        "text": "Blame external factors",
+        "score": 0
+      },
+      {
+        "text": "Delay all meetings",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A junior team member voices a concern during a meeting. How do you respond?",
+    "answers": [
+      {
+        "text": "Dismiss it to maintain agenda",
+        "score": 0
+      },
+      {
+        "text": "Acknowledge and invite discussion",
+        "score": 1
+      },
+      {
+        "text": "Redirect the meeting immediately",
+        "score": 0
+      },
+      {
+        "text": "Criticize them for interrupting",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A high-potential employee is bored. What\u2019s your leadership move?",
+    "answers": [
+      {
+        "text": "Assign more administrative tasks",
+        "score": 0
+      },
+      {
+        "text": "Offer stretch assignments and growth opportunities",
+        "score": 1
+      },
+      {
+        "text": "Ask them to train others only",
+        "score": 0
+      },
+      {
+        "text": "Ignore it",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You're leading a remote team across time zones. How do you ensure communication?",
+    "answers": [
+      {
+        "text": "Schedule meetings at your convenience",
+        "score": 0
+      },
+      {
+        "text": "Use only email",
+        "score": 0
+      },
+      {
+        "text": "Use async tools and fair scheduling",
+        "score": 1
+      },
+      {
+        "text": "Avoid meetings",
+        "score": 0
+      }
+    ]
+  }
+]

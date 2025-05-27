@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the purpose of setting SMART goals?",
+    "answers": [
+      {
+        "text": "To ensure goals are vague",
+        "score": 0
+      },
+      {
+        "text": "To make goals unattainable",
+        "score": 0
+      },
+      {
+        "text": "To set clear, measurable goals",
+        "score": 1
+      },
+      {
+        "text": "To create goals without deadlines",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "How to avoid procrastination?",
+    "answers": [
+      {
+        "text": "Set unrealistic deadlines",
+        "score": 0
+      },
+      {
+        "text": "Take breaks",
+        "score": 0
+      },
+      {
+        "text": "Break into smaller steps",
+        "score": 1
+      },
+      {
+        "text": "Avoid to-do lists",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Why delegate tasks?",
+    "answers": [
+      {
+        "text": "Decrease productivity",
+        "score": 0
+      },
+      {
+        "text": "Buy time for high-priority tasks",
+        "score": 1
+      },
+      {
+        "text": "Avoid responsibility",
+        "score": 0
+      },
+      {
+        "text": "Skip planning",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "How does saying 'no' help?",
+    "answers": [
+      {
+        "text": "Avoid all commitments",
+        "score": 0
+      },
+      {
+        "text": "Focus on own priorities",
+        "score": 1
+      },
+      {
+        "text": "Reject responsibility",
+        "score": 0
+      },
+      {
+        "text": "Increase stress",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is a key benefit of using a time management app?",
+    "answers": [
+      {
+        "text": "Guarantees no interruptions",
+        "score": 0
+      },
+      {
+        "text": "Automates all tasks",
+        "score": 0
+      },
+      {
+        "text": "Organizes and tracks tasks and deadlines",
+        "score": 1
+      },
+      {
+        "text": "Eliminates need for planning",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What command in GDB displays a short description of a command?",
+    "answers": [
+      {
+        "text": "he",
+        "score": 0
+      },
+      {
+        "text": "h",
+        "score": 1
+      },
+      {
+        "text": "assist",
+        "score": 0
+      },
+      {
+        "text": "assistant",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the problem in this SQL query?\n\nSELECT name age FROM users;",
+    "answers": [
+      {
+        "text": "Missing comma between columns",
+        "score": 1
+      },
+      {
+        "text": "Missing WHERE clause",
+        "score": 0
+      },
+      {
+        "text": "Invalid table name",
+        "score": 0
+      },
+      {
+        "text": "Unquoted string",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes the bug in this code?\n\nlet total = 0;\nfor (let i = 0; i <= 10; i++) {\n  total += i;\n}\nconsole.log(total);",
+    "answers": [
+      {
+        "text": "Off-by-one error",
+        "score": 1
+      },
+      {
+        "text": "Syntax error",
+        "score": 0
+      },
+      {
+        "text": "Incorrect loop variable",
+        "score": 0
+      },
+      {
+        "text": "Infinite loop",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s wrong with this SQL query?\n\nSELECT * FROM employees WHERE name = 'John;",
+    "answers": [
+      {
+        "text": "Missing table",
+        "score": 0
+      },
+      {
+        "text": "Invalid column",
+        "score": 0
+      },
+      {
+        "text": "Unclosed string",
+        "score": 1
+      },
+      {
+        "text": "No WHERE clause",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the result of this Python code?\n\nx = '10'\ny = 2\nprint(x * y)",
+    "answers": [
+      {
+        "text": "20",
+        "score": 0
+      },
+      {
+        "text": "1010",
+        "score": 0
+      },
+      {
+        "text": "101010",
+        "score": 1
+      },
+      {
+        "text": "TypeError",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Your workload is full but you're asked to take on more. What's the best way to respond?",
+    "answers": [
+      {
+        "text": "Say yes without hesitation",
+        "score": 0
+      },
+      {
+        "text": "Complain to the team",
+        "score": 0
+      },
+      {
+        "text": "Clarify current commitments and negotiate priorities",
+        "score": 1
+      },
+      {
+        "text": "Ignore the request",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You disagree with a leadership decision. What's the most productive move?",
+    "answers": [
+      {
+        "text": "Publicly criticize the decision",
+        "score": 0
+      },
+      {
+        "text": "Start rumors",
+        "score": 0
+      },
+      {
+        "text": "Ask questions and share feedback through proper channels",
+        "score": 1
+      },
+      {
+        "text": "Avoid work in protest",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You\u2019re asked to do something you believe violates company policy. What do you do?",
+    "answers": [
+      {
+        "text": "Do it anyway to stay in favor",
+        "score": 0
+      },
+      {
+        "text": "Refuse and immediately go public",
+        "score": 0
+      },
+      {
+        "text": "Seek clarification and raise the concern appropriately",
+        "score": 1
+      },
+      {
+        "text": "Ignore the task",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Two teammates are having a personal disagreement that's affecting work. What's your best course?",
+    "answers": [
+      {
+        "text": "Pick a side",
+        "score": 0
+      },
+      {
+        "text": "Complain to others",
+        "score": 0
+      },
+      {
+        "text": "Encourage them to resolve it privately or involve your manager if needed",
+        "score": 1
+      },
+      {
+        "text": "Avoid both of them",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You see a team member struggling with a task but they haven\u2019t asked for help. What should you do?",
+    "answers": [
+      {
+        "text": "Critique them to your boss",
+        "score": 0
+      },
+      {
+        "text": "Offer help privately and respectfully",
+        "score": 1
+      },
+      {
+        "text": "Tell everyone they\u2019re slow",
+        "score": 0
+      },
+      {
+        "text": "Wait for them to fail",
+        "score": 0
+      }
+    ]
+  }
+]

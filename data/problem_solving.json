@@ -1,0 +1,107 @@
+[
+  {
+    "question": "You\u2019re solving a supply issue affecting customers. What adds long-term value?",
+    "answers": [
+      {
+        "text": "Provide a one-time workaround",
+        "score": 0
+      },
+      {
+        "text": "Offer a refund",
+        "score": 0
+      },
+      {
+        "text": "Fix the root cause to prevent repeat issues",
+        "score": 1
+      },
+      {
+        "text": "Apologize without change",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to think critically?",
+    "answers": [
+      {
+        "text": "Accepting surface-level info",
+        "score": 0
+      },
+      {
+        "text": "Avoiding hard questions",
+        "score": 0
+      },
+      {
+        "text": "Evaluating ideas objectively and logically",
+        "score": 1
+      },
+      {
+        "text": "Reacting emotionally",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What helps generate solutions under pressure?",
+    "answers": [
+      {
+        "text": "Blaming others",
+        "score": 0
+      },
+      {
+        "text": "Dwelling on the issue",
+        "score": 0
+      },
+      {
+        "text": "Staying calm and solution-focused",
+        "score": 1
+      },
+      {
+        "text": "Avoiding responsibility",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A sudden change causes confusion. What\u2019s a good first step?",
+    "answers": [
+      {
+        "text": "Panic",
+        "score": 0
+      },
+      {
+        "text": "Wait for direction",
+        "score": 0
+      },
+      {
+        "text": "Clarify what\u2019s known and unknown",
+        "score": 1
+      },
+      {
+        "text": "Ignore it and move forward",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s the first step in solving any workplace problem?",
+    "answers": [
+      {
+        "text": "Jump into fixing",
+        "score": 0
+      },
+      {
+        "text": "Avoid it",
+        "score": 0
+      },
+      {
+        "text": "Understand the cause and context",
+        "score": 1
+      },
+      {
+        "text": "Create urgency unnecessarily",
+        "score": 0
+      }
+    ]
+  }
+]

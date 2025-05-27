@@ -1,0 +1,107 @@
+[
+  {
+    "question": "A junior team member wants to try a stretch task. What\u2019s your response?",
+    "answers": [
+      {
+        "text": "Assign them a small piece with guidance",
+        "score": 1
+      },
+      {
+        "text": "Let them fail and learn",
+        "score": 0
+      },
+      {
+        "text": "Give it all to them with no input",
+        "score": 0
+      },
+      {
+        "text": "Say no immediately",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Delegation is most successful when:",
+    "answers": [
+      {
+        "text": "You trust your team\u2019s judgment",
+        "score": 1
+      },
+      {
+        "text": "You withhold important details",
+        "score": 0
+      },
+      {
+        "text": "Deadlines are left open-ended",
+        "score": 0
+      },
+      {
+        "text": "You recheck everything yourself",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What\u2019s one way to boost confidence when delegating?",
+    "answers": [
+      {
+        "text": "Mention past mistakes",
+        "score": 0
+      },
+      {
+        "text": "Offer support and express trust",
+        "score": 1
+      },
+      {
+        "text": "Give vague directions",
+        "score": 0
+      },
+      {
+        "text": "Constant corrections",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Delegation fails most when:",
+    "answers": [
+      {
+        "text": "The person has too much support",
+        "score": 0
+      },
+      {
+        "text": "Expectations are unclear",
+        "score": 1
+      },
+      {
+        "text": "They ask questions",
+        "score": 0
+      },
+      {
+        "text": "You celebrate small wins",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Delegation is LEAST effective when:",
+    "answers": [
+      {
+        "text": "The person has no authority",
+        "score": 1
+      },
+      {
+        "text": "Expectations are clearly set",
+        "score": 0
+      },
+      {
+        "text": "Feedback is encouraged",
+        "score": 0
+      },
+      {
+        "text": "They\u2019re empowered",
+        "score": 0
+      }
+    ]
+  }
+]

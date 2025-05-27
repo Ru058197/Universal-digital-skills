@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is a common prioritization pitfall?",
+    "answers": [
+      {
+        "text": "Tackling easy wins early",
+        "score": 0
+      },
+      {
+        "text": "Making time for planning",
+        "score": 0
+      },
+      {
+        "text": "Letting everything feel like a fire drill",
+        "score": 1
+      },
+      {
+        "text": "Clarifying priorities",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A manager asks for a report by end of day, but you\u2019re behind on a deadline. What do you do?",
+    "answers": [
+      {
+        "text": "Ignore the report request",
+        "score": 0
+      },
+      {
+        "text": "Tell your manager you\u2019re too busy",
+        "score": 0
+      },
+      {
+        "text": "Clarify the urgency and adjust priorities together",
+        "score": 1
+      },
+      {
+        "text": "Rush both tasks and risk mistakes",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does it mean if everything feels urgent?",
+    "answers": [
+      {
+        "text": "You are well-organized",
+        "score": 0
+      },
+      {
+        "text": "You need better prioritization systems",
+        "score": 1
+      },
+      {
+        "text": "You\u2019re working efficiently",
+        "score": 0
+      },
+      {
+        "text": "There are no problems",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "If you miss a deadline due to shifting priorities, what should you do?",
+    "answers": [
+      {
+        "text": "Hide it",
+        "score": 0
+      },
+      {
+        "text": "Blame your manager",
+        "score": 0
+      },
+      {
+        "text": "Own it and explain the tradeoffs transparently",
+        "score": 1
+      },
+      {
+        "text": "Say it was a minor task",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What tool helps prioritize based on urgency and importance?",
+    "answers": [
+      {
+        "text": "Fishbone diagram",
+        "score": 0
+      },
+      {
+        "text": "Eisenhower Matrix",
+        "score": 1
+      },
+      {
+        "text": "Cost-benefit chart",
+        "score": 0
+      },
+      {
+        "text": "RACI matrix",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "question": "You\u2019re faced with an ethical dilemma on a cross-functional team. What\u2019s your first move?",
+    "answers": [
+      {
+        "text": "Escalate to HR",
+        "score": 0
+      },
+      {
+        "text": "Make a decision alone",
+        "score": 0
+      },
+      {
+        "text": "Facilitate a team discussion with input",
+        "score": 1
+      },
+      {
+        "text": "Choose what\u2019s easiest",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A client is dissatisfied with your service. What's your response?",
+    "answers": [
+      {
+        "text": "Blame client",
+        "score": 0
+      },
+      {
+        "text": "Listen and work on a resolution",
+        "score": 1
+      },
+      {
+        "text": "Ignore complaints",
+        "score": 0
+      },
+      {
+        "text": "End the relationship",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Your team missed a major deadline. What is your immediate responsibility?",
+    "answers": [
+      {
+        "text": "Blame the team",
+        "score": 0
+      },
+      {
+        "text": "Deflect accountability",
+        "score": 0
+      },
+      {
+        "text": "Acknowledge the issue and initiate recovery steps",
+        "score": 1
+      },
+      {
+        "text": "Do nothing",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You notice a colleague consistently arriving late, affecting team productivity. What should you do?",
+    "answers": [
+      {
+        "text": "Ignore the behavior",
+        "score": 0
+      },
+      {
+        "text": "Confront them publicly",
+        "score": 0
+      },
+      {
+        "text": "Privately discuss your observations and concerns with them",
+        "score": 1
+      },
+      {
+        "text": "Report them to HR",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "A new policy is unpopular among your team. How do you implement it?",
+    "answers": [
+      {
+        "text": "Enforce strictly",
+        "score": 0
+      },
+      {
+        "text": "Ignore the policy",
+        "score": 0
+      },
+      {
+        "text": "Communicate and address concerns",
+        "score": 1
+      },
+      {
+        "text": "Encourage protest",
+        "score": 0
+      }
+    ]
+  }
+]

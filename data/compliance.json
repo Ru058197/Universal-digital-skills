@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Who is responsible for compliance in an organization?",
+    "answers": [
+      {
+        "text": "Only legal team",
+        "score": 0
+      },
+      {
+        "text": "Only executives",
+        "score": 0
+      },
+      {
+        "text": "Everyone, including individual employees",
+        "score": 1
+      },
+      {
+        "text": "External auditors only",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Discrimination training helps employees:",
+    "answers": [
+      {
+        "text": "Learn how to avoid others",
+        "score": 0
+      },
+      {
+        "text": "Complain more",
+        "score": 0
+      },
+      {
+        "text": "Understand respectful conduct and equal treatment",
+        "score": 1
+      },
+      {
+        "text": "Get promoted",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "When should you speak up about a concern?",
+    "answers": [
+      {
+        "text": "Only after proof",
+        "score": 0
+      },
+      {
+        "text": "If you\u2019re told to",
+        "score": 0
+      },
+      {
+        "text": "When something feels wrong, even without full proof",
+        "score": 1
+      },
+      {
+        "text": "After others complain",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which behavior best supports compliance culture?",
+    "answers": [
+      {
+        "text": "Looking the other way",
+        "score": 0
+      },
+      {
+        "text": "Doing what works fastest",
+        "score": 0
+      },
+      {
+        "text": "Following policies and encouraging accountability",
+        "score": 1
+      },
+      {
+        "text": "Avoiding documentation",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Your company updates its privacy policy. What\u2019s your role?",
+    "answers": [
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Rely on someone else",
+        "score": 0
+      },
+      {
+        "text": "Review and understand how it affects your work",
+        "score": 1
+      },
+      {
+        "text": "Share it on social media",
+        "score": 0
+      }
+    ]
+  }
+]
