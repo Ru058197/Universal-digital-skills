@@ -1,7 +1,1 @@
-
-body { font-family: Arial; background: #f8f9fa; padding: 20px; }
-header { background: #003366; color: white; padding: 10px; text-align: center; }
-nav a { color: white; margin-left: 20px; text-decoration: none; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin: 20px 0; }
-button { padding: 10px; font-size: 14px; cursor: pointer; }
-.card { background: white; padding: 10px; border: 1px solid #ccc; border-radius: 5px; text-align: center; }
+/* CSS Placeholder */
