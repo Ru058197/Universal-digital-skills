@@ -4,19 +4,44 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Certivue Final Demo</title>
+  <title>Certivue Skills</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
-  <h1>Certivue Skills Demo</h1>
-  <div>
-    <button onclick="loadSkill('analytical')">Analytical</button>
-    <button onclick="loadSkill('conflict')">Conflict</button>
-    <button onclick="loadSkill('python')">Python</button>
-    <button onclick="loadSkill('delegation')">Delegation</button>
-    <button onclick="loadSkill('decision_making')">Decision Making</button>
-  </div>
-  <div id="quiz"></div>
-  <script src="main.js"></script>
+  <header>
+    <div class="logo">🔗 Certivue</div>
+    <nav>
+      <a href="#">Assessment</a>
+      <a href="#">Dashboard</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Universal Digital Skills Validation</h1>
+    <p class="subtitle">Select a skill category to start</p>
+
+    <section>
+      <h2>Behavioral Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-card"><i class="fas fa-people-group"></i><span>Delegation</span></div>
+        <div class="skill-card"><i class="fas fa-balance-scale"></i><span>Ethics</span></div>
+        <div class="skill-card"><i class="fas fa-comment-dots"></i><span>Communication</span></div>
+        <div class="skill-card"><i class="fas fa-clock"></i><span>Time Management</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Technical Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-card"><i class="fab fa-python"></i><span>Python</span></div>
+        <div class="skill-card"><i class="fab fa-js-square"></i><span>JavaScript</span></div>
+        <div class="skill-card"><i class="fas fa-database"></i><span>SQL</span></div>
+        <div class="skill-card"><i class="fas fa-shield-alt"></i><span>Cybersecurity</span></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>© 2025 Certivue</footer>
 </body>
 </html>
