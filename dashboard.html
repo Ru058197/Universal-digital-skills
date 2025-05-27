@@ -2,27 +2,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Certivue Dashboard</title>
+  <meta charset="UTF-8">
+  <title>Dashboard</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header>
-    <div class="logo">🔗 Certivue</div>
-    <nav>
-      <a href="index.html">Assessment</a>
-      <a href="dashboard.html">Dashboard</a>
-    </nav>
-  </header>
-
+  <header><h1>Dashboard</h1></header>
   <main>
-    <h1>Your Skill Assessment Results</h1>
-    <p class="subtitle">Below are your current scores by skill:</p>
-    <div id="dashboard-results" class="skills-grid"></div>
+    <div id="results" class="grid"></div>
   </main>
-
-  <footer>© 2025 Certivue</footer>
-  <script src="results.js"></script>
+  <script>
+    const skills = ["adaptability", "analytical", "communication", "compliance", "conflict", "delegation", "decision_making", "ethics", "influence", "customer_service", "leadership", "prioritization", "problem_solving", "project_management", "time_management", "workplace_judgment", "python", "javascript", "sql", "c++", "debugging", "cybersecurity", "data_literacy"];
+    const resultsDiv = document.getElementById('results');
+    skills.forEach(skill => {
+      const score = localStorage.getItem(skill) || 'Not Taken';
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.innerHTML = `<strong>${skill.replace(/_/g, ' ')}</strong><br>${score}`;
+      resultsDiv.appendChild(div);
+    });
+  </script>
 </body>
 </html>
