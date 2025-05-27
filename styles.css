@@ -1,83 +1,56 @@
 
 body {
-  font-family: 'Segoe UI', sans-serif;
   margin: 0;
-  padding: 0;
-  background: #f9f9f9;
-  color: #1a1a1a;
-}
-header {
-  background: #003366;
-  color: #fff;
-  padding: 1rem 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-header .logo {
-  font-weight: bold;
-}
-nav a {
-  color: #fff;
-  margin-left: 1rem;
-  text-decoration: none;
-}
-main {
-  padding: 2rem;
-  text-align: center;
-}
-h1 {
-  font-size: 2rem;
-  color: #003366;
-}
-h2 {
-  color: #003366;
-  margin-top: 2rem;
-}
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 1rem;
-  margin: 1rem auto 2rem;
-  max-width: 1000px;
-}
-button {
-  background: #fff;
-  border: 2px solid #ddd;
-  padding: 1rem;
-  border-radius: 1rem;
-  font-weight: bold;
-  font-size: 14px;
-  cursor: pointer;
-  transition: 0.3s ease;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-}
-button:hover {
-  border-color: #003366;
-  background: #eef6ff;
-}
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #eee;
-  font-size: 0.9rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  padding: 20px;
 }
 
-.summary-card {
-  border: 2px solid #ddd;
-  border-radius: 1rem;
-  padding: 1rem;
-  margin: 1rem auto;
-  max-width: 800px;
-  background: #f0f8ff;
-  text-align: left;
+header {
+  text-align: center;
+  padding: 10px 0 30px;
 }
-.grid button small {
-  display: block;
-  font-weight: normal;
-  font-size: 12px;
-  color: #444;
+
+h1 {
+  margin-bottom: 5px;
+  font-size: 2.5rem;
+  color: #2c3e50;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #6c757d;
+}
+
+.skill-section {
+  margin-bottom: 40px;
+}
+
+.skill-section h2 {
+  font-size: 1.5rem;
+  color: #495057;
+  margin-bottom: 15px;
+}
+
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.skill-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.skill-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
 }
