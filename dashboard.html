@@ -1,1 +1,23 @@
-<!DOCTYPE html><html><head><title>Dashboard</title></head><body><h1>Dashboard Placeholder</h1></body></html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Certivue Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Dashboard</h1>
+  <div class="grid" id="results"></div>
+  <script>
+    const skills = ["analytical","conflict","python","delegation","decision_making"];
+    const container = document.getElementById("results");
+    skills.forEach(skill => {
+      const score = localStorage.getItem(skill) || "Not Taken";
+      const card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML = `<strong>${skill}</strong><br>${score}`;
+      container.appendChild(card);
+    });
+  </script>
+</body>
+</html>

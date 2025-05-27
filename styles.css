@@ -1,1 +1,6 @@
-/* CSS Placeholder */
+
+body { font-family: Arial; background: #fff; padding: 20px; }
+h1 { color: #003366; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-bottom: 20px; }
+button { padding: 12px; font-size: 16px; border-radius: 5px; cursor: pointer; }
+.card { border: 1px solid #ccc; padding: 10px; background: #f9f9f9; border-radius: 6px; }
