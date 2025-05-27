@@ -1,105 +1,105 @@
 [
   {
-    "question": "You\u2019re faced with an ethical dilemma on a cross-functional team. What\u2019s your first move?",
+    "question": "Your direct report comes to you with a mistake they made. What\u2019s the right action?",
     "answers": [
       {
-        "text": "Escalate to HR",
+        "text": "Punish them",
         "score": 0
       },
       {
-        "text": "Make a decision alone",
-        "score": 0
-      },
-      {
-        "text": "Facilitate a team discussion with input",
+        "text": "Thank them for transparency and work on a fix",
         "score": 1
       },
       {
-        "text": "Choose what\u2019s easiest",
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Document it for future reviews",
         "score": 0
       }
     ]
   },
   {
-    "question": "A client is dissatisfied with your service. What's your response?",
+    "question": "You\u2019ve made a poor hiring decision and the person is underperforming. What\u2019s your next step?",
     "answers": [
       {
-        "text": "Blame client",
+        "text": "Let them go immediately",
         "score": 0
       },
       {
-        "text": "Listen and work on a resolution",
+        "text": "Coach them with clear feedback and timeline",
         "score": 1
       },
       {
-        "text": "Ignore complaints",
+        "text": "Ignore it",
         "score": 0
       },
       {
-        "text": "End the relationship",
+        "text": "Transfer them elsewhere",
         "score": 0
       }
     ]
   },
   {
-    "question": "Your team missed a major deadline. What is your immediate responsibility?",
+    "question": "You have to choose between a high-risk, high-reward option and a low-risk, stable option. How do you decide?",
     "answers": [
       {
-        "text": "Blame the team",
+        "text": "Flip a coin",
         "score": 0
       },
       {
-        "text": "Deflect accountability",
+        "text": "Choose the flashier one",
         "score": 0
       },
       {
-        "text": "Acknowledge the issue and initiate recovery steps",
+        "text": "Assess risk tolerance and business goals",
         "score": 1
       },
       {
-        "text": "Do nothing",
+        "text": "Pick based on popularity",
         "score": 0
       }
     ]
   },
   {
-    "question": "You notice a colleague consistently arriving late, affecting team productivity. What should you do?",
+    "question": "You're overwhelmed with tasks and can't meet all deadlines. How do you manage?",
     "answers": [
       {
-        "text": "Ignore the behavior",
+        "text": "Work overtime",
         "score": 0
       },
       {
-        "text": "Confront them publicly",
-        "score": 0
-      },
-      {
-        "text": "Privately discuss your observations and concerns with them",
+        "text": "Prioritize tasks and ask for help",
         "score": 1
       },
       {
-        "text": "Report them to HR",
+        "text": "Delay tasks indefinitely",
+        "score": 0
+      },
+      {
+        "text": "Avoid responsibility",
         "score": 0
       }
     ]
   },
   {
-    "question": "A new policy is unpopular among your team. How do you implement it?",
+    "question": "You receive an opportunity that benefits you personally but could disrupt the team. How do you handle it?",
     "answers": [
       {
-        "text": "Enforce strictly",
+        "text": "Take it quietly",
         "score": 0
       },
       {
-        "text": "Ignore the policy",
+        "text": "Reject it",
         "score": 0
       },
       {
-        "text": "Communicate and address concerns",
+        "text": "Evaluate openly with the team and manager",
         "score": 1
       },
       {
-        "text": "Encourage protest",
+        "text": "Ignore team impact",
         "score": 0
       }
     ]

@@ -1,85 +1,105 @@
 [
   {
-    "question": "What does `len([1,2,3])` return?",
+    "question": "Which symbol is used for comments in Python?",
     "answers": [
       {
-        "text": "3",
-        "score": 1
-      },
-      {
-        "text": "Error",
+        "text": "//",
         "score": 0
       },
       {
-        "text": "None",
+        "text": "#",
+        "score": 1
+      },
+      {
+        "text": "--",
+        "score": 0
+      },
+      {
+        "text": "/* */",
         "score": 0
       }
     ]
   },
   {
-    "question": "What does `len([1,2,3])` return?",
+    "question": "Which of the following is the correct way to define a tuple in Python?",
     "answers": [
       {
-        "text": "3",
-        "score": 1
-      },
-      {
-        "text": "Error",
+        "text": "{1, 2, 3}",
         "score": 0
       },
       {
-        "text": "None",
+        "text": "[1, 2, 3]",
+        "score": 0
+      },
+      {
+        "text": "(1, 2, 3)",
+        "score": 1
+      },
+      {
+        "text": "\"1, 2, 3\"",
         "score": 0
       }
     ]
   },
   {
-    "question": "What does `len([1,2,3])` return?",
+    "question": "What is the output of the following code?\n\nx = 5\ny = 2\nprint(x ** y)",
     "answers": [
       {
-        "text": "3",
-        "score": 1
-      },
-      {
-        "text": "Error",
+        "text": "10",
         "score": 0
       },
       {
-        "text": "None",
+        "text": "25",
+        "score": 1
+      },
+      {
+        "text": "7",
+        "score": 0
+      },
+      {
+        "text": "52",
         "score": 0
       }
     ]
   },
   {
-    "question": "What does `len([1,2,3])` return?",
+    "question": "What does the len() function do in Python?",
     "answers": [
       {
-        "text": "3",
+        "text": "Returns the length of a string",
         "score": 1
       },
       {
-        "text": "Error",
+        "text": "Converts a string to uppercase",
         "score": 0
       },
       {
-        "text": "None",
+        "text": "Checks if a value is equal to another",
+        "score": 0
+      },
+      {
+        "text": "Removes whitespace from a string",
         "score": 0
       }
     ]
   },
   {
-    "question": "What does `len([1,2,3])` return?",
+    "question": "Which keyword is used to exit from a loop in Python?",
     "answers": [
       {
-        "text": "3",
+        "text": "break",
         "score": 1
       },
       {
-        "text": "Error",
+        "text": "stop",
         "score": 0
       },
       {
-        "text": "None",
+        "text": "exit",
+        "score": 0
+      },
+      {
+        "text": "end",
         "score": 0
       }
     ]

@@ -1,47 +1,5 @@
 [
   {
-    "question": "A junior team member wants to try a stretch task. What\u2019s your response?",
-    "answers": [
-      {
-        "text": "Assign them a small piece with guidance",
-        "score": 1
-      },
-      {
-        "text": "Let them fail and learn",
-        "score": 0
-      },
-      {
-        "text": "Give it all to them with no input",
-        "score": 0
-      },
-      {
-        "text": "Say no immediately",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "Delegation is most successful when:",
-    "answers": [
-      {
-        "text": "You trust your team\u2019s judgment",
-        "score": 1
-      },
-      {
-        "text": "You withhold important details",
-        "score": 0
-      },
-      {
-        "text": "Deadlines are left open-ended",
-        "score": 0
-      },
-      {
-        "text": "You recheck everything yourself",
-        "score": 0
-      }
-    ]
-  },
-  {
     "question": "What\u2019s one way to boost confidence when delegating?",
     "answers": [
       {
@@ -63,43 +21,85 @@
     ]
   },
   {
-    "question": "Delegation fails most when:",
+    "question": "Delegation helps grow others by:",
     "answers": [
       {
-        "text": "The person has too much support",
+        "text": "Making them compete",
         "score": 0
       },
       {
-        "text": "Expectations are unclear",
+        "text": "Assigning blame",
+        "score": 0
+      },
+      {
+        "text": "Letting them build new skills",
         "score": 1
       },
       {
-        "text": "They ask questions",
-        "score": 0
-      },
-      {
-        "text": "You celebrate small wins",
+        "text": "Avoiding feedback",
         "score": 0
       }
     ]
   },
   {
-    "question": "Delegation is LEAST effective when:",
+    "question": "Which of the following is a poor delegation practice?",
     "answers": [
       {
-        "text": "The person has no authority",
+        "text": "Matching the task to the person\u2019s skills",
+        "score": 0
+      },
+      {
+        "text": "Providing clear deadlines",
+        "score": 0
+      },
+      {
+        "text": "Assigning without explanation",
         "score": 1
       },
       {
-        "text": "Expectations are clearly set",
+        "text": "Following up on progress",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "When assigning a task, what builds ownership?",
+    "answers": [
+      {
+        "text": "Making them guess the outcome",
         "score": 0
       },
       {
-        "text": "Feedback is encouraged",
+        "text": "Assigning and walking away",
         "score": 0
       },
       {
-        "text": "They\u2019re empowered",
+        "text": "Explaining purpose and impact",
+        "score": 1
+      },
+      {
+        "text": "Rewriting their work later",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Why might someone resist delegation?",
+    "answers": [
+      {
+        "text": "They want to empower others",
+        "score": 0
+      },
+      {
+        "text": "They fear loss of control",
+        "score": 1
+      },
+      {
+        "text": "They dislike communication",
+        "score": 0
+      },
+      {
+        "text": "They like collaboration",
         "score": 0
       }
     ]
