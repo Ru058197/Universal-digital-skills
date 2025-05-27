@@ -1,0 +1,87 @@
+[
+  {
+    "question": "You see a data anomaly in a report. What do you do?",
+    "answers": [
+      {
+        "text": "Investigate further",
+        "score": 1
+      },
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Ask someone else to look",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You see a data anomaly in a report. What do you do?",
+    "answers": [
+      {
+        "text": "Investigate further",
+        "score": 1
+      },
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Ask someone else to look",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You see a data anomaly in a report. What do you do?",
+    "answers": [
+      {
+        "text": "Investigate further",
+        "score": 1
+      },
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Ask someone else to look",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You see a data anomaly in a report. What do you do?",
+    "answers": [
+      {
+        "text": "Investigate further",
+        "score": 1
+      },
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Ask someone else to look",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "You see a data anomaly in a report. What do you do?",
+    "answers": [
+      {
+        "text": "Investigate further",
+        "score": 1
+      },
+      {
+        "text": "Ignore it",
+        "score": 0
+      },
+      {
+        "text": "Ask someone else to look",
+        "score": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Which keyword declares a block-scoped variable?",
+    "answers": [
+      {
+        "text": "`let`",
+        "score": 1
+      },
+      {
+        "text": "`var`",
+        "score": 0
+      },
+      {
+        "text": "`define`",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which keyword declares a block-scoped variable?",
+    "answers": [
+      {
+        "text": "`let`",
+        "score": 1
+      },
+      {
+        "text": "`var`",
+        "score": 0
+      },
+      {
+        "text": "`define`",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which keyword declares a block-scoped variable?",
+    "answers": [
+      {
+        "text": "`let`",
+        "score": 1
+      },
+      {
+        "text": "`var`",
+        "score": 0
+      },
+      {
+        "text": "`define`",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which keyword declares a block-scoped variable?",
+    "answers": [
+      {
+        "text": "`let`",
+        "score": 1
+      },
+      {
+        "text": "`var`",
+        "score": 0
+      },
+      {
+        "text": "`define`",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which keyword declares a block-scoped variable?",
+    "answers": [
+      {
+        "text": "`let`",
+        "score": 1
+      },
+      {
+        "text": "`var`",
+        "score": 0
+      },
+      {
+        "text": "`define`",
+        "score": 0
+      }
+    ]
+  }
+]

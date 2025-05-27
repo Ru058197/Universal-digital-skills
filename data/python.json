@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What does `len([1,2,3])` return?",
+    "answers": [
+      {
+        "text": "3",
+        "score": 1
+      },
+      {
+        "text": "Error",
+        "score": 0
+      },
+      {
+        "text": "None",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does `len([1,2,3])` return?",
+    "answers": [
+      {
+        "text": "3",
+        "score": 1
+      },
+      {
+        "text": "Error",
+        "score": 0
+      },
+      {
+        "text": "None",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does `len([1,2,3])` return?",
+    "answers": [
+      {
+        "text": "3",
+        "score": 1
+      },
+      {
+        "text": "Error",
+        "score": 0
+      },
+      {
+        "text": "None",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does `len([1,2,3])` return?",
+    "answers": [
+      {
+        "text": "3",
+        "score": 1
+      },
+      {
+        "text": "Error",
+        "score": 0
+      },
+      {
+        "text": "None",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What does `len([1,2,3])` return?",
+    "answers": [
+      {
+        "text": "3",
+        "score": 1
+      },
+      {
+        "text": "Error",
+        "score": 0
+      },
+      {
+        "text": "None",
+        "score": 0
+      }
+    ]
+  }
+]

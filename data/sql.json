@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Which clause filters records?",
+    "answers": [
+      {
+        "text": "WHERE",
+        "score": 1
+      },
+      {
+        "text": "SELECT",
+        "score": 0
+      },
+      {
+        "text": "GROUP BY",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which clause filters records?",
+    "answers": [
+      {
+        "text": "WHERE",
+        "score": 1
+      },
+      {
+        "text": "SELECT",
+        "score": 0
+      },
+      {
+        "text": "GROUP BY",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which clause filters records?",
+    "answers": [
+      {
+        "text": "WHERE",
+        "score": 1
+      },
+      {
+        "text": "SELECT",
+        "score": 0
+      },
+      {
+        "text": "GROUP BY",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which clause filters records?",
+    "answers": [
+      {
+        "text": "WHERE",
+        "score": 1
+      },
+      {
+        "text": "SELECT",
+        "score": 0
+      },
+      {
+        "text": "GROUP BY",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Which clause filters records?",
+    "answers": [
+      {
+        "text": "WHERE",
+        "score": 1
+      },
+      {
+        "text": "SELECT",
+        "score": 0
+      },
+      {
+        "text": "GROUP BY",
+        "score": 0
+      }
+    ]
+  }
+]
