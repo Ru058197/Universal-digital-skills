@@ -1,42 +1,63 @@
 [
   {
-    "question": "You're leading a project, and a team member consistently misses deadlines. What do you do?",
+    "question": "You're offered a promotion that requires relocating, but your family is hesitant. What is your approach?",
     "answers": [
       {
-        "text": "Reassign their tasks",
+        "text": "Accept immediately",
         "score": 0
       },
       {
-        "text": "Reprimand publicly",
+        "text": "Decline offer",
         "score": 0
       },
       {
-        "text": "Have a private conversation",
+        "text": "Discuss with your family",
         "score": 1
       },
       {
-        "text": "Ignore it",
+        "text": "Accept and hope they adjust",
         "score": 0
       }
     ]
   },
   {
-    "question": "You see a peer falsify a timesheet. What\u2019s the most ethical choice?",
+    "question": "You notice a colleague consistently arriving late, affecting team productivity. What should you do?",
     "answers": [
       {
-        "text": "Ignore it",
+        "text": "Ignore the behavior",
         "score": 0
       },
       {
-        "text": "Confront them aggressively",
+        "text": "Confront them publicly",
         "score": 0
       },
       {
-        "text": "Report it to the appropriate authority",
+        "text": "Privately discuss your observations and concerns with them",
         "score": 1
       },
       {
-        "text": "Mention it to others",
+        "text": "Report them to HR",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Two team members are in conflict, affecting the team's morale. How do you handle it?",
+    "answers": [
+      {
+        "text": "Take sides",
+        "score": 0
+      },
+      {
+        "text": "Ignore the situation",
+        "score": 0
+      },
+      {
+        "text": "Facilitate a mediated discussion",
+        "score": 1
+      },
+      {
+        "text": "Report both to management",
         "score": 0
       }
     ]
@@ -63,43 +84,22 @@
     ]
   },
   {
-    "question": "Your department budget has been cut. How do you approach resource allocation?",
+    "question": "You have to choose between a high-risk, high-reward option and a low-risk, stable option. How do you decide?",
     "answers": [
       {
-        "text": "Cut everyone\u2019s resources equally",
+        "text": "Flip a coin",
         "score": 0
       },
       {
-        "text": "Only fund favorites",
+        "text": "Choose the flashier one",
         "score": 0
       },
       {
-        "text": "Review priorities and reallocate strategically",
+        "text": "Assess risk tolerance and business goals",
         "score": 1
       },
       {
-        "text": "Pause all initiatives",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "You\u2019ve made a poor hiring decision and the person is underperforming. What\u2019s your next step?",
-    "answers": [
-      {
-        "text": "Let them go immediately",
-        "score": 0
-      },
-      {
-        "text": "Coach them with clear feedback and timeline",
-        "score": 1
-      },
-      {
-        "text": "Ignore it",
-        "score": 0
-      },
-      {
-        "text": "Transfer them elsewhere",
+        "text": "Pick based on popularity",
         "score": 0
       }
     ]

@@ -1,63 +1,42 @@
 [
   {
-    "question": "What is the output of the following code?\n\nx = 5\ny = 2\nprint(x ** y)",
+    "question": "Which keyword is used to exit from a loop in Python?",
     "answers": [
       {
-        "text": "10",
-        "score": 0
-      },
-      {
-        "text": "25",
+        "text": "break",
         "score": 1
       },
       {
-        "text": "7",
+        "text": "stop",
         "score": 0
       },
       {
-        "text": "52",
+        "text": "exit",
+        "score": 0
+      },
+      {
+        "text": "end",
         "score": 0
       }
     ]
   },
   {
-    "question": "What will be the output of the following code?\n\nprint(7 % 2)",
+    "question": "Which of the following is the correct way to define a tuple in Python?",
     "answers": [
       {
-        "text": "0",
+        "text": "{1, 2, 3}",
         "score": 0
       },
       {
-        "text": "1",
+        "text": "[1, 2, 3]",
+        "score": 0
+      },
+      {
+        "text": "(1, 2, 3)",
         "score": 1
       },
       {
-        "text": "2",
-        "score": 0
-      },
-      {
-        "text": "3",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What is the correct way to check if a key exists in a dictionary in Python?",
-    "answers": [
-      {
-        "text": "key in dictionary",
-        "score": 1
-      },
-      {
-        "text": "dictionary.contains(key)",
-        "score": 0
-      },
-      {
-        "text": "dictionary[key]",
-        "score": 0
-      },
-      {
-        "text": "dictionary.get(key)",
+        "text": "\"1, 2, 3\"",
         "score": 0
       }
     ]
@@ -84,22 +63,43 @@
     ]
   },
   {
-    "question": "Which of the following is a valid relational operator in Python?",
+    "question": "What is the output of the following code?\n\nx = \"hello\"\nprint(x.capitalize())",
     "answers": [
       {
-        "text": "<>",
+        "text": "hello",
         "score": 0
       },
       {
-        "text": "!=",
+        "text": "Hello",
         "score": 1
       },
       {
-        "text": "^=",
+        "text": "HELLO",
         "score": 0
       },
       {
-        "text": "&&",
+        "text": "HEllo",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "What is the correct way to define a list in Python?",
+    "answers": [
+      {
+        "text": "[1, 2, 3]",
+        "score": 1
+      },
+      {
+        "text": "{1, 2, 3}",
+        "score": 0
+      },
+      {
+        "text": "(1, 2, 3)",
+        "score": 0
+      },
+      {
+        "text": "\"1, 2, 3\"",
         "score": 0
       }
     ]

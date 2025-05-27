@@ -1,105 +1,105 @@
 [
   {
-    "question": "An employee struggles with a new delegated task. What\u2019s your first move?",
+    "question": "Delegation fails most when:",
     "answers": [
       {
-        "text": "Take it back immediately",
+        "text": "The person has too much support",
         "score": 0
       },
       {
-        "text": "Ask what\u2019s unclear and offer support",
+        "text": "Expectations are unclear",
         "score": 1
       },
       {
-        "text": "Assign it to someone else",
+        "text": "They ask questions",
         "score": 0
       },
       {
-        "text": "Extend the deadline quietly",
+        "text": "You celebrate small wins",
         "score": 0
       }
     ]
   },
   {
-    "question": "Delegation is LEAST effective when:",
+    "question": "When assigning a task, what builds ownership?",
     "answers": [
       {
-        "text": "The person has no authority",
+        "text": "Making them guess the outcome",
+        "score": 0
+      },
+      {
+        "text": "Assigning and walking away",
+        "score": 0
+      },
+      {
+        "text": "Explaining purpose and impact",
         "score": 1
       },
       {
-        "text": "Expectations are clearly set",
-        "score": 0
-      },
-      {
-        "text": "Feedback is encouraged",
-        "score": 0
-      },
-      {
-        "text": "They\u2019re empowered",
+        "text": "Rewriting their work later",
         "score": 0
       }
     ]
   },
   {
-    "question": "Delegation is most successful when:",
+    "question": "A manager has too many tasks and a tight deadline. What is the best first step in delegating?",
     "answers": [
       {
-        "text": "You trust your team\u2019s judgment",
+        "text": "Assign the easiest task to the newest employee",
+        "score": 0
+      },
+      {
+        "text": "Complete the work alone",
+        "score": 0
+      },
+      {
+        "text": "Evaluate the team\u2019s capacity and strengths",
         "score": 1
       },
       {
-        "text": "You withhold important details",
-        "score": 0
-      },
-      {
-        "text": "Deadlines are left open-ended",
-        "score": 0
-      },
-      {
-        "text": "You recheck everything yourself",
+        "text": "Outsource everything",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which of these tasks should a leader delegate?",
+    "question": "The ideal outcome of good delegation is:",
     "answers": [
       {
-        "text": "Setting vision",
+        "text": "More free time for the manager",
         "score": 0
       },
       {
-        "text": "Final hiring decisions",
-        "score": 0
-      },
-      {
-        "text": "Routine report generation",
+        "text": "Employee development and shared success",
         "score": 1
       },
       {
-        "text": "Establishing strategy",
+        "text": "Blame shifting",
+        "score": 0
+      },
+      {
+        "text": "Less work for everyone",
         "score": 0
       }
     ]
   },
   {
-    "question": "Why is delegation important in leadership?",
+    "question": "If you never delegate because no one can do it as well, what\u2019s the risk?",
     "answers": [
       {
-        "text": "It avoids accountability",
+        "text": "Improved quality",
         "score": 0
       },
       {
-        "text": "It reduces communication needs",
+        "text": "Greater speed",
         "score": 0
       },
       {
-        "text": "It builds team capability and efficiency",
+        "text": "Burnout and team stagnation",
         "score": 1
       },
       {
-        "text": "It lets you avoid work",
+        "text": "More loyalty",
         "score": 0
       }
     ]

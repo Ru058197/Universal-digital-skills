@@ -1,105 +1,105 @@
 [
   {
-    "question": "Which number is divisible by both 3 and 5?",
+    "question": "If a baker bakes 3 cakes in 1 hour, how many cakes can they bake in 5 hours?",
     "answers": [
+      {
+        "text": "5",
+        "score": 0
+      },
+      {
+        "text": "10",
+        "score": 0
+      },
       {
         "text": "15",
         "score": 1
-      },
-      {
-        "text": "18",
-        "score": 0
       },
       {
         "text": "20",
         "score": 0
+      }
+    ]
+  },
+  {
+    "question": "If all Wibbles are Wobbles, and some Wobbles are Wubbles, then:",
+    "answers": [
+      {
+        "text": "All Wibbles are Wubbles",
+        "score": 0
       },
       {
-        "text": "22",
+        "text": "Some Wibbles are Wubbles",
+        "score": 0
+      },
+      {
+        "text": "Some Wubbles are Wibbles",
+        "score": 0
+      },
+      {
+        "text": "Cannot be determined",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "question": "If the first day of a month is a Sunday, what day of the week is the 8th?",
+    "answers": [
+      {
+        "text": "Monday",
+        "score": 0
+      },
+      {
+        "text": "Tuesday",
+        "score": 0
+      },
+      {
+        "text": "Sunday",
+        "score": 1
+      },
+      {
+        "text": "Saturday",
         "score": 0
       }
     ]
   },
   {
-    "question": "A rectangle has a length of 10 units and a width of 5 units. What is its area?",
+    "question": "If a shirt originally costs $80 and is marked down by 25%, what is the sale price?",
     "answers": [
       {
-        "text": "15",
+        "text": "$55",
         "score": 0
       },
       {
-        "text": "30",
-        "score": 0
-      },
-      {
-        "text": "50",
+        "text": "$60",
         "score": 1
       },
       {
-        "text": "60",
+        "text": "$65",
+        "score": 0
+      },
+      {
+        "text": "$70",
         "score": 0
       }
     ]
   },
   {
-    "question": "Which number is next in the series: 5, 10, 20, 40, ?",
+    "question": "Which number completes the analogy: 2 is to 4 as 3 is to ?",
     "answers": [
       {
-        "text": "60",
+        "text": "5",
         "score": 0
       },
       {
-        "text": "70",
-        "score": 0
-      },
-      {
-        "text": "80",
+        "text": "6",
         "score": 1
       },
       {
-        "text": "100",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
-    "answers": [
-      {
-        "text": "18",
+        "text": "7",
         "score": 0
       },
       {
-        "text": "24",
-        "score": 0
-      },
-      {
-        "text": "32",
-        "score": 1
-      },
-      {
-        "text": "64",
-        "score": 0
-      }
-    ]
-  },
-  {
-    "question": "A book costs $12. If you buy 4 books, how much will it cost?",
-    "answers": [
-      {
-        "text": "$48",
-        "score": 1
-      },
-      {
-        "text": "$44",
-        "score": 0
-      },
-      {
-        "text": "$40",
-        "score": 0
-      },
-      {
-        "text": "$36",
+        "text": "8",
         "score": 0
       }
     ]

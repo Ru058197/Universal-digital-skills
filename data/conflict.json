@@ -1,105 +1,105 @@
 [
   {
-    "question": "You feel defensive in a feedback conversation. What helps keep it productive?",
+    "question": "Two teammates are arguing over a project direction. What should you do first?",
     "answers": [
       {
-        "text": "Change the topic",
+        "text": "Ignore them",
         "score": 0
       },
       {
-        "text": "Interrupt and explain yourself",
+        "text": "Tell them to figure it out later",
         "score": 0
       },
       {
-        "text": "Take a breath and focus on listening",
+        "text": "Help mediate a calm discussion to clarify perspectives",
         "score": 1
       },
       {
-        "text": "Discredit the feedback",
+        "text": "Choose a side immediately",
         "score": 0
       }
     ]
   },
   {
-    "question": "You receive feedback you disagree with. What\u2019s a good first step?",
+    "question": "What role does curiosity play in resolving conflict?",
     "answers": [
       {
-        "text": "Dismiss it entirely",
+        "text": "It makes things worse",
         "score": 0
       },
       {
-        "text": "Defend yourself immediately",
+        "text": "It delays resolution",
         "score": 0
       },
       {
-        "text": "Listen fully and ask clarifying questions",
+        "text": "It helps you understand root causes",
         "score": 1
       },
       {
-        "text": "Avoid the topic",
+        "text": "It weakens your argument",
         "score": 0
       }
     ]
   },
   {
-    "question": "How should you respond when someone accuses you unfairly?",
+    "question": "Which skill supports productive conflict resolution?",
     "answers": [
       {
-        "text": "Retaliate immediately",
+        "text": "Defensiveness",
         "score": 0
       },
       {
-        "text": "Stay silent forever",
-        "score": 0
-      },
-      {
-        "text": "Acknowledge the concern and calmly share your side",
+        "text": "Listening and reframing",
         "score": 1
       },
       {
-        "text": "Insult them back",
+        "text": "Avoidance",
+        "score": 0
+      },
+      {
+        "text": "Perfectionism",
         "score": 0
       }
     ]
   },
   {
-    "question": "A coworker repeatedly interrupts you in meetings. What\u2019s a constructive approach?",
+    "question": "In conflict, why is it important to separate intent from impact?",
     "answers": [
       {
-        "text": "Interrupt them back",
+        "text": "So you can judge faster",
         "score": 0
       },
       {
-        "text": "Complain to the entire team",
+        "text": "Because it makes feedback easier",
         "score": 0
       },
       {
-        "text": "Have a respectful conversation after the meeting",
+        "text": "To understand how actions are perceived regardless of intent",
         "score": 1
       },
       {
-        "text": "Ignore them permanently",
+        "text": "It doesn\u2019t matter",
         "score": 0
       }
     ]
   },
   {
-    "question": "Your manager intervenes in a conflict but takes only one side. What should you do?",
+    "question": "Someone reacts emotionally to a small issue. What might be behind it?",
     "answers": [
       {
-        "text": "Stay quiet",
+        "text": "They are unstable",
         "score": 0
       },
       {
-        "text": "Undermine the decision",
+        "text": "They just want attention",
         "score": 0
       },
       {
-        "text": "Request a one-on-one to share your perspective",
+        "text": "There may be a deeper unresolved concern",
         "score": 1
       },
       {
-        "text": "Complain to others",
+        "text": "They always react like that",
         "score": 0
       }
     ]
